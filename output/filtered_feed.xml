@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-11 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-12 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -7809,7 +7809,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький трудівничок. Трудове навчання 1 клас " запропоновано творчі завдання з трудового навчання (дизайну і технологій), розроблені відповідно до Типових освітніх програм МОН України (О.  Савченко та Р. Шияна) для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>62</quantity_in_stock>
+<quantity_in_stock>61</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -7831,7 +7831,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький художник. Образотворче мистецтво 1 клас (до підручника Масол) " запропоновано творчі завдання з образотворчого мистецтва, розроблені відповідно до Типових освітніх програм МОН України до пiдручника Т. Масол за програмами О. Савченко и Р. Шияна для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>64</quantity_in_stock>
+<quantity_in_stock>63</quantity_in_stock>
 <param name="Автор">Чернявська Т., Демчак С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -11428,7 +11428,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Книга "Математика. Тести 2 клас", яку ви тримаєте в руках, допоможе учням початкових класів якнайшвидше підготуватися до моніторингу знань у початковій школі та до державної підсумкової атестації (ДПА). Книга містить увесь необхідний довідковий матеріал за програмою Міністерства освіти і науки України для початкової школи з математики. Дитина закріпить знання з усіх основних тем: додавання та віднімання з переходом через розряд, множення та ділення, невідомий компонент арифметичних дій, а також величини, задачі та геометричний матеріал.  До кожної теми пропонується підготовка до тестування, що дасть змогу додатково потренуватися та звикнути до нової форми роботи. Тож, перейшовши до виконання тестів, дитина легко впорається з ними.   Виконуючи тестові завдання, учень швидко поновить у пам'яті вивчене на шкільних уроках, навчиться зіставляти правильні та неправильні відповіді, аналізувати поставлені запитання, добирати єдину правильну відповідь з кількох варіантів. Окрім тестових, книга містить завдання відкритої форми та творчі вправи, що не дадуть занудьгувати під час заняття. Рекомендуємо виконувати вправи з цієї книги паралельно із проходженням шкільної програми або для закріплення здобутих знань під час канікул.   Бажаємо вдалого та приємного навчання й успішного складання підсумкової атестації!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Сікора Ю.О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -12215,7 +12215,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В альбомі-посібнику "НУШ. Альбом-посібник Маленький трудівничок. Дизайн і технології 2 клас  " запропоновано творчі завдання з дизайну та технологій, розроблені відповідно до Типових освітніх програм МОН України (О. Савченко та Р. Шияна) для 2 класу, спрямовані на розвиток універсальних творчих якостей та сенсорних здібностей учнів.       Для учнів другого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -12444,28 +12444,7 @@
 <param name="Формат, розмір">205х260 мм.</param>
 <param name="Видавництво">Ранок</param></offer>
 
-<offer id="25363" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Українська мова та читання 2 клас: Робочий зошит до підручника Пономарьової Комплект</name>
-<vendorCode>9786170956217</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-ukrainska-mova-ta-chytannia-2-klas-robochyi-zoshyt-do-pidruchnyka-ponomarovoi-komplekt/</url>
-<currencyId>UAH</currencyId>
-<categoryId>9</categoryId>
-<price>180</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25363/nush_ukra_nska_mova_ta_chitannya_2_klas_robochiy_zoshit_do_pidruchnika_ponomarovo_komplekt.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Посібник "НУШ. Українська мова та читання 2 клас: Робочий зошит до підручника Пономарьової  " створено відповідно до Державного стандарту початкової освіти та Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Зошит є складовою навчально-методичного комплекту «Українська мова та читання. 2 клас».   Матеріал посібника спрямований на вдосконалення та закріплення знань і вмінь здобувачів освіти. Зошит містить різнорівневі завдання, вправи для роботи в парі, мовні ігри, загадки тощо.    Завдання рубрики «Перевір себе!» після кожного розділу зошита сприяють повторенню, систематизації та контролю навчальних досягнень другокласників. QR-коди, розташовані на сторінках посібника, містять додатковий матеріал для опрацювання у вигляді схем і таблиць.   Призначено для учнів 2 класу закладів загальної середньої освіти, учителів початкових класів.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Автор">Царевська Н.І.</param>
-<param name="Мова">українська</param>
-<param name="Вік">2 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64+64</param>
-<param name="Тип паперу">двоколірна</param>
-<param name="ISBN">9786170956217</param>
-<param name="Формат, розмір">170х215 мм.</param>
-<param name="Видавництво">Ранок</param></offer>
+
 
 
 <offer id="25366" available="true" in_stock="true" selling_type="r" >
@@ -13007,7 +12986,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику "НУШ. Маленький художник : альбом-посібник з образотворчого мистецтва 2 клас (Масол)  "  запропоновано репродуктивно-творчі та художньо-творчі завдання і вправи для уроків образотворчого мистецтва в 2 класі, розроблені відповідно до підручника Л. Масол та ін. «Мистецтво. 2 клас» й спрямовані на розвиток універсальних художньо-творчих якостей і сенсорних здібностей учнів.      Для учнів 2 класу, учителів початкових класів, учителів образотворчого мистецтва, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>85</quantity_in_stock>
 <param name="Автор">Демчак С.,Чернявська Т.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -13512,7 +13491,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ. Альбом Генеза Я досліджую світ Технологічна освітня галузь 2 клас (Гільберг) 2024 рік     Автори: Гільберг Т.Г., Тарнавська С.С., Павич Н.   Гриф Міністерства освіти: Схвалено для використання в освітніх навчальних закладах   Будуємо алгоритми дій, моделюємо ситуації, встановлюємо відповідності;   Занурюємося в інформаційне середовище.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>86</quantity_in_stock>
 <param name="Автор">Гільберг Т.Г., Тарнавська С.С., Павич Н.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -13716,7 +13695,7 @@
 <offer id="25510" available="true" in_stock="true" selling_type="r" >
 <name>НУШ. Дидакта. Українська мова та читання 2 клас: Відривні картки до підручника Пономарьової</name>
 <vendorCode>9786170957061</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-dydakta-ukrainska-mova-ta-chytannia-2-klas-vidryvni-kartky-do-pidruchnyka-ponomarovoi/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-dydakta-ukrainska-mova-ta-chytannia-2-klas-vidryvni-kartky-do-pidruchnyka-ponomarovoi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>9</categoryId>
 <price>70</price>
@@ -13724,7 +13703,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Посібник "НУШ. Дидакта. Українська мова та читання 2 клас: Відривні картки до підручника Пономарьової  "  складено відповідно до Типової освітньої програми, розробленої під керівництвом о. Я. Савченко, і підручника «Українська мова та читання. 2 клас. Частина 1» (Катерини Пономарьової, олександри Савченко).   Відривні картки призначені для організації самостійної роботи здобувачів освіти на уроках, мета якої — перевірити засвоєння вивченого матеріалу. Завдання дібрані таким чином, аби на їх виконання учні витрачали не більше 7–10 хвилин. Другокласники мають можливість здійснити самооцінку, домалювавши казковому персонажу — Соняшнику, відповідний вираз «обличчя». Призначений для учнів 2 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Голосна С.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -15136,7 +15115,7 @@
 <vendor>Торсінг</vendor>
 <description>
 <![CDATA[Посібник "    НУШ. Математичний тренажер 2 клас. Вправи на множення та ділення   "  містить приклади з множення та ділення за програмою Нової української школи  для другого класа.   Мета цієї тренувальної зошити - навчити школяра обчислювати швидко і, перш за все, правильно. Завдання розміщені з поступовим ускладненням. Тренування слід проводити без перевантажень, не більше 5 хвилин на стовпчик, там, де присутні у висловах два дії - близько 10 хвилин. Після виконання всіх вправ в колонці, можна оцінити свої досягнення.          Для учнів 2 класу, вчителів початкової школи та батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Аллина О.Г.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -15588,7 +15567,7 @@
 <vendor>Час Майстрів</vendor>
 <description>
 <![CDATA[У посібнику " НУШ. Математика 2 клас: Навчальний посібник 3000 вправ і завдань   "  подано завдання з математики для відпрацювання обчислювальних навичок учнів 2 класу. Робота над матеріалом посібника дає можливості довести практичні навички дітей із обчислювання до автоматизму.    Посібник складений згідно з новою Програмою для 1-4 класів середньої загальноосвітньої школи та може використовуватися вчителями і як тренувальний, і як контрольний зошит. Матеріал, вміщений у ньому, можна застосовувати для індивідуальної і фронтальної роботи, для словникових диктантів та роботи вдома.   Гриф Міністерства освіти: Схвалено для використання в загальноосвітніх навчальних закладах    Для учнів другого класу закладів загальної середньої освіти, гімназій, а також для вчителів, методистів і батьків.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>999</quantity_in_stock>
 <param name="Автор">Яцина В.М.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -19458,7 +19437,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Дані тренажери стануть справжніми помічниками учнів 1-4 класів завдяки вдалому поєднанні правил, прикладів, схем, вправ i творчих завдань. Вони сприятимуть розширенню знань з математики, української та англійської мов. Видання відповідають діючі програмою Нової Української школи початкової школи.  Тренажер з англійської мови підготовлений відповідно до чинної програми МОН України для початкової школи. Систематизовано і представлений в оригінальному форматі матеріал курсу 1 класу дозволяє підготуватися до контрольних і самостійних робіт, поглибити знання, закріпити практичні вміння та навички за допомогою вправ різних типів. Сучасне оформлення та наочна форма подання матеріалу роблять роботу з книгою легкої та зручною. Видання розраховане на учнів 2 класу загальноосвітніх шкіл, вчителів та батьків молодших школярів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Зиновьева Л. А.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">2 класс</param>
@@ -19767,7 +19746,7 @@
 <offer id="26257" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Тренажер Підручники і посібники Математика 4 клас Частина 2</name>
 <vendorCode>9789660738959</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-trenazher-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-2/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-trenazher-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-2/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>90</price>
@@ -19775,7 +19754,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Посібник "НУШ. Тренажер з математики. 4 клас. Частина 2" укладено відповідно до Типових освітніх програм (за редакцією О. Савченко, за редакцією Р. Шияна) для закладів загальної середньої освіти. Він сприятиме поглибленню знань учнів, розвитку їхньої математичної компетентності. Призначений для вироблення вмінь і навичок учнів під час виконання програмових математичних завдань.Для учнів 4 класу та вчителів, вихователів груп продовженого дня, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -19792,7 +19771,7 @@
 <offer id="26258" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Тренажер Підручники і посібники Математика 4 клас Частина 1</name>
 <vendorCode>9789660738942</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-trenazher-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-trenazher-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>90</price>
@@ -19800,7 +19779,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Посібник "НУШ. Тренажер з математики. 4 клас. Частина 1" укладено відповідно до Типових освітніх програм (за редакцією О. Савченко, за редакцією Р. Шияна) для закладів загальної середньої освіти. Він сприятиме поглибленню знань учнів, розвитку їхньої математичної компетентності. Призначений для вироблення вмінь і навичок учнів під час виконання програмових математичних завдань.Для учнів 4 класу та вчителів, вихователів груп продовженого дня, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -19889,56 +19868,8 @@
 <param name="ISBN">9789660738539</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="26263" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 1 до підручника Жаркової (2025 рік)</name>
-<vendorCode>9789660738775</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-1-do-pidruchnyka-zharkovoi-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26263/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_1_do_pidruchnika_zharkovo_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 класу. Частина 1 (до підручника І. Жаркової та ін.)Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника І. Жаркової, Л. Мечник, Л. Роговської «Я досліджую світ. 4 клас. Частина 1».Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Жаркова I., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660738775</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="26264" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 2 до підручника Жаркової (2025 рік)</name>
-<vendorCode>9789660738782</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-2-do-pidruchnyka-zharkovoi-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26264/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_2_do_pidruchnika_zharkovo_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 класу. Частина 2 (до підручника І. Жаркової та ін.)Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника І. Жаркової, Л. Мечник, Л. Роговської «Я досліджую світ. 4 клас. Частина 2».Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Жаркова I., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660738782</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
 <offer id="26265" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностичні роботи Пiдручники i посiбники Я досліджую світ 4 клас до підручника Жаркової</name>
 <vendorCode>9789660738997</vendorCode>
@@ -21817,56 +21748,8 @@
 <param name="Видавництво">Основа</param></offer>
 
 
-<offer id="26382" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 1 до підручника Гільберг (2025 рік)</name>
-<vendorCode>9789660739192</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-1-do-pidruchnyka-hilberh-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>70</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26382/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_1_do_pidruchnika_gilberg_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 клас. Частина 1 (до підручника Т. Гільберг) 2025 рікРобочий зошит укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко й підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): Частина 1 / Тетяна Гільберг, Світлана Тарнавська, Лариса Грубіян, Ніна Павич. – Київ : Генеза, 2021.  Зошит містить завдання для формування предметних компетентностей, на відтворення та закріплення знань, творчі вправи, практичні роботи і дослідницькі завдання.    Для учнів 3 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова I., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739192</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="26383" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 2 до підручника Гільберг (2025 рік)</name>
-<vendorCode>9789660739208</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-2-do-pidruchnyka-hilberh-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>70</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26383/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_2_do_pidruchnika_gilberg_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 клас. Частина 1 (до підручника Т. Гільберг) 2025 рікРобочий зошит укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко й підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): Частина 2 / Тетяна Гільберг, Світлана Тарнавська, Лариса Грубіян, Ніна Павич. – Київ : Генеза, 2021.  Зошит містить завдання для формування предметних компетентностей, на відтворення та закріплення знань, творчі вправи, практичні роботи і дослідницькі завдання.    Для учнів 3 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова I., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739208</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
 <offer id="26385" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Я відмінник УЛА Контрольне списування 1 клас</name>
 <vendorCode>9789662848632</vendorCode>
@@ -24417,7 +24300,7 @@
 <offer id="26694" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Підручники і посібники Математика 4 клас частина 1 до підручника Заїки</name>
 <vendorCode>9789660739369</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1-do-pidruchnyka-zaiky/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1-do-pidruchnyka-zaiky/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>90</price>
@@ -24425,7 +24308,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[НУШ Робочий зошит. Математика 4 клас частина 1 (до підручника А. Заїки).  Пропонований зошит з друкованою основою відповідає змісту підручника А. Заїки, С. Тарнавської «Математика. 4 клас. — Тернопіль: Підручники і посібники, 2021».    Для учнів 4 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Заїка А., Тарнавська С.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -24777,56 +24660,8 @@
 <param name="ISBN">9786170971494</param>
 <param name="Формат, розмір">165х235 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-<offer id="26734" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Ранок Математика 4 клас Частина 1 до підручника Скворцової</name>
-<vendorCode>9786170973382</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-ranok-matematyka-4-klas-chastyna-1-do-pidruchnyka-skvortsovoi/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>110</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26734/nush_robochiy_zoshit_ranok_matematika_4_klas_chastina_1_do_pidruchnika_skvortsovo.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[НУШ Робочий зошит. Математика 4 клас Частина 1 до підручника С. Скворцової, О. Онопрієнко.   Посібник є складовою навчально-методичного комплекту «Математика. 4 клас» авторів Світлани Скворцової, Оксани Онопрієнко. Зошит створений на основі підручника, доповнює його зміст, що забезпечує якісне досягнення учнями очікуваних результатів навчання. Зошит складається з двох частин. Перша частина містить матеріали до першого семестру навчання і може використовуватись на різних етапах засвоєння учнями змісту навчання. Посібник сприяє організації самостійної пізнавальної та дослідницької діяльності учнів, урізноманітненню видів роботи на уроці, ефективному формуванню математичних понять і способів дії. Магістерським капелюхом позначено завдання для учнів із  високим рівнем пізнавальних потреб і можливостей; лупою — завдання, що передбачають проведення навчального дослідження. Зошит містить додаток «Робочі сторінки» для здійснення необхідних записів до деяких завдань. Матеріал подано з урахуванням психологічних особливостей сучасних четвертокласників.    Призначено для учнів 4 класу закладів загальної середньої освіти і вчителів початкових класів]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">С.О. Скворцова, О.В. Онопрієнко</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170973382</param>
-<param name="Формат, розмір">198х259 мм</param>
-<param name="Видавництво">Ранок</param></offer>
-<offer id="26735" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Ранок Математика 4 клас Частина 2 до підручника Скворцової</name>
-<vendorCode>9786170973412</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-ranok-matematyka-4-klas-chastyna-2-do-pidruchnyka-skvortsovoi/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>110</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26735/nush_robochiy_zoshit_ranok_matematika_4_klas_chastina_2_do_pidruchnika_skvortsovo.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[НУШ Робочий зошит. Математика 4 клас Частина 2 до підручника С. Скворцової, О. Онопрієнко.   Посібник є складовою навчально-методичного комплекту «Математика. 4 клас» авторів Світлани Скворцової, Оксани Онопрієнко. Зошит створений на основі підручника, доповнює його зміст, що забезпечує якісне досягнення учнями очікуваних результатів навчання. Зошит складається з двох частин. Перша частина містить матеріали до першого семестру навчання і може використовуватись на різних етапах засвоєння учнями змісту навчання. Посібник сприяє організації самостійної пізнавальної та дослідницької діяльності учнів, урізноманітненню видів роботи на уроці, ефективному формуванню математичних понять і способів дії. Магістерським капелюхом позначено завдання для учнів із  високим рівнем пізнавальних потреб і можливостей; лупою — завдання, що передбачають проведення навчального дослідження. Зошит містить додаток «Робочі сторінки» для здійснення необхідних записів до деяких завдань. Матеріал подано з урахуванням психологічних особливостей сучасних четвертокласників.    Призначено для учнів 4 класу закладів загальної середньої освіти і вчителів початкових класів]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">С.О. Скворцова, О.В. Онопрієнко</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170973412</param>
-<param name="Формат, розмір">198х260 мм</param>
-<param name="Видавництво">Ранок</param></offer>
+
+
 
 
 <offer id="26738" available="true" in_stock="true" selling_type="r" >
@@ -26694,6 +26529,31 @@
 <param name="Формат, розмір">60х84/8</param>
 <param name="Видавництво">Сімфонія-форте</param></offer>
 
+<offer id="26884" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2027 Тестові завдання Пiдручники i посiбники ​Історія України. Пам`ятки архітектури та образотворчого мистецтва, персоналії, основні дати і події. Т. Земерова</name>
+<vendorCode>9786178678029</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/kompleksnyi-dovidnyk-testy/zno-nmt-2026-pidruchnyky-i-posibnyky-istoriia-ukrainy-pam-iatky-arkhitektury-ta-obrazotvorchoho-mystetstva-zemerova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>145</price>
+<picture>https://knigovan.com/image/catalog/products/26884/zno-nmt-2026-pidruchniki-i-posibniki-stor-ya-ukra-ni-pam-yatki-arh-tekturi-ta-obrazotvorchogo-mistetstva-zemerova-1.jpeg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Історія України. Пам`ятки архітектури та образотворчого мистецтва, персоналії, основні дати і події. Тестові завдання у форматі ЗНО 2027. Посібник містить зображення памʼяток архітектури та репродукції творів образотворчого мистецтва, портрети історичних персоналій, обовʼязкових для розпізнавання абітурієнтами, та тестові завдання згідно з програмою ЗНО з історії України. Наприкінці посібника є відповіді до всіх тестових завдань.  Для старшокласників, абітурієнтів, учителів історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Тетяна Земерова</param>
+<param name="Предмет">Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">10-11 класи</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786178678029</param>
+<param name="Формат, розмір">В5 (180*250 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
 <offer id="26887" available="true" in_stock="true" selling_type="r" >
 <name>Навчальний посібник Пiдручники i посiбники Органічна хімія Березан</name>
 <vendorCode>9789660737020</vendorCode>
@@ -27044,7 +26904,7 @@
 <offer id="26909" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Освіта Інформатика 4 клас Коршунова</name>
 <vendorCode>978-966-983-244-3</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-osvita-informatyka-4-klas-korshunova/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-osvita-informatyka-4-klas-korshunova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>120</price>
@@ -27052,7 +26912,7 @@
 <vendor>Освіта-Центр</vendor>
 <description>
 <![CDATA[НУШ Робочий зошит. Інформатика 4 клас Коршунова О. В.  Робочий зошит з інформатики для учнів 4 класу загальноосвітніх навчальних закладів. Нова українська школа. Схвалено для використання у загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Коршунова О. В.</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -27371,31 +27231,7 @@
 
 
 
-<offer id="26945" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Генеза Математика 4 клас Лишенко</name>
-<vendorCode>9789661112246</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-heneza-matematyka-4-klas-lyshenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>100</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26945/nush_robochiy_zoshit_geneza_matematika_4_klas_lishenko.jpg</picture>
-<vendor>Генеза</vendor>
-<description>
-<![CDATA[НУШ Робочий зошит Математика 4 клас Лишенко Г. П.   Є невіддільною складовою навчально-методичного комплекту до підручника цього автора. Завершує лінійку посібників НМК з математики у початковій школі. Посібник пропонує посторінкову підтримку підручника на І та ІІ семестри, полегшує вчителю організацію практичного закріплення нового матеріалу, повторення та узагальнення знань за курс початкової школи. Уміщено завдання для самопідготовки, логічні задачі. Дозволяє обирати різні форми роботи: самостійно, у групах, парах.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
-<param name="Автор">Лишенко Г. П.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">96</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789661112246</param>
-<param name="Формат, розмір">84х108/16</param>
-<param name="Видавництво">Генеза</param></offer>
+
 <offer id="26947" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Генеза Інформатика 4 клас Гільберг</name>
 <vendorCode>9789661112284</vendorCode>
@@ -28990,7 +28826,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Математика: діагностичні роботи. 4 клас (до підручника О.Гісь, І. Філяк) 2025 рік Пропонований посібник укладено відповідно до Державного стандарту початкової освіти, Типової освітньої програми з математики за редакцією Р. Шияна та підручника О. Гісь, І. Філяк Математика: підручник для 4 кл. закладів загальної середньої освіти – Харків: ТОВ «Ранок», 2021. Він призначений для діагностики засвоєння тематичного матеріалу шляхом вербального оцінювання навчальних досягнень учнів.   Для учнів 4 класу та вчителів, вихователів груп продовженого дня, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -30944,56 +30780,8 @@
 
 
 
-<offer id="27298" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 2 до підручника Бібік, Боднарчук (2025 рік)</name>
-<vendorCode>9789660739345</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-2-do-pidruchnyka-bibik-bodnarchuk-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27298/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_2_do_pidruchnika_bibik_bodnarchuk_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 класу. Частина 2 (до підручника Н. Бібік, Г. Боднарчук) 2025 рік Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): / Частина 2 Н. М. Бібік, Г. П. Бондарчук – Харків : Видавництво «Ранок», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.  Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739345</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="27299" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 1 до підручника Бібік, Боднарчук (2025 рік)</name>
-<vendorCode>9789660739338</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-1-do-pidruchnyka-bibik-bodnarchuk-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27299/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_1_do_pidruchnika_bibik_bodnarchuk_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ: робочий зошит для 4 класу. Частина 1 (до підручника Н. Бібік, Г. Боднарчук) 2025 рік Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): / Частина 1 Н. М. Бібік, Г. П. Бондарчук – Харків : Видавництво «Ранок», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.  Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739338</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
 <offer id="27301" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Логічний калейдоскоп Навчальний зошит для 1 класу</name>
 <vendorCode>9786170976772</vendorCode>
@@ -32495,81 +32283,9 @@
 <param name="ISBN">9789660740426</param>
 <param name="Формат, розмір">А5 (150*210 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="27463" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Підручники і посібники Математика 4 клас Частина 1 до підручника Листопад</name>
-<vendorCode>9789660740365</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1-do-pidruchnyka-lystopad/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27463/nush_robochiy_zoshit_pidruchniki_i_posibniki_matematika_4_klas_chastina_1_do_pidruchnika_listopad.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[НУШ Робочий зошит. Математика 4 клас частина 1 (до підручника Н. Листопад).  Зошит призначений для самостійної, колективної та індивідуальної роботи учнів на уроках математики за підручником Листопад Н.П. Математика. 4 клас: Частина 1. – Київ : Оріон, 2021.    Для учнів 4 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Козак М., Корчевська О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740365</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="27464" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 1 до підручника Грущинської та ін.</name>
-<vendorCode>9789660740068</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-1-do-pidruchnyka-hrushchynskoi-ta-in/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27464/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_1_do_pidruchnika_grushchinsko_ta_in.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[НУШ. Я досліджую світ: робочий зошит для 4 класу Частина 1 (до підручника І. Грущинської та ін.)  Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ. Підручник для 4 класу ЗЗСО (у 2-х частинах) : Частина 1 // І. В. Грущинська, З. М. Хитра, І. І. Дробязко. — Київ : УОВЦ «Оріон», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.    Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740068</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="27465" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 2 до підручника Грущинської та ін.</name>
-<vendorCode>9789660740075</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-2-do-pidruchnyka-hrushchynskoi-ta-in/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27465/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_2_do_pidruchnika_grushchinsko_ta_in.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[НУШ. Я досліджую світ: робочий зошит для 4 класу Частина 2 (до підручника І. Грущинської та ін.)  Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ. Підручник для 4 класу ЗЗСО (у 2-х частинах) : Частина 2 // І. В. Грущинська, З. М. Хитра, І. І. Дробязко. — Київ : УОВЦ «Оріон», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.    Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740075</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
+
 <offer id="27466" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит спостережень учителя/учительки за навчальним поступом учнів початковової школи з іноземної мови Пiдручники i посiбники</name>
 <vendorCode>9789660740464</vendorCode>
@@ -34486,31 +34202,7 @@
 <param name="ISBN">978-966-945-293-1</param>
 <param name="Формат, розмір">90х60/16</param>
 <param name="Видавництво">Літера</param></offer>
-<offer id="27595" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Дидактичні картки Літера Математика 4 клас Логачевська</name>
-<vendorCode>978-966-945-279-5</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-dydaktychni-kartky-litera-matematyka-4-klas-lohachevska/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>40</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27595/nush_didaktichni_kartki_litera_matematika_4_klas_logachevska.jpg</picture>
-<vendor>Літера</vendor>
-<description>
-<![CDATA[НУШ. Дидактичні картки з математики. 4 клас. Логачевська С.П.  Пропоновані дидактичні картки можна використовувати для спостереження і вербального оцінювання результатів навчання учнів згідно з Державним стандартом початкової освіти з метою підтримки їх навчального поступу, аналізу реалізації навчальної програми та ухвалення рішення щодо корегування програмового матеріалу і методів навчання відповідно до індивідуальних потреб учнів.    Роботу з картками доцільно проводити під час корекційних тижнів упродовж 20–25 хв уроку.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Логачевська С.П.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Дидактичні картки</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">96</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-945-279-5</param>
-<param name="Формат, розмір">90х60/16</param>
-<param name="Видавництво">Літера</param></offer>
+
 <offer id="27596" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностичні картки Літера Українська мова 4 клас Шевчук</name>
 <vendorCode>978-966-945-272-6</vendorCode>
@@ -34914,7 +34606,7 @@
 <vendor>Час Майстрів</vendor>
 <description>
 <![CDATA[3000 вправ і завдань. Українська мова. Навчальний посібник 2 клас Скрипник К.П.  У цьому посібнику подано вправи з української мови на вміння застосовувати основні орфографічні правила. Робота над мовним матеріалом посібника дає можливість довести практичні навички дітей із правопису до автоматизму.  Тренувальний зошит є універсальним, його можна використовувати як доповнення до будь-якого підручника з відповідної навчальної дисципліни.    Матеріал, вміщений у ньому, можна застосовувати для індивідуальної і фронтальної роботи, для словникових диктантів та роботи вдома.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>999</quantity_in_stock>
 <param name="Автор">Скрипник К.П.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -35189,31 +34881,7 @@
 <param name="ISBN">9789660740594</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="27694" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Підручники і посібники Математика 4 клас Частина 2 до підручника Листопад</name>
-<vendorCode>9789660740372</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-2-do-pidruchnyka-lystopad/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27694/nush_robochiy_zoshit_pidruchniki_i_posibniki_matematika_4_klas_chastina_2_do_pidruchnika_listopad.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[НУШ Робочий зошит. Математика 4 клас частина 2 (до підручника Н. Листопад).  Зошит призначений для самостійної, колективної та індивідуальної роботи учнів на уроках математики за підручником Листопад Н.П. Математика. 4 клас: Частина 2. – Київ : Оріон, 2021.    Для учнів 4 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Козак М., Корчевська О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">56</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740372</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="27695" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Генеза Вступ до історії України та громадянської освіти 5 клас Власов</name>
 <vendorCode>9789661113090</vendorCode>
@@ -36606,7 +36274,7 @@
 <offer id="27826" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Бліцдіагностика Пiдручники i посiбники Математика 4 клас Частина 1 до підручника Листопад</name>
 <vendorCode>9789660740402</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-blitsdiahnostyka-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1-do-pidruchnyka-lystopad/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-blitsdiahnostyka-pidruchnyky-i-posibnyky-matematyka-4-klas-chastyna-1-do-pidruchnyka-lystopad/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>60</price>
@@ -36614,7 +36282,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[НУШ. Математика. Бліцдіагностика. 4 клас Частна 1. (до підручника Н. Листопад). Посібник містить картки, які допоможуть учителеві спостерігати за навчальним поступом учнів, вербально оцінювати їхні досягнення і визначати рівень засвоєння навчального матеріалу на підставі поточного контролю (до підручника Н. Листопад «Математика. 4 клас»).    Для учнів 4 класу, вчителів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -36639,7 +36307,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[НУШ. Математика. Бліцдіагностика. 4 клас Частна 2. (до підручника Н. Листопад). Посібник містить картки, які допоможуть учителеві спостерігати за навчальним поступом учнів, вербально оцінювати їхні досягнення і визначати рівень засвоєння навчального матеріалу на підставі поточного контролю (до підручника Н. Листопад «Математика. 4 клас»).    Для учнів 4 класу, вчителів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -41594,7 +41262,7 @@
 <vendor>Торсінг</vendor>
 <description>
 <![CDATA[Математика. 1 клас. Цікаві вправи та задачі. Пригоди вусатих і хвостатих.  Головні герої цієї книги - звірята-першокласники різних шкіл - навчаються, тренуються та змагаються між собою й пропонують школярам разом із ними поринути в пригоди. Тож, ваша дитина буде розв'язувати задачі, виконуватиме різноманітні вправи, відповідатиме на питання, для вирішення яких потрібна кмітливість, здатність знаходити оригінальні способи розв'язку. Завдання цього видання різні за складністю, цікаві за формою подачі та спрямовані на відпрацювання й закріплення здобутих під час навчання знань.  Вправи, побудовані у формі гри, зазвичай подобаються дітям: учні швидко пропонують рішення, а знайдені відповіді викликають у них захоплення й радість. Тож, дитина відпрацює основні теми з математики першого класу й отримає задоволення від навчання.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Алліна О. Г.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -41619,7 +41287,7 @@
 <vendor>Торсінг</vendor>
 <description>
 <![CDATA[Математика. 2 клас. Цікаві вправи та задачі. Пригоди вусатих і хвостатих.  Головні герої цієї книги - звірята-другокласники різних шкіл - навчаються, тренуються та змагаються між собою й пропонують школярам разом із ними поринути в пригоди. Тож, ваша дитина буде розв'язувати задачі, виконуватиме різноманітні вправи, відповідатиме на питання, для вирішення яких потрібна кмітливість, здатність знаходити оригінальні способи розв'язку. Завдання цього видання різні за складністю, цікаві за формою подачі та спрямовані на відпрацювання й закріплення здобутих під час навчання знань.  Вправи, побудовані у формі гри, зазвичай подобаються дітям: учні швидко пропонують рішення, а знайдені відповіді викликають у них захоплення й радість. Тож, дитина відпрацює основні теми з математики другого класу й отримає задоволення від навчання.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Алліна О. Г.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -42458,7 +42126,7 @@
 <vendor>Грамота</vendor>
 <description>
 <![CDATA[Зошит з навчання грамоти та розвитку мовлення 1 клас (Комплект частина 1+2) до пiдручника Захарійчук  Зошит для письма і розвитку мовлення укладено відповідно до Типової освітньої програми Міністерства освіти і науки України та до пiдручника для 1 класу "Українська мова. Буквар" (Захарійчук М. Д.) Зошит з навчання грамоти та розвитку мовлення (у двох частинах) входить до навчально-методичного комплекту «Українська мова. 1 клас» (автор М. Д. Захарійчук). Зошит є логічним продовженням навчального змісту підручника «Українська мова. Буквар» та спрямований на формування предметних та ключових компетентностей першокласників. Навчальний зміст видання уможливлює чергування колективних, індивідуальних форм роботи, моніторинг навчальних досягнень учнів.    Зошит містить оптимальний обсяг матеріалу для того, щоб кожна дитина - без перевантаження і стресу - оволоділа навичкою письма.    Для першокласників та вчителів початкових класів.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>28</quantity_in_stock>
 <param name="Автор">Захарійчук М.Д.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -47799,7 +47467,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/knyha-malenka-vidma-otfrid-proisler-ranok/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>280</price>
+<price>320</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28801/kniga_malenka_vidma_otfrid_proysler_ranok.jpg</picture>
 <vendor>Ранок</vendor>
 <description>
@@ -48766,6 +48434,11 @@
 
 
 
+
+
+
+
+
 <offer id="28860" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Юний художник Пiдручники i посiбники Альбом-посібник з образотворчого мистецтва 6 клас до підручника Масол</name>
 <vendorCode>9789660742161</vendorCode>
@@ -48859,6 +48532,9 @@
 <param name="ISBN">9786170959638</param>
 <param name="Формат, розмір">130х200 мм</param>
 <param name="Видавництво">Ранок</param></offer>
+
+
+
 <offer id="28867" available="true" in_stock="true" selling_type="r" >
 <name>Книга Льоля та Мінька Ранок Зощенко</name>
 <vendorCode>9786170964151</vendorCode>
@@ -50076,6 +49752,10 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789663499529</param>
 <param name="Видавництво">Грамота</param></offer>
+
+
+
+
 <offer id="28941" available="true" in_stock="true" selling_type="r" >
 <name>Поцілунок переможця. Книга 3 Ранок Марі Раткоські</name>
 <vendorCode>9786170970374</vendorCode>
@@ -50123,6 +49803,7 @@
 <param name="ISBN">9786170982254</param>
 <param name="Формат, розмір">240х240 мм</param>
 <param name="Видавництво">Ранок</param></offer>
+
 <offer id="28944" available="true" in_stock="true" selling_type="r" >
 <name>Дивовижні відкриття ведмедика Санні у космосі Ранок Чуб Наталія</name>
 <vendorCode>9786170975003</vendorCode>
@@ -50194,6 +49875,8 @@
 <param name="ISBN">9786170978998</param>
 <param name="Формат, розмір">145х215 мм</param>
 <param name="Видавництво">Ранок</param></offer>
+
+
 <offer id="28949" available="true" in_stock="true" selling_type="r" >
 <name>Книга Дитина Півночі Ранок Едіт Патту</name>
 <vendorCode>9786170974280</vendorCode>
@@ -50408,6 +50091,8 @@
 <param name="ISBN">9786170041791</param>
 <param name="Формат, розмір">170х235</param>
 <param name="Видавництво">Основа</param></offer>
+
+
 
 
 
@@ -50701,6 +50386,7 @@
 <param name="ISBN">9786170983992</param>
 <param name="Формат, розмір">200х240 мм.</param>
 <param name="Видавництво">Ранок</param></offer>
+
 
 
 
@@ -51046,7 +50732,31 @@
 <param name="ISBN">9786170964571</param>
 <param name="Формат, розмір">145x210 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
+<offer id="29026" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2027 Тренажер для підготовки до НМТ Пiдручники i посiбники Математика, Українська мова, Історія України (Мартинюк, Білецька, Земерова, Шумка)</name>
+<vendorCode>9786178678104</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/zbirnyk-testovykh-zavdan/zno-nmt-2026-trenazher-dlia-pidhotovky-do-nmt-pidruchnyky-i-posibnyky-matematyka-ukrainska-mova-istoriia-ukrainy-martyniuk-biletska-zemerova-shumka/</url>
+<currencyId>UAH</currencyId>
+<categoryId>72</categoryId>
+<price>160</price>
+<picture>https://knigovan.com/image/catalog/products/29026/zno-nmt-2026-trenazher-dlya-p-dgotovki-do-nmt-pidruchniki-i-posibniki-matematika-ukra-nska-mova-stor-ya-ukra-ni-martinyuk-b-letska-zemerova-shumka-1.jpeg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Тренажер для підготовки до НМТ: Математика, Українська мова, Історія України 2027 (Олеся Мартинюк, Олена Білецька, Тетяна Земерова) Посібник уміщує 10 орієнтовних варіантів національного мультипредметного тесту (НМТ) з математики, української мови, історії України. Зміст видання відповідає вимогам Програм зовнішнього незалежного оцінювання, затверджених МОН України. Запропоновані у виданні матеріали допоможуть узагальнити знання і виявлять рівень готовності випускників до складання ЗНО у вигляді національного мультипредметного тесту.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Олеся Мартинюк, Олена Білецька, Тетяна Земерова</param>
+<param name="Предмет">Математика, Українська мова, Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 класи</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">176</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786178678104</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
 <offer id="29027" available="true" in_stock="true" selling_type="r" >
 <name>Провідник. Книга 1 Ранок Клер Мак-Фолл</name>
 <vendorCode>9786170972668</vendorCode>
@@ -51332,6 +51042,9 @@
 <param name="ISBN">9786170984944</param>
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
+
+
+
 
 
 
@@ -51812,6 +51525,9 @@
 <param name="ISBN">9789660742239</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
+
+
 <offer id="29127" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Наочний довідник АССА Математика 1–4 класи Ірина Марченко</name>
 <vendorCode>9786177877638</vendorCode>
@@ -51933,6 +51649,7 @@
 <param name="Тип паперу">офсет</param>
 <param name="Тип обкладинки">тверда</param>
 <param name="ISBN">978-617-8229-36-8</param></offer>
+
 <offer id="29136" available="true" in_stock="true" selling_type="r" >
 <name>Коти-вояки АССА Манґа 6. Тигрозір і Саша. Втеча з лісу! Ерін Гантер</name>
 <vendorCode>9786178229344</vendorCode>
@@ -51981,56 +51698,8 @@
 <param name="ISBN">978-617-8229-43-6</param>
 <param name="Формат, розмір">138х200 мм.</param>
 <param name="Видавництво">АССА</param></offer>
-<offer id="29138" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 1 до підручника Волощенко</name>
-<vendorCode>9789660742215</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-1-do-pidruchnyka-voloshchenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29138/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_1_do_pidruchnika_voloshchenko.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ. Робочий зошит. 4 клас. У 2-х ч. Ч. 1 (до підручника О. Волощенко та ін.)   Робочий зошит із друкованою основою укладено відповідно до Державного стандарту початкової освіти, Типової освітньої програми для 3-4 класів закладів загальної середньої освіти (2018 р.) та підручника «Я досліджую світ» О. Волощенко, О. Козак, Г. Остапенко зі змінами відповідно до рекомендацій 2022 року. Він містить завдання, які включають програмовий матеріал природничої, соціальної та здоров’язбережувальної, громадянської та історичної освітніх галузей і призначені формувати навчальні компетентності школярів.    Для учнів 4 класу, учителів початкової школи та батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Лабащук О., Решетуха Т.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660742215</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="29139" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас Частина 2 до підручника Волощенко</name>
-<vendorCode>9789660742222</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-chastyna-2-do-pidruchnyka-voloshchenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29139/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_chastina_2_do_pidruchnika_voloshchenko.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Я досліджую світ. Робочий зошит. 4 клас. У 2-х ч. Ч. 2 (до підручника О. Волощенко та ін.)   Робочий зошит із друкованою основою укладено відповідно до Державного стандарту початкової освіти, Типової освітньої програми для 3-4 класів закладів загальної середньої освіти (2018 р.) та підручника «Я досліджую світ» О. Волощенко, О. Козак, Г. Остапенко зі змінами відповідно до рекомендацій 2022 року. Він містить завдання, які включають програмовий матеріал природничої, соціальної та здоров’язбережувальної, громадянської та історичної освітніх галузей і призначені формувати навчальні компетентності школярів.    Для учнів 4 класу, учителів початкової школи та батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Лабащук О., Решетуха Т.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660742222</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
 <offer id="29140" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Розробки уроків Пiдручники i посiбники Українська мова 6 клас за програмою Заболотного</name>
 <vendorCode>9789660742390</vendorCode>
@@ -54082,6 +53751,12 @@
 <param name="Видавництво">Ранок</param></offer>
 
 
+
+
+
+
+
+
 <offer id="29254" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Бліцконтроль знань Богдан Математика 1 клас Беденко</name>
 <vendorCode>9789661056724</vendorCode>
@@ -54257,6 +53932,11 @@
 <param name="ISBN">978-966-10-6725-6</param>
 <param name="Формат, розмір">100х165 мм</param>
 <param name="Видавництво">Богдан</param></offer>
+
+
+
+
+
 
 <offer id="29270" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Альбом Богдан Мистецтво. Образотворче мистецтво 3 клас Кондратова</name>
@@ -71150,6 +70830,7 @@
 
 
 
+
 <offer id="30640" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Вхідні діагностувальні завдання Ранок 2 клас Українська мова, Математика, Я досліджую світ Онопрієнко, Петрук, Андрусенко</name>
 <vendorCode>9786170966759</vendorCode>
@@ -71633,6 +71314,8 @@
 <param name="ISBN">9789663089225</param>
 <param name="Формат, розмір">70x100 1/16</param>
 <param name="Видавництво">Астон</param></offer>
+
+
 <offer id="30675" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит для практичних робіт Ранок Географія 7 клас Довгань</name>
 <vendorCode>9786170990884</vendorCode>
@@ -71918,6 +71601,7 @@
 <param name="ISBN">4827577978992</param>
 <param name="Формат, розмір">103х139 мм</param>
 <param name="Видавництво">Ранок</param></offer>
+
 <offer id="30718" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Розробки уроків Пiдручники i посiбники Українська мова 5 клас за програмою Заболотного</name>
 <vendorCode>9789660743151</vendorCode>
@@ -72171,7 +71855,7 @@
 <vendor>Час Майстрів</vendor>
 <description>
 <![CDATA[3000 вправ та завдань Англійська мова 1-2 класи Саєнко Час Майстрів Робота із цим посібником дає можливість закласти базові знання, необхідні для опанування читання англійською мовою, а запропоновані вправи допоможуть із розвитком навичок читання. Серія посібників «3000 вправ» створена для тренування та відпрацювання у дітей до автоматизму знань з різних предметів – англійська чи українська мова, математика, інші. Посібник “Англійська мова. Читання. 1-2 класи” знайомить з основними правилами читання англійської мови, а також виконує роль тренажера для здобуття та розвитку навичок читання.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Саєнко К.В.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1-2 класи</param>
@@ -72514,6 +72198,7 @@
 
 
 
+
 <offer id="30814" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит для самостійних та підсумкових робіт Оріон Всесвітня історія 7 клас Дрібниця (до підручника Щупака)</name>
 <vendorCode>9789669913555</vendorCode>
@@ -72537,6 +72222,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669913555</param>
 <param name="Видавництво">Оріон</param></offer>
+
 <offer id="30816" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Збірник Оріон Алгебка 7 клас Перевірка предметних компетентностей (ППК) Тарасенкова</name>
 <vendorCode>9789669913609</vendorCode>
@@ -72674,6 +72360,9 @@
 <param name="Формат, розмір">200x280 мм</param>
 <param name="Видавництво">Оріон</param></offer>
 
+
+
+
 <offer id="30826" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Порадник молодшого школяра АССА Математика. 2-4 класи Марченко, Квартник</name>
 <vendorCode>9786178387082</vendorCode>
@@ -72703,6 +72392,81 @@
 
 
 
+<offer id="30831" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2027 Комплексне видання Літера Історія України Власов, Панарін</name>
+<vendorCode>9789669454621</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/kompleksnyi-dovidnyk-testy/zno-nmt-2026-kompleksne-vydannia-litera-istoriia-ukrainy-vlasov-panarin/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>360</price>
+<picture>https://knigovan.com/image/catalog/products/30831/zno-nmt-2027-kompleksne-vidannya-l-tera-stor-ya-ukra-ni-vlasov-panar-n-1.jpeg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[Історія України. Комплексне видання. ЗНО/НМТ 2027 Пропонований посібник вважається актуальним для підготовки до складання ЗНО та НМТ у 2027 році.  Посібник, автори Власов В., Панарін О., Топольницька Ю., Макаревич А., розроблено з метою організації системної підготовки до ЗНО у форматі НМТ, а також до ДПА з історії України. Видання містить усі складники, передбачені програмою ЗНО: факти, дати, поняття та терміни, персоналії, пам'ятки для розпізнавання тощо. Навчальний матеріал подано в систематизованому, конспективному вигляді, до всіх тестових завдань наведено відповіді.  Посібник призначено для випускників закладів загальної середньої освіти, абітур'єнтів, учителів історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Власов В.С., Панарін О. Є., Топольницька Ю.А., Макаревич А.С.</param>
+<param name="Предмет">Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">496</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-945-462-1</param>
+<param name="Формат, розмір">84х108/16</param>
+<param name="Видавництво">Літера</param></offer>
+<offer id="30832" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2027 Комплексне видання Літера Українська мова Заболотний</name>
+<vendorCode>9789669454645</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/kompleksnyi-dovidnyk-testy/zno-nmt-2026-kompleksne-vydannia-litera-ukrainska-mova-zabolotnyi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>360</price>
+<picture>https://knigovan.com/image/catalog/products/30832/zno-nmt-2026-kompleksne-vidannya-l-tera-ukra-nska-mova-zabolotniy-1.jpeg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[Українська мова. Комплексне видання. ЗНО/НМТ 2027 Пропонований посібник є актуальним для підготовки до складання ЗНО у 2027 році. У посібника, автори Заболотний О. та Заболотний В., весь курс поділено на невеликі тематичні модулі, опрацювання яких передбачає проходження кількох етапів:  етап "Знаю" - повторення, узагальнення та систематизація відомостей з предмету. Теоретичний матеріал викладено стисло та проілюстровано яскравими прикладами. Правила здебільшого зведено в таблиці та схеми, що активізує зорову пам'ять. У рубриці "Беру до уваги" підкреслено важливі моменти, які часто залишаються поза увагою під час самостійного опрацювання матерілау; етап "Умію" - виконання типових тестових завдань з певної теми; етап "Перевіряю" - розміщено у кінці посібника, дає змогу звірити свої відповіді з правильними.   Наприкінці поібника ви знайдете додатки що стосуються правильного вживання і наголошення окремих слів. Останньою стадією підготовки є виконання узагальнювальних тестів, де об'єднано завдання з різних тем. У посібнику ви знайдете 5 таких узагальнюваних тестів та відповіді на них. І на завершення ви можете пройти три тести, що максимально подібні до тих, які ви отримаєте під час тестування.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Заболотний О.В., Заболотний В.В.</param>
+<param name="Предмет">Українська мова</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">352</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-945-464-5</param>
+<param name="Формат, розмір">84х108/16</param>
+<param name="Видавництво">Літера</param></offer>
+<offer id="30833" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2027 Комплексне видання Літера Математика Гальперіна, Чистякова</name>
+<vendorCode>9789669454638</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/kompleksnyi-dovidnyk-testy/zno-nmt-2026-kompleksne-vydannia-litera-matematyka-halperina-chystiakova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>360</price>
+<picture>https://knigovan.com/image/catalog/products/30833/zno-nmt-2026-kompleksne-vidannya-l-tera-matematika-galper-na-chistyakova-1.jpeg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[Математика. Комплексне видання. ЗНО/НМТ 2027 Пропонований посібник вважається актуальним для підготовки до складання ЗНО та НМТ у 2027 році. Математика є одним із предметів, тестування з якого є обов'язковим у межах національного мультипредметного тесту (НМТ). Пропонований посібник створено на основі чинної програми зовнішнього незалежного оцінювання і призначений для підготовки майбутніх учасників тестування до математичної частини цього тесту. Видання, автор Гальперіна А. і Чистякова Н., складається з тематичних розділів "Алгебра і початки аналізу", "Геометрія", а також містить тренувальні тести у форматі НМТ і відповіді до всіх завдань. До кожного параграфу посібника подано теоретичні відомості зі зразками розв'язування вправ і тестові завдання різних типів. Кожний теоретичний блок супроводжується відповідними тестовими завданнями за темою, які розподілено так:  30 тестових завдань із вибором однієї правильної відповіді із п'яти запропонованих варіантів; 4 завдання на встановлення відповідальності: до кожного з трьох рядків інформації, позначених цифрами, потрібно дібрати один варіант, позначений буквою, утворивши у такий спосіб три логічні пари; 4 структуровані і 6 або 8 (залежно від теми) неструктурованих завдань відкритої форми з короткою відповіддю.  До всіх завдань наприкінці посібника наведено відповіді. До завдань відкритої форми подано розв'язання з поясненнями та обгрунтуваннями. Пропонований посібник містить усе необхідне, щоб майбутні учасники тестування якісно і швидко підготувалися до випробовування як в Україні, так і за кордоном. ]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гальперіна А.Р., Чистякова Н.Б.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">400</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-945-463-8</param>
+<param name="Формат, розмір">84х108/16</param>
+<param name="Видавництво">Літера</param></offer>
 
 
 
@@ -72738,6 +72502,7 @@
 <param name="ISBN">9786170042958</param>
 <param name="Формат, розмір">275х273 мм</param>
 <param name="Видавництво">Основа</param></offer>
+
 
 
 
@@ -72791,6 +72556,15 @@
 <param name="ISBN">9786177155149</param>
 <param name="Формат, розмір">60х84/16</param>
 <param name="Видавництво">ПЕТ</param></offer>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73865,6 +73639,7 @@
 
 
 
+
 <offer id="31042" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Контурні карти Оріон Україна: природа, природокористування. Географія 8 клас Руденко І. С. (2025 рік)</name>
 <vendorCode>9789669914460</vendorCode>
@@ -74173,6 +73948,7 @@
 <param name="Формат, розмір">60х84/8</param>
 <param name="Видавництво">Генеза</param></offer>
 
+
 <offer id="31061" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Післябукварик Пiдручники i посiбники Читаємо, пишемо, розвиваємо мовлення 1 клас Грибчук, Ткачук</name>
 <vendorCode>9789660745179</vendorCode>
@@ -74197,6 +73973,9 @@
 <param name="ISBN">9789660745179</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
+
+
 
 <offer id="31066" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Богдан Англійська мова 2 клас до підручника Будної</name>
@@ -74393,6 +74172,7 @@
 <param name="ISBN">978-966-10-6684-6</param>
 <param name="Формат, розмір">170х200 мм.</param>
 <param name="Видавництво">Богдан</param></offer>
+
 <offer id="31075" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностичні роботи Богдан Українська мова 4 клас Шост</name>
 <vendorCode>9789661066808</vendorCode>
@@ -75110,6 +74890,7 @@
 
 
 
+
 <offer id="31135" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Пиши без помилок Оріон Картки-тренажери з української мови 2 клас Катерина Пономарьова</name>
 <vendorCode>9789669913784</vendorCode>
@@ -75442,6 +75223,8 @@
 <param name="ISBN">9789666824281</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Абетка</param></offer>
+
+
 
 
 
@@ -76626,6 +76409,7 @@
 
 
 
+
 <offer id="31278" available="true" in_stock="true" selling_type="r" >
 <name>Іспанська за 4 тижні Рівень 2 Богдан Інтенсивний курс іспанської мови з електронним аудіододатком</name>
 <vendorCode>9789661061483</vendorCode>
@@ -76869,6 +76653,7 @@
 <param name="ISBN">978-617-544-440-5</param>
 <param name="Формат, розмір">165×210 мм</param>
 <param name="Видавництво">Ула</param></offer>
+
 <offer id="31299" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Фізичний тренажер Підручники і посібники Довідничок-помічничок. 9 клас. Федчишин, Лящук (2025 рік)</name>
 <vendorCode>9789660743939</vendorCode>
@@ -77615,6 +77400,7 @@
 <param name="ISBN">978-617-8387-50-1</param>
 <param name="Формат, розмір">125х200 мм.</param>
 <param name="Видавництво">АССА</param></offer>
+
 
 <offer id="31437" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Прописи з калькою для лівшів 1 клас до букваря Воскресенської, Цепової Ранок КОМПЛЕКТ у 2-х частинах</name>
@@ -79677,7 +79463,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ Математика: навчальний посібник для 1 класу. У 3-х частинах. Дорога першокласнице / дорогий першокласнику! Ця книжка проведе тебе таємничими стежками в чарівну країну МАТЕМАТИКУ, у якій живуть числа, фігури, задачі, величини. Вона навчить тебе обчислювати, міркувати і застосовувати математичні знання в житті.  Щоб перевірити набуті знання з кожного розділу, скористайся QR-кодом.   Успіхів тобі!   –  Авторки.   Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.  Схвалено для використання в освітньому процесі (протокол від 20 січня 2023 року № 1 засідання експертної комісії з педагогіки та методики початкової освіти; протокол від 23 грудня 2022 року № 2 засідання експертної комісії з проведення антидискримінаційної експертизи; номер у Каталозі надання грифів навчальній літературі та навчальним програмам № 2.0017-2023).    Для учнів 1 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Козак М., Корчевська О.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -80672,7 +80458,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Я досліджую світ, 2 клас. Робочий зошит з інтегрованого курсу, НУШ-2 Гільберг Т. Г. Цей зошит є невід'ємною частиною навчально-методичного комплекту з інтегрованого курсу "Я досліджую світ" і призначений для формування у другокласників ціннісного ставлення до природи, а також предметних та міжпредметних компетентностей.  Завдання посібника дають можливість використовувати інтерактивні форми навчання: експерименти, досліди тощо. Матеріал з інформатики подано окремою вкладкою всередині зошита.]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>83</quantity_in_stock>
 <param name="Автор">Гільберг Т. Тарнавська С. Павич Н.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -83837,81 +83623,9 @@
 <param name="ISBN">9789660743687, 9789660743694</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31791" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас до підручника Волощенко КОМПЛЕКТ у 2-х частинах</name>
-<vendorCode>9789660742215, 9789660742222</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-voloshchenko-komplekt-u-2-kh-chastynakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31791/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_do_pidruchnika_voloshchenko_komplekt_u_2_h_chastinah.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ: Я досліджую світ. Робочий зошит. 4 клас. У 2-х частинах (до підручника О. Волощенко та ін.) Робочий зошит із друкованою основою укладено відповідно до Державного стандарту початкової освіти, Типової освітньої програми для 3-4 класів закладів загальної середньої освіти (2018 р.) та підручника «Я досліджую світ» О. Волощенко, О. Козак, Г. Остапенко зі змінами відповідно до рекомендацій 2022 року. Він містить завдання, які включають програмовий матеріал природничої, соціальної та здоров’язбережувальної, громадянської та історичної освітніх галузей і призначені формувати навчальні компетентності школярів.    Для учнів 4 класу, учителів початкової школи та батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Лабащук О., Решетуха Т.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660742215, 9789660742222</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31792" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Підручники і посібники Математика 4 клас до підручника Листопад КОМПЛЕКТ у 2-х частинах</name>
-<vendorCode>9789660740365, 9789660740372</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-matematyka-4-klas-do-pidruchnyka-lystopad-komplekt-u-2-kh-chastynakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31792/nush_robochiy_zoshit_pidruchniki_i_posibniki_matematika_4_klas_do_pidruchnika_listopad_komplekt_u_2_h_chastinah.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ:  Робочий зошит. Математика 4 клас, у 2-х частинах НУШ (до підручника Н. Листопад). Зошит призначений для самостійної, колективної та індивідуальної роботи учнів на уроках математики за підручником Листопад Н.П. Математика. 4 клас: – Київ : Оріон, 2021.    Для учнів 4 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Козак М., Корчевська О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+56</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740365, 9789660740372</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31793" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас до підручника Грущинської та ін. КОМПЛЕКТ у 2-х частинах</name>
-<vendorCode>9789660740068, 9789660740075</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-hrushchynskoi-ta-in-komplekt-u-2-kh-chastynakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31793/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_do_pidruchnika_grushchinsko_ta_in_komplekt_u_2_h_chastinah.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ: Я досліджую світ: робочий зошит для 4 класу НКШ у 2-х частинах (до підручника І. Грущинської та ін.) Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ. Підручник для 4 класу ЗЗСО (у 2-х частинах) : І. В. Грущинська, З. М. Хитра, І. І. Дробязко. — Київ : УОВЦ «Оріон», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.    Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+48</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660740068, 9789660740075</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
+
+
 <offer id="31794" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Англійська кольорова абетка Пiдручники i посiбники Зошит з письма для 1 класу Напівдруковані літери (до чинних підручників НУШ) - 2025 рік</name>
 <vendorCode>9789660741645</vendorCode>
@@ -84516,30 +84230,7 @@
 <param name="ISBN">9789660739116</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31819" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Англійська мова 4 клас до підручника О. Карпюк </name>
-<vendorCode>9789660739109</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-anhliiska-mova-4-klas-do-pidruchnyka-o-karpiuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>135</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31819/nush_2_robochiy_zoshit_pidruchniki_i_posibniki_angliyska_mova_4_klas_do_pidruchnika_o_karpyuk_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Англійська мова: робочий зошит для 4 класу (до підручника О. Карпюк) Зошит укладено відповідно до Типових освітніх програм НУШ і підручника для 4 класу Англійська мова: підручник для 4 класу закладів загальної середньої освіти (з аудіосупроводом) / О. Карпюк. — Тернопіль : Видавництво Астон, 2021. Різноманітність завдань, уміщених у зошиті, сприятиме збагаченню словникового запасу третьокласників, закріпленню та систематизації набутих знань, розвитку уяви, уваги, мислення.    Для учнів 4 класу та вчителів англійської мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Косован О., Вітушинська Н.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739109</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="31820" available="true" in_stock="true" selling_type="r" >
 <name>НУШ  Робочий зошит Пiдручники i посiбники Англійська мова 4 клас до підручника Г. Пухти </name>
 <vendorCode>9789660739123</vendorCode>
@@ -84663,6 +84354,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-983-578-9, 978-966-983-579-6</param>
 <param name="Видавництво">Сиция</param></offer>
+
 <offer id="31829" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Освіта Математика 1 клас (до підручника Бевз) КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9786176569022, 9786176569336</vendorCode>
@@ -84995,6 +84687,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-7750-57-3</param>
 <param name="Видавництво">Сиция</param></offer>
+
 <offer id="31844" available="true" in_stock="true" selling_type="r" >
 <name>Довідник учня Основа Хімія Усі означення і формули 7-11 класи Підгаєцька</name>
 <vendorCode>9786170044075</vendorCode>
@@ -86483,6 +86176,7 @@
 <param name="ISBN">978-617-8387-85-3</param>
 <param name="Формат, розмір">200x265 мм</param>
 <param name="Видавництво">АССА</param></offer>
+
 <offer id="31938" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас + Контурні карти Оріон Всесвітня історія. Історія України 6 клас Інтегрований курс КОМПЛЕКТ</name>
 <vendorCode>9789669911643, 9789669911650</vendorCode>
@@ -86494,7 +86188,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Атлас + Контурні карти Всесвітня історія. Історія України НУШ 6 клас. Інтегрований курс   Атлас. Інтегрований курс історії для 6 класу – перший систематичний курс історії в середній школі. З його особливостей: вивчення давньої історії України як частини всесвітньої історії; викладення історичного матеріалу від появи первісних людей до падіння Західної Римської імперії. Розпочинається атлас сторінкою-нагадуванням «Як читати історичні карти». Усі 33 карти атласу розкривають розуміння цивілізаційної значущості стародавнього періоду в історії України, Європи та світу в цілому. Антична цивілізація, як основа для подальшого розвитку європейського суспільства, займає центральне місце в атласі, 21 карта присвячена цій темі. Усі карти в атласі комплексні – будь-який історичний час для кожної теми показаний на карті з усіх його боків: культові постаті, зміни кордонів і меж, завоювання територій, залежні території, міста, сільськогосподарські культури, корисні копалини, війни та битви, культура та просвітництво тощо.  Контурні карти укладено відповідно до чинної навчальної програми з географії для 6 класу. Завдання в контурних картах відповідають віковим особливостям учнів та сформовані так, щоб закріпити теоретичні знання здобуті під час вивчення окремих навчальних тем і виконати всі практичні роботи, передбачені програмою.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
 <param name="Тип">Атлас+Контурні карти</param>
@@ -86707,35 +86401,11 @@
 <param name="ISBN">9786170999146</param>
 <param name="Формат, розмір">170х260 мм.</param>
 <param name="Видавництво">Ранок</param></offer>
-<offer id="31960" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас до підручника Бібік, Боднарчук КОМПЛЕКТ у 2-х частинах (2025 рік)</name>
-<vendorCode>9789660739338, 9789660739345</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-bibik-bodnarchuk-komplekt-u-2-kh-chastynakh-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31960/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_do_pidruchnika_bibik_bodnarchuk_komplekt_u_2_h_chastinah_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ у 2-х частинах: Я досліджую світ: робочий зошит для 4 класу. (до підручника Н. Бібік, Г. Боднарчук) 2025 рік Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): / Н. М. Бібік, Г. П. Бондарчук – Харків : Видавництво «Ранок», 2021. Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи. Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова І., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+48</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660739338, 9789660739345</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="31961" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас до підручника Гільберг КОМПЛЕКТ у 2-х частинах (2025 рік)</name>
 <vendorCode>9789660739192, 9789660739208</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-hilberh-komplekt-u-2-kh-chastynakh-2025-rik/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-hilberh-komplekt-u-2-kh-chastynakh-2025-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <price>140</price>
@@ -86743,7 +86413,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах: Я досліджую світ: робочий зошит для 4 клас (до підручника Т. Гільберг) 2025 рікРобочий зошит укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко й підручника Я досліджую світ: підручник для 4 класу закладів загальної середньої освіти (у 2-х частинах): / Тетяна Гільберг, Світлана Тарнавська, Лариса Грубіян, Ніна Павич. – Київ : Генеза, 2021.  Зошит містить завдання для формування предметних компетентностей, на відтворення та закріплення знань, творчі вправи, практичні роботи і дослідницькі завдання.    Для учнів 3 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Автор">Жаркова I., Мечник Л.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -86757,31 +86427,7 @@
 <param name="ISBN">9789660739192, 9789660739208</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31962" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Пiдручники i посiбники Я досліджую світ 4 клас до підручника Жаркової КОМПЛЕКТ у 2-х частинах (2025 рік)</name>
-<vendorCode>9789660738775, 9789660738782</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ya-doslidzhuiu-svit-4-klas-do-pidruchnyka-zharkovoi-komplekt-u-2-kh-chastynakh-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>160</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31962/nush_robochiy_zoshit_pidruchniki_i_posibniki_ya_doslidzhuyu_svit_4_klas_do_pidruchnika_zharkovo_komplekt_u_2_h_chastinah_2025_rik.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ у 2-х частинах: Я досліджую світ: робочий зошит для 4 класу. (до підручника І. Жаркової та ін.)Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми, розробленої під керівництвом О. Савченко, та підручника І. Жаркової, Л. Мечник, Л. Роговської «Я досліджую світ. 4 клас. У 2 частинах».Зошит містить завдання для формування предметних компетентностей, відтворення та закріплення знань, розвитку творчого мислення учнів, практичні роботи.Для учнів 4 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Жаркова I., Мечник Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660738775, 9789660738782</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="31963" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Робочий зошит Пiдручники i посiбники Я досліджую світ 1 клас до підручника Гільберг (2025 рік) КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9789660743786, 9789660743793</vendorCode>
@@ -88367,6 +88013,9 @@
 
 
 
+
+
+
 <offer id="32113" available="true" in_stock="true" selling_type="r" >
 <name>КОМПЛЕКТ: НУШ Самостійні та діагностичні роботи Генеза Алгебра + Геометрія 7 клас Навчальний посібник Істер</name>
 <vendorCode>9786178363819, 9786178363826</vendorCode>
@@ -88533,6 +88182,7 @@
 <param name="ISBN">9789660744837</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="32124" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Основа Математика 3 клас Частина 1 до підручника Богдановича та</name>
 <vendorCode>9786170044150</vendorCode>
@@ -88732,6 +88382,7 @@
 <param name="ISBN">9786178678111</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
 
 
 
@@ -89136,7 +88787,7 @@
 <vendor>Сиция</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах: НУШ-2. Робочий зошит Я досліджую світ 2 клас до підручника Бібік Н.М. (2025 рік) Робочий зошит учня «Я досліджую світ. 2 клас» розроблено відповідно до підручника інтегрованого курсу для 2 класу закладів загальної середньої освіти «Я досліджую світ» (Н. М. Бібік, Г. П. Бондарчук). Посібник містить достатньо різноманітних завдань на формування й розвиток в учнів здатності практично діяти; завдань дослідницького характеру, як-от: дослідження-розпізнавання, дослідження-спостереження, дослідження-пошук, а також завдання творчого характеру.    Видання розраховане на вчителів початкових класів, учнів 2 класу та дбайливих батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Гущина Н.І.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -89664,6 +89315,8 @@
 <param name="ISBN">9789660744844, 9789660744851, 9789660745148, 9789660745131</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
+
 <offer id="32204" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Розробки уроків Ранок Географія 7 клас до підручника Галини Довгань (2025 рік)</name>
 <vendorCode>9786178771065</vendorCode>
@@ -90671,6 +90324,7 @@
 
 
 
+
 <offer id="32265" available="true" in_stock="true" selling_type="r" >
 <name>Історії порятунку АССА Самотній поні Книга 8 Люсі Деніелс</name>
 <vendorCode>9786177877423</vendorCode>
@@ -91602,6 +91256,7 @@
 
 
 
+
 <offer id="32344" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Тренажер для виправлення почерку УЛА 1 клас (Світлана Сіліч)</name>
 <vendorCode>9786175445136</vendorCode>
@@ -92042,6 +91697,7 @@
 <param name="ISBN">9786178510138</param>
 <param name="Формат, розмір">138х200 мм.</param>
 <param name="Видавництво">АССА</param></offer>
+
 
 <offer id="32376" available="true" in_stock="true" selling_type="r" >
 <name>Коти-вояки. Акційний комплект із 5 спеціальних видань серії «Коти-вояки» Таємниці кланів АССА Ерін Гантер</name>
@@ -96430,6 +96086,16 @@
 <param name="Формат, розмір">А4 (210*280 мм)</param>
 <param name="Видавництво">Торсiнг</param></offer>
 
+
+
+
+
+
+
+
+
+
+
 <offer id="32684" available="true" in_stock="true" selling_type="r" >
 <name>Таємниця покинутого замку Школа Книга 6 Олександр Волков</name>
 <vendorCode>978-966-429-399-7</vendorCode>
@@ -96454,6 +96120,9 @@
 <param name="ISBN">978-966-429-399-7</param>
 <param name="Формат, розмір">240 х 170 х 20 мм</param>
 <param name="Видавництво">Школа</param></offer>
+
+
+
 <offer id="32689" available="true" in_stock="true" selling_type="r" >
 <name>Виховання казкою - Леопардик-ябеда</name>
 <vendorCode>9789669394903</vendorCode>
@@ -96476,6 +96145,18 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669394903</param>
 <param name="Видавництво">Торсiнг</param></offer>
+
+
+
+
+
+
+
+
+
+
+
+
 <offer id="32702" available="true" in_stock="true" selling_type="r" >
 <name>Я вирішую задачі. Розвиток математичного мислення. 1 клас</name>
 <vendorCode>9789669395900</vendorCode>
@@ -96547,6 +96228,86 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <offer id="32788" available="true" in_stock="true" selling_type="r" >
 <name>Універсальний словник 7 в 1 Торсінг Українська мова та література Паращич</name>
 <vendorCode>9789669392749</vendorCode>
@@ -96569,6 +96330,14 @@
 <param name="Тип обкладинки">тверда</param>
 <param name="ISBN">9789669392749</param>
 <param name="Видавництво">Торсiнг</param></offer>
+
+
+
+
+
+
+
+
 
 
 
@@ -96699,6 +96468,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669912275/1</param>
 <param name="Видавництво">Оріон</param></offer>
+
 
 
 
@@ -97408,7 +97178,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Виховні віршики з наліпками — Безпека вдома  Ця книжка містить віршики, завдяки яким малюк швидко вивчить правила безпеки вдома. Він дізнається, як бути обережним у ванній кімнаті та на кухні; чому не можна відчиняти двері незнайомцям, здиратися на шафи та підвіконня; як поводитися з ліками, піротехнічними забавками та побутовими засобами. До кожного віршика подані запитання для обговорення з дитиною та завдання з наліпками, що сприятимуть розвитку мовлення та дрібної моторики, а також кращому засвоєнню порушених тем.    «Виховні віршики з наліпками» — це розвиток, гра та виховання в одній книжці!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Собчук О. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 3 років</param>
@@ -97819,7 +97589,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Інформатика. 4 клас. Робочий зошит до підручника М. Корнієнко Зошит складено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, та підручника «Інформатика» для 4 класу закладів загальної середньої освіти (автори Марина Корнієнко, Світлана Крамаровська, Ірина Зарецька).    Видання є складовою навчально-методичного комплекту, який створено на базі підручника.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Автор">Корнієнко М.М. Крамаровська С.М. Зарецька І.Т.</param>
 <param name="Мова">українська</param>
 <param name="Вік">4 клас</param>
@@ -97975,7 +97745,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Комплект: НУШ Математика. 4 клас. Робочий зошит у 2-х частинах до підручника Скворцова С.О., Онопрієнко О.В. Посібник є складовою навчально-методичного комплекту «Математика. 4 клас» авторів Світлани Скворцової, Оксани Онопрієнко. Зошит створений на основі підручника, доповнює його зміст, що забезпечує якісне досягнення учнями очікуваних результатів навчання.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Автор">Скворцова С.О. Онопрієнко О.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">4 клас</param>
@@ -99035,6 +98805,9 @@
 
 
 
+
+
+
 <offer id="33066" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Комплект Навчальний посібник Ранок Математика 3 клас у 3-х частинах Скворцова, Онопрієнко 2026 рік</name>
 <vendorCode>1210228</vendorCode>
@@ -99071,7 +98844,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Математика. 4 клас. Моніторинг навчальних досягнень Скворцова, Онопрієнко Видання є складником навчально-методичного комплекту «Математика. 4 клас» авторок Світлани Скворцової та Оксани Онопрієнко. Посібник містить роботи для підсумкового і формувального оцінювання навчальних досягнень учнів та учениць 4 класу з математики. Видання може бути використано для роботи за будь-яким чинним підручником із математики.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Автор">Скворцова С.О. Онопрієнко О.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">4 клас</param>
@@ -99892,7 +99665,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ-2 Дидакта Робочий зошит. Інформатика 4 клас до підручника Ломаковської, Проценко 2026 рік Зошит стане надійним помічником для вихователів, педагогів центрів розвитку та батьків, які хочуть легко й із задоволенням підготувати дитину до школи. Матеріали містять вправи на застосування отриманих знань, логічні задачі, творчі завдання. До посібника пропонується електронний додаток, який містить додаткові матеріали до уроків.  Призначено для учнів 4 класу закладів загальної середньої освіти, учителів початкових класів, учителів інформатики.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Золочевська М.В. Рикова Л.Л.</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -99917,7 +99690,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ-2 Дидакта Інформатика. 4 клас. Робочий зошит до підручника Коршунової О. В. Посібник складено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, та з урахуванням концепції підручника «Інформатика» для 4 класу закладів загальної середньої освіти (автор Ольга Коршунова). Зміст посібника зорієнтовано на формування в учнів початкових уявлень про базові поняття інформатики, закріплення вивченого матеріалу, розвиток алгоритмічного й логічного мислення, творчих здібностей. Матеріали містять вправи, логічні задачі, творчі завдання. До посібника пропонується інтернет-підтримка, яка містить навчальні презентації до кожного розділу.  Призначено для учнів і учениць 4 класу закладів загальної середньої освіти, учителів початкових класів, учителів інформатики.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Золочевська М.В. Рикова Л.Л.</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -99942,7 +99715,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ-2 Дидакта Інформатика. 4 клас. Робочий зошит до підручника Гільберг Посібник складено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, та з урахуванням концепції підручника «Інформатика» для 4 класу закладів загальної середньої освіти (автори Тетяна Гільберг, Олег Суховірський, Лариса Грубіян, Світлана Тарнавська). До видання додається інтернет-підтримка.  Призначено для учнів і учениць 4 класу закладів загальної середньої освіти, учителів початкових класів, учителів інформатики.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Оксана Трикоз, Тетяна Стовбун, Варя Ромашева</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -100017,7 +99790,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Українська мова та читання. 2 клас. Експрес-перевірка: відривні картки до підручника Пономарьової (2026 рік) Посібник складено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, і підручника «Українська мова та читання. 2 клас. Частина 1» (Катерини Пономарьової). Відривні картки призначені для організації самостійної роботи здобувачів і здобувачок освіти на уроках, мета якої — перевірити засвоєння вивченого матеріалу. Завдання дібрані таким чином, аби на їх виконання учні/учениці витрачали не більше 7–10 хвилин. Другокласники і другокласниці мають можливість здійснити самооцінку, домалювавши казковому персонажу — Соняшнику, відповідний вираз «обличчя».  Призначений для учнів/учениць 2 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Автор">Голосна С.В.</param>
 <param name="Предмет">Українська мова та читання</param>
 <param name="Мова">українська</param>
@@ -100322,7 +100095,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ-2 Дидакта Математика. 4 клас. Робочий зошит до підручника Н. Листопад. Посібник створено відповідно до Державного стандарту початкової освіти та Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Зошит є складовою навчально-методичного комплекту «Математика. 4 клас». У посібнику представлена система завдань для удосконалення обчислювальних навичок й умінь здобувачів освіти розв’язувати основні види програмових задач. За допомогою QR-кода можна швидко перейти до додаткового матеріалу у вигляді інтерактивних тестів.  Призначений для учнів 4 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Шевченко К.М. Щербак Г.В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -100359,31 +100132,7 @@
 <param name="Видавництво">Підручники і посібники</param></offer>
 
 
-<offer id="33143" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Основа Математика 4 клас Частина 1 до підручника Богдановича 2026 рік</name>
-<vendorCode>9786170044860</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-ranok-matematyka-4-klas-chastyna-1-do-pidruchnyka-bohdanovycha-2026-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>90</price>
-<picture>https://knigovan.com/image/catalog/products/33143/nush-robochiy-zoshit-ranok-matematika-3-klas-chastina-1-do-p-druchnika-bogdanovicha-ta-1.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Математика. 4 клас. Робочий зошит. До підручника М. Богдановича та ін. (у 2-х частинах). Частина 1 Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, поурочно узгоджений з підручником «Математика» для 4 класу (авт. М. В. Богдановича, С. В. Голосної, А. А. Назаренко). У зошиті представлена система завдань для удосконалення обчислювальних навичок й умінь четвертокласників і четвертокласниць розв’язувати основні види програмових задач. До посібника пропонується інтерактивний електронний додаток, що містить інтерактивні завдання, навчальні відеоролики, завдання з використанням 3D-моделей, ігри, лабіринти, розмальовки тощо.  Призначено для учнів і учениць 4 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Богданович М., Голосна С., Назаренко А.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170044860</param>
-<param name="Формат, розмір">165х210 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="33144" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Основа Математика 2 клас Частина 1 до підручника Богдановича 2026 рік</name>
 <vendorCode>9786170044921</vendorCode>
@@ -100583,31 +100332,7 @@
 
 
 
-<offer id="33157" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Діагностувальні роботи Основа Математика 4 клас до підручника Богдановича 2026 рік</name>
-<vendorCode>9786170044884</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-diahnostuvalni-roboty-ranok-matematyka-4-klas-do-pidruchnyka-bohdanovycha-2026-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/products/33157/nush-robochiy-zoshit-ranok-matematika-4-klas-chastina-1-do-p-druchnika-bogdanovicha-2026-r-k-1.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Математика. 4 клас. Діагностувальні роботи. До підручника М. Богдановича, С. Голосної, А. Назаренко Посібник містить 9 діагностувальних робіт з математики у двох варіантах. Діагностувальні роботи складено відповідно до методичних рекомендацій щодо оцінювання результатів навчання учнів 1–4 класів закладів загальної середньої освіти, затверджених Наказом МОН України від 13.07.2021 № 813, та підручника Михайла Богдановича, Світлани Голосної, Антоніни Назаренко «Математика. 4 клас». Пропоновані завдання охоплюють усі теми, що вивчаються упродовж навчального року, і спрямовані на виявлення стану сформованості результатів навчання, визначених у Державному стандарті початкової освіти.  Призначений для учнів/учениць 4 класу закладів загальної середньої освіти та вчителів/учительок початкової школи.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Назаренко А.А.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Діагностувальні роботи</param>
-<param name="Серія">Нова українська школа (НУШ-2)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170044884</param>
-<param name="Формат, розмір">165х235 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="33158" available="true" in_stock="true" selling_type="r" >
 <name>ЗНО/НМТ 2027 Ранок Історія України. Повний курс підготовки О. Святокум, С. Коніщева</name>
 <vendorCode>9786178772192</vendorCode>
@@ -102143,6 +101868,7 @@
 <param name="ISBN">9789669455932</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Літера</param></offer>
+
 <offer id="33250" available="true" in_stock="true" selling_type="r" >
 <name>Оповідь у малюнках АССА Чим відома Соня Делоне. Андрій Корнєв</name>
 <vendorCode>9786178387778</vendorCode>
@@ -102527,4 +102253,54 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669915450</param>
 <param name="Формат, розмір">220х280 мм</param>
-<param name="Видавництво">Оріон</param></offer></offers></shop></yml_catalog>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33295" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект зошитів у 2-х частинах Літера Українська мова 7 клас до підручника Онатій, Ткачук + Оцінювання за групами результатів</name>
+<vendorCode>9789669454737, 9789669454898</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/7-klas-1/nush-komplekt-zoshytiv-u-2-kh-chastynakh-litera-ukrainska-mova-7-klas-do-pidruchnyka-onatii-tkachuk-otsiniuvannia-za-hrupamy-rezultativ/</url>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<price>230</price>
+<picture>https://knigovan.com/image/catalog/products/33295/nush-robochiy-zoshit-l-tera-ukra-nska-mova-7-klas-onat-y-tkachuk-1.jpeg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[НУШ Комплект зошитів у 2-х частинах Українська мова 7 клас до підручника Онатій, Ткачук + Оцінювання за групами результатів  Комплект зошитів з української мови для 7 класу охоплює весь програмовий матеріал з української мови за новим Державним стандартом базової середньої освіти (мовнолітературна освітня галузь). Кожна тема містить різнорівневі завдання для закріплення практичних умінь учнів та учениць. На сторінках зошита ви знайдете роботу з медіатекстами, завдання на вдумливе читання, вправи з ключем та інші компетентнісні завдання, які допоможуть створити середовище цікавого вивчення мови та сформувати наскрізні вміння відповідно до ключових засад НУШ. Комплект зошитів призначено для учнів 7 класу, вчителів, методистів та батьків. Комплект зошитів містить комплексні підсумкові роботи за групами результатів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Анастасія Онатій, Тарас Ткачук</param>
+<param name="Предмет">Українська мова</param>
+<param name="Мова">українська</param>
+<param name="Вік">7 клас</param>
+<param name="Тип">Робочий зошит, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">96+112</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669454737, 9789669454898</param>
+<param name="Формат, розмір">70х100/16</param>
+<param name="Видавництво">Літера</param></offer>
+<offer id="33296" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Діагностувальні роботи Літера Я досліджую світ 4 клас до підручника Іщенко, Баранова 2026 рік</name>
+<vendorCode>9789669456083</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-diahnostuvalni-roboty-litera-ia-doslidzhuiu-svit-4-klas-do-pidruchnyka-ishchenko-baranova-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>100</price>
+<picture>https://knigovan.com/image/catalog/products/33296/nush-2-d-agnostuvaln-roboti-l-tera-ya-dosl-dzhuyu-sv-t-4-klas-do-p-druchnika-shchenko-baranova-2026-r-k-2.jpg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[НУШ 4 клас Діагностувальні роботи "Я досліджую світ" до підручника Іщенко, Баранова (2026 рік)  Посібник допоможе перевірити досягнення учнів за результатами опанування теми місяця: набуті знання, передовсім із природничої освітньої галузі, що закладають основи для наукового розуміння світу; здатність до аналітичних дій, творчого, практичного використання знань і вмінь. У посібнику вміщено 9 діагностувальних робіт у двох варіантах. Перші два місяці один із варіантів рекомендуємо використати для колективного виконання та обговорення. Надалі одним із варіантів можна скористатися для коригувальної роботи. Завдання структуровано за різними рівнями складності відповідно до таксономії Блума. За формою це вибір однієї правильної відповіді із трьох запропонованих; визначення істинності судження; коротка відповідь на запитання; розгорнута відповідь на запитання.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Світлана Логачевська</param>
+<param name="Предмет">Я досліджую світ</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Діагностувальні роботи</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-945-608-3</param>
+<param name="Формат, розмір">70х100/16</param>
+<param name="Видавництво">Літера</param></offer></offers></shop></yml_catalog>
