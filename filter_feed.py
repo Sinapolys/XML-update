@@ -28,6 +28,22 @@ EXCLUDED_CATEGORIES = {
     "17", "62",
 }
 
+# Наценка на цену (в долях, 0.10 = +10%)
+MARKUP = 0.10
+
+# До какого шага округлять итоговую цену (5 -> ...0/...5, 10 -> ...0, 1 -> обычное целое)
+ROUND_STEP = 5
+
+
+def apply_markup(price_value: float) -> int:
+    """Поднимает цену на MARKUP и округляет вверх до ближайного ROUND_STEP,
+    чтобы получилось "красивое" число (например, оканчивающееся на 0 или 5)."""
+    import math
+    raw = price_value * (1 + MARKUP)
+    if ROUND_STEP <= 1:
+        return int(math.ceil(raw))
+    return int(math.ceil(raw / ROUND_STEP) * ROUND_STEP)
+
 
 def fetch_source(url: str, attempts: int = 4, delay_seconds: int = 8) -> str:
     headers = {
@@ -141,6 +157,13 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int]:
             block = price_pattern.sub(f"<price>{old_value}</price>", block, count=1)
             block = oldprice_pattern.sub("", block, count=1)
             discounts_removed += 1
+
+        # 4. Поднимаем цену на MARKUP и округляем до "красивого" числа
+        cur_price_match = price_pattern.search(block)
+        if cur_price_match:
+            cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
+            new_value = apply_markup(cur_value)
+            block = price_pattern.sub(f"<price>{new_value}</price>", block, count=1)
 
         kept += 1
         return block
