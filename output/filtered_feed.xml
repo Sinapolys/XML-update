@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-06 00:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-06 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -88210,4 +88210,103 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9786178948573</param>
 <param name="Формат, розмір">165х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="33459" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Завдання для формувального оцінювання Ранок Математика 4 клас О. Онопрієнко, С. Скворцова, 2026 рік</name>
+<vendorCode>9786178941383</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-zavdannia-dlia-formuvalnoho-otsiniuvannia-ranok-matematyka-4-klas-o-onopriienko-s-skvortsova-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/products/33459/nush-zavdannya-dlya-formuvalnogo-ots-nyuvannya-ranok-matematika-4-klas-o-onopr-nko-s-skvortsova-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Математика. 4 клас. Завдання для формувального оцінювання Посібник містить різнорівневі завдання для здійснення формувального оцінювання навчальних досягнень учнів та учениць 4 класу.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Оксана Онопрієнко, Світлана Скворцова</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">контроль знань</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178941383</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="33460" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Дидакта Робочий зошит Ранок Математика 4 клас Частина 1 до підручника А. Заїки, С. Тарнавської, 2026 рік</name>
+<vendorCode>9786178941222</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-dydakta-robochyi-zoshyt-ranok-matematyka-4-klas-do-pidruchnyka-a-zaiky-s-tarnavskoi-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>105</price>
+<picture>https://knigovan.com/image/catalog/products/33460/nush-2-didakta-robochiy-zoshit-ranok-matematika-4-klas-do-p-druchnika-a-za-ki-s-tarnavsko-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Дидакта Математика. 4 клас. Робочий зошит до підручника Антоніни Заїки, Світлани Тарнавської У 2-х ч. Частина 1 Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна, та підручника "Математика. 4 клас" (Антоніни Заїки, Світлани Тарнавської). Зошит є складовою навчально-методичного комплекту "Математика. 4 клас".]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Назаренко А.А. Голосна С.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178941222</param>
+<param name="Формат, розмір">165х210 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="33461" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Дидакта Робочий зошит Ранок Математика 4 клас Частина 2 до підручника А. Заїки, С. Тарнавської, 2026 рік</name>
+<vendorCode>9786178941239</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-dydakta-robochyi-zoshyt-ranok-matematyka-4-klas-chastyna-2-do-pidruchnyka-a-zaiky-s-tarnavskoi-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>105</price>
+<picture>https://knigovan.com/image/catalog/products/33461/nush-2-didakta-robochiy-zoshit-ranok-matematika-4-klas-chastina-2-do-p-druchnika-a-za-ki-s-tarnavsko-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Дидакта Математика. 4 клас. Робочий зошит до підручника Антоніни Заїки, Світлани Тарнавської У 2-х ч. Частина 2 Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна, та підручника "Математика. 4 клас" (Антоніни Заїки, Світлани Тарнавської). Зошит є складовою навчально-методичного комплекту "Математика. 4 клас".]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Назаренко А.А. Голосна С.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178941239</param>
+<param name="Формат, розмір">165х210 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="33462" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Комплект робочих зошитів Дидакта Ранок Математика 4 клас у 2 частинах до підручника А. Заїки, С. Тарнавської, 2026 рік</name>
+<vendorCode>9786178941222, 9786178941239</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-komplekt-robochykh-zoshytiv-dydakta-ranok-matematyka-4-klas-u-2-chastynakh-do-pidruchnyka-a-zaiky-s-tarnavskoi-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>210</price>
+<picture>https://knigovan.com/image/catalog/products/33462/nush-2-komplekt-robochih-zoshit-v-didakta-ranok-matematika-4-klas-u-2-chastinah-do-p-druchnika-a-za-ki-s-tarnavsko-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Комплект у 2 частинах: НУШ Дидакта Математика. 4 клас. Робочий зошит до підручника Антоніни Заїки, Світлани Тарнавської. Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна, та підручника "Математика. 4 клас" (Антоніни Заїки, Світлани Тарнавської). Зошит є складовою навчально-методичного комплекту "Математика. 4 клас".]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Назаренко А.А. Голосна С.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Робочий зошит, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">48+48</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178941222, 9786178941239</param>
+<param name="Формат, розмір">165х210 мм</param>
 <param name="Видавництво">Ранок</param></offer></offers></shop></yml_catalog>
