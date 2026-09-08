@@ -128,39 +128,61 @@ def build_is_excluded(parent_of: dict, excluded_roots: set):
     return is_excluded
 
 
-def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int]:
-    """Удаляет из content блоки <offer>...</offer>, чья categoryId исключена,
+def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int, int]:
+    """Удаляет из content блоки <offer>...</offer>, чьё название содержит
+    одно из EXCLUDED_NAME_KEYWORDS, чья categoryId исключена,
     а также офферы с quantity_in_stock=0 (нет в наличии).
     У оставшихся офферов, если есть тег <oldprice>, заменяет <price> на
     значение из <oldprice> (убирает скидку) и удаляет сам тег <oldprice>.
-    Возвращает (новый_content, оставлено, удалено_по_категории, удалено_нет_в_наличии, скидок_убрано).
+    Возвращает (новый_content, оставлено, удалено_по_названию, удалено_по_категории,
+    удалено_нет_в_наличии, скидок_убрано).
     """
     offer_pattern = re.compile(r"<offer\b.*?</offer>", re.DOTALL)
+    name_pattern = re.compile(r"<name>([^<]*)</name>")
     price_pattern = re.compile(r"<price>\d+(?:\.\d+)?</price>")
     oldprice_pattern = re.compile(r"<oldprice>(\d+(?:\.\d+)?)</oldprice>")
+    name_keywords_lower = [kw.lower() for kw in EXCLUDED_NAME_KEYWORDS]
 
     kept = 0
+    removed_name = 0
     removed_category = 0
     removed_no_stock = 0
+    removed_invalid_price = 0
     discounts_removed = 0
 
     def repl(match: re.Match) -> str:
-        nonlocal kept, removed_category, removed_no_stock, discounts_removed
+        nonlocal kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed
         block = match.group(0)
 
-        # 1. Исключаем по категории
+        # 1. Исключаем по ключевым словам в названии (например, "Атлас")
+        name_match = name_pattern.search(block)
+        if name_match:
+            name_lower = name_match.group(1).lower()
+            if any(kw in name_lower for kw in name_keywords_lower):
+                removed_name += 1
+                return ""
+
+        # 2. Исключаем по категории
         cat_match = re.search(r"<categoryId>(\d+)</categoryId>", block)
         if cat_match and is_excluded(cat_match.group(1)):
             removed_category += 1
             return ""
 
-        # 2. Исключаем товары с нулевым остатком
+        # 3. Исключаем товары с нулевым остатком
         qty_match = re.search(r"<quantity_in_stock>(\d+)</quantity_in_stock>", block)
         if qty_match and int(qty_match.group(1)) == 0:
             removed_no_stock += 1
             return ""
 
-        # 3. Убираем скидку: заменяем price на oldprice и удаляем oldprice
+        # 4. Исключаем товары с некорректной ценой (0, отсутствует, и т.п.) —
+        # у поставщика иногда встречаются позиции с <price>0</price>,
+        # такие маркетплейс всё равно не примет.
+        price_check_match = price_pattern.search(block)
+        if not price_check_match or float(re.search(r"\d+(?:\.\d+)?", price_check_match.group(0)).group(0)) <= 0:
+            removed_invalid_price += 1
+            return ""
+
+        # 5. Убираем скидку: заменяем price на oldprice и удаляем oldprice
         old_match = oldprice_pattern.search(block)
         if old_match:
             old_value = old_match.group(1)
@@ -168,7 +190,7 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int]:
             block = oldprice_pattern.sub("", block, count=1)
             discounts_removed += 1
 
-        # 4. Поднимаем цену на MARKUP и округляем до "красивого" числа
+        # 6. Поднимаем цену на MARKUP и округляем до "красивого" числа
         cur_price_match = price_pattern.search(block)
         if cur_price_match:
             cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
@@ -179,7 +201,7 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int]:
         return block
 
     new_content = offer_pattern.sub(repl, content)
-    return new_content, kept, removed_category, removed_no_stock, discounts_removed
+    return new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed
 
 
 def main():
@@ -197,10 +219,12 @@ def main():
 
     is_excluded = build_is_excluded(parent_of, EXCLUDED_CATEGORIES)
 
-    new_content, kept, removed_category, removed_no_stock, discounts_removed = filter_offers(content, is_excluded)
+    new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed = filter_offers(content, is_excluded)
     print(f"Оставлено офферов: {kept}")
+    print(f"Удалено по названию (ключевые слова): {removed_name}")
     print(f"Удалено по категории: {removed_category}")
     print(f"Удалено (нет в наличии, quantity=0): {removed_no_stock}")
+    print(f"Удалено (некорректная цена, 0 или отсутствует): {removed_invalid_price}")
     print(f"Скидок убрано (price <- oldprice): {discounts_removed}")
 
     import os
