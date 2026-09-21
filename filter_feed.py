@@ -14,6 +14,11 @@ import urllib.request
 SOURCE_URL = "https://knigovan.com/price/exportPrice.xml"
 OUTPUT_PATH = "output/filtered_feed.xml"
 
+# Файл со своими собственными товарами (не от поставщика).
+# Лежит в репозитории рядом со скриптом, заполняется вручную —
+# см. custom_offers_template.xml. Если файла нет — просто пропускается.
+CUSTOM_OFFERS_PATH = "custom_offers.xml"
+
 EXCLUDED_CATEGORIES = {
     "36", "34", "143", "144", "145", "122", "123", "124", "125", "126",
     "127", "128", "130", "131", "134", "132", "133", "103", "104", "105",
@@ -38,10 +43,14 @@ EXCLUDED_NAME_KEYWORDS = [
     "атлас",
 ]
 
+# ГЛАВНЫЙ ПЕРЕКЛЮЧАТЕЛЬ НАЦЕНКИ
+# True  -> цены поднимаются на MARKUP и округляются до ROUND_STEP (как обычно)
+# False -> наценка и округление ВЫКЛЮЧЕНЫ, в фид идут оригинальные цены поставщика
+#          (кроме снятия скидки: price всё равно берётся из oldprice, если она была)
 ENABLE_MARKUP = False
 
 # Наценка на цену (в долях, 0.10 = +10%)
-MARKUP = 0.05
+MARKUP = 0.005
 
 # До какого шага округлять итоговую цену (5 -> ...0/...5, 10 -> ...0, 1 -> обычное целое)
 ROUND_STEP = 1
@@ -193,17 +202,78 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int, i
             discounts_removed += 1
 
         # 6. Поднимаем цену на MARKUP и округляем до "красивого" числа
-        cur_price_match = price_pattern.search(block)
-        if cur_price_match:
-            cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
-            new_value = apply_markup(cur_value)
-            block = price_pattern.sub(f"<price>{new_value}</price>", block, count=1)
+        # (пропускается, если ENABLE_MARKUP = False — тогда остаётся оригинальная цена поставщика)
+        if ENABLE_MARKUP:
+            cur_price_match = price_pattern.search(block)
+            if cur_price_match:
+                cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
+                new_value = apply_markup(cur_value)
+                block = price_pattern.sub(f"<price>{new_value}</price>", block, count=1)
 
         kept += 1
         return block
 
     new_content = offer_pattern.sub(repl, content)
     return new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed
+
+
+def merge_custom_offers(content: str, custom_path: str) -> tuple[str, int, int]:
+    """Подмешивает в content собственные категории и офферы из custom_path
+    (если файл существует). Цены и данные собственных офферов НЕ трогаются —
+    добавляются как есть, без наценки и фильтров.
+    ID офферов/категорий, которые уже встречаются в основном content,
+    пропускаются (во избежание дублей), с предупреждением в лог.
+    Возвращает (новый_content, добавлено_офферов, пропущено_из-за_дублей_id).
+    """
+    import os
+
+    if not os.path.exists(custom_path):
+        print(f"Файл со своими товарами не найден ({custom_path}) — пропускаю, это нормально, если своих товаров ещё нет.")
+        return content, 0, 0
+
+    with open(custom_path, "r", encoding="utf-8") as f:
+        custom_content = f.read()
+
+    # Убираем XML-комментарии <!-- ... -->, чтобы закомментированные примеры
+    # и текст инструкций внутри них не попали в разбор как реальные данные
+    custom_content = re.sub(r"<!--.*?-->", "", custom_content, flags=re.DOTALL)
+
+    # Существующие ID категорий и офферов в основном фиде — чтобы не было дублей
+    existing_category_ids = set(re.findall(r'<category id="(\d+)"', content))
+    existing_offer_ids = set(re.findall(r'<offer\b[^>]*\bid="([^"]+)"', content))
+
+    # Извлекаем свои категории (только с обязательным id)
+    custom_categories = re.findall(r"<category\b[^>]*\bid=\"\d+\"[^>]*>.*?</category>", custom_content, re.DOTALL)
+    new_categories = []
+    for cat_block in custom_categories:
+        cid_match = re.search(r'<category id="(\d+)"', cat_block)
+        if cid_match and cid_match.group(1) in existing_category_ids:
+            print(f"ВНИМАНИЕ: своя категория id={cid_match.group(1)} уже существует в фиде поставщика — пропускаю, используйте другой ID.")
+            continue
+        new_categories.append(cat_block)
+
+    # Извлекаем свои офферы (только с обязательным id)
+    custom_offers = re.findall(r'<offer\b[^>]*\bid="[^"]+"[^>]*>.*?</offer>', custom_content, re.DOTALL)
+    added = 0
+    skipped = 0
+    new_offers = []
+    for offer_block in custom_offers:
+        oid_match = re.search(r'<offer\b[^>]*\bid="([^"]+)"', offer_block)
+        oid = oid_match.group(1)
+        if oid in existing_offer_ids:
+            print(f"ВНИМАНИЕ: свой оффер id={oid} совпадает с ID из фида поставщика — пропускаю, используйте другой ID (рекомендуется диапазон 900000+).")
+            skipped += 1
+            continue
+        new_offers.append(offer_block)
+        added += 1
+
+    new_content = content
+    if new_categories:
+        new_content = new_content.replace("</categories>", "\n".join(new_categories) + "\n</categories>", 1)
+    if new_offers:
+        new_content = new_content.replace("</offers>", "\n".join(new_offers) + "\n</offers>", 1)
+
+    return new_content, added, skipped
 
 
 def main():
@@ -228,6 +298,11 @@ def main():
     print(f"Удалено (нет в наличии, quantity=0): {removed_no_stock}")
     print(f"Удалено (некорректная цена, 0 или отсутствует): {removed_invalid_price}")
     print(f"Скидок убрано (price <- oldprice): {discounts_removed}")
+
+    new_content, custom_added, custom_skipped = merge_custom_offers(new_content, CUSTOM_OFFERS_PATH)
+    print(f"Добавлено своих товаров: {custom_added}")
+    if custom_skipped:
+        print(f"Пропущено своих товаров из-за конфликта ID: {custom_skipped}")
 
     import os
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
