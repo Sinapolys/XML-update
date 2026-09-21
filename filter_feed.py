@@ -38,11 +38,13 @@ EXCLUDED_NAME_KEYWORDS = [
     "атлас",
 ]
 
+ENABLE_MARKUP = False
+
 # Наценка на цену (в долях, 0.10 = +10%)
 MARKUP = 0.05
 
 # До какого шага округлять итоговую цену (5 -> ...0/...5, 10 -> ...0, 1 -> обычное целое)
-ROUND_STEP = 5
+ROUND_STEP = 1
 
 
 def apply_markup(price_value: float) -> int:
