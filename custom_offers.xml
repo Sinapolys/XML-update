@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ФАЙЛ СВОИХ ТОВАРОВ (не от поставщика)
+
+  Как пользоваться:
+  1. Скопируйте этот файл и переименуйте в custom_offers.xml
+     (именно это имя ищет скрипт filter_feed.py в корне репозитория).
+  2. Заполните ниже свои категории (если нужны новые) и товары.
+  3. Закоммитьте custom_offers.xml в репозиторий.
+  4. При каждом запуске скрипт сам подмешает эти товары и категории
+     в итоговый output/filtered_feed.xml — ПОСЛЕ всех фильтров и наценки
+     на товары поставщика. Цены здесь считаются уже финальными —
+     наценка (+20%) и остальные фильтры к ним НЕ применяются.
+
+  ВАЖНО про ID:
+  - ID товара (offer id) и ID категории (category id) НЕ должны
+    совпадать с ID, которые уже использует поставщик, иначе такой
+    товар/категория будет пропущен (в логе появится предупреждение).
+  - Чтобы точно избежать пересечений, используйте:
+      * для offer id  — диапазон 900000 и выше (900001, 900002, ...)
+      * для category id — диапазон 9000 и выше (9001, 9002, ...)
+
+  Тег <categories> можно вообще убрать, если вы используете уже
+  существующие ID категорий поставщика (тогда просто укажите нужный
+  <categoryId> в товаре).
+-->
+<custom_data>
+
+  <categories>
+    <!-- Пример своей категории. Скопируйте блок и измените под себя -->
+    <category id="9001">Мої власні товари</category>
+  </categories>
+
+  <offers>
+    <!-- Пример товара. Скопируйте блок <offer>...</offer> под каждый новый товар -->
+    <offer id="900001" available="true">
+      <name>Назва товару</name>
+      <price>350</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://example.com/image.jpg</picture>
+      <vendor>Бренд</vendor>
+      <description>Опис товару</description>
+      <quantity_in_stock>10</quantity_in_stock>
+    </offer>
+
+    <!--
+    <offer id="900002" available="true">
+      <name>Другий товар</name>
+      <price>499</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://example.com/image2.jpg</picture>
+      <vendor>Бренд</vendor>
+      <description>Опис другого товару</description>
+      <quantity_in_stock>5</quantity_in_stock>
+    </offer>
+    -->
+  </offers>
+
+</custom_data>
