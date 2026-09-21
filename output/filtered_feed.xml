@@ -87914,38 +87914,38 @@
 
 <offer id="900001" available="true">
       <name>Вінілова платівка Lord Of The Lost - Dir Tomorrow (2LP)</name>
+      <vendorCode>4260639462211</vendorCode>
       <price>2500</price>
       <currencyId>UAH</currencyId>
       <categoryId>9001</categoryId>
-      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/1-LOTL-Die Tomorrow (2LP).jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/01-LOTL-DieTomorrow(2LP).jpg</picture>
       <vendor>Out Of Line</vendor>
       <description><![CDATA[Вінілова платівка Lord Of The Lost - Die Tomorrow - це перевидання культового третього студійного альбому німецького готик-метал гурту Lord Of The Lost. Випущений на подвійному вінілі (2LP), цей альбом став справжньою віхою в історії колективу, вперше піднявши їх у топ-40 німецьких чартів.
 Альбом поєднує в собі фірмову важку енергетику індастріал-року, глибокий вокал Кріса Хармса та витончені мелодії, які миттєво запам’ятовуються. Такі хіти, як «Die Tomorrow» та «See You Soon», досі є обов'язковою частиною живих виступів гурту. Цей реліз є обов’язковим елементом колекції для всіх шанувальників важкої сцени, а також поціновувачів якісного аналогового звуку.]]></description>
       <quantity_in_stock>1</quantity_in_stock>
-      <param name="Мова">Англыйська</param>
+      <param name="Мова видання">Англійська</param>
       <param name="Рік видання">2022</param>
       <param name="Кількість платівок">2</param>
       <param name="Колір">Чорний</param>
-      <param name="Штрих-код">4260639462211</param>
       <param name="Артикул">OUT 1221 | 1222 / LC 02947</param>
-      <param name="Стан">Новий, у плівці</param>
+      <param name="Стан">Новий</param>
     </offer>
 <offer id="900002" available="true">
       <name>Вінілова платівка Cyberpunk 2077: Future Sound of Night City (3LP)</name>
+      <vendorCode>42518041807714</vendorCode>
       <price>4000</price>
       <currencyId>UAH</currencyId>
       <categoryId>9001</categoryId>
-      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/2-Cyberpunk-2077-Future-Sound-of-Night-City.jpg</picture>
-      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/3-Cyberpunk-2077-full-vinyl.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/02-Cyberpunk-2077-Future-Sound-of-Night-City.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/03-Cyberpunk-2077-full-vinyl.jpg</picture>
       <vendor>WRWTFWW Records, MOST Records</vendor>
        <description><![CDATA[Лімітоване видання офіційного саундтреку до культової відеогри Cyberpunk 2077 на 3 платівках жовтого кольору. Ця унікальна компіляція від лейблу WRWTFWW Records містить 15 треків від найкращих представників польського електронного андеграунду. Музика ідеально передає антиутопічну атмосферу, небезпеку та футуристичний вайб Найт-Сіті у жанрах техно, синтвейв та індастріал.]]></description>
       <quantity_in_stock>1</quantity_in_stock>
-      <param name="Мова">Англыйська</param>
+      <param name="Мова">Англійська</param>
       <param name="Рік видання">2026</param>
       <param name="Кількість платівок">3</param>
       <param name="Колір">Жовтий</param>
       <param name="Тип конверту">Gatefold</param>
-      <param name="Штрих-код">42518041807714</param>
       <param name="Артикул">WRWTFWW094</param>
       <param name="Стан">Новий, у плівці</param>
     </offer>
