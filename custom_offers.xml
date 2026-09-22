@@ -70,7 +70,108 @@
       <param name="Стан">Новий, у плівці</param>
     </offer> 
     
-    
+     <offer id="900003" available="true">
+      <name>Вінілова платівка Ed Sheeran - Play (1LP)</name>
+      <vendorCode>5021732758262</vendorCode>
+      <price>2000</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/04-PlayPink_WhiteLP_Exclusive.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/05-PlayPink_WhiteLP_Exclusive.jpg</picture>
+      <vendor>Atlantic, Gingerbread Man Records</vendor>
+       <description><![CDATA[Ed Sheeran - Play - восьмий студійний альбом легендарного британського автора та виконавця Ed Sheeran, випущений восени 2025 року. Цей реліз відкриває абсолютно нову главу в творчості музиканта, засновану на символах керування медіа (знак «Play»).
+Альбом гармонійно поєднує фірмовий поп-звук Ширана з екзотичними східними мотивами, індійськими та перськими інфлюенсами. До релізу увійшли такі успішні світові сингли, як «Azizam», «Old Phone», «Sapphire» та «Camera».]]></description>
+      <quantity_in_stock>1</quantity_in_stock>
+      <param name="Мова">Англійська</param>
+      <param name="Рік видання">2025</param>
+      <param name="Кількість платівок">1</param>
+      <param name="Колір">Рожево-білий мармур</param>
+      <param name="Тип конверту">Gatefold</param>
+      <param name="Артикул">5021732758224</param>
+      <param name="Стан">Новий, у плівці</param>
+    </offer> 
+
+    <offer id="900004" available="true">
+      <name>Вінілова платівка Brian Tyler – The Super Mario Bros. Movie (Original Motion Picture Soundtrack) (2LP)</name>
+      <vendorCode>5021732758262</vendorCode>
+      <price>2100</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/06-Mario-1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/07-Mario-2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/08-Mario-3.jpg</picture>
+      <vendor>Iam8bit, Nintendo, Illumination Entertainment</vendor>
+       <description><![CDATA[Офіційний саундтрек до неймовірно успішного анімаційного хіта «Брати Супер Марио в кіно» (2023), випущений на вінілі відомим лейблом iam8bit. Музику до стрічки створив знаменитий голлівудський композитор Браян Тайлер (Форсаж, Месники), який майстерно переосмислив та трансформував культові 8-бітні ігрові теми Кодзі Кондо в епічні оркестрові аранжування.
+Головною родзинкою релізу є вірусний суперхіт «Peaches» у виконанженні Джека Блека (озвучив Боузера). Платівка стане чудовим подарунком як для колекціонерів саундтреків, так і для відданих фанатів ігрового всесвіту Nintendo.]]></description>
+      <quantity_in_stock>1</quantity_in_stock>
+      <param name="Мова">Англійська</param>
+      <param name="Рік видання">2023</param>
+      <param name="Кількість платівок">2</param>
+      <param name="Колір">Рожевий + Жовтий</param>
+      <param name="Тип конверту">Gatefold</param>
+      <param name="Артикул">8BIT-8199</param>
+      <param name="Стан">Новий, у плівці</param>
+    </offer> 
+
+    <offer id="900005" available="true">
+      <name>Вінілова платівка Astral Doors - Jerusalem (1LP)</name>
+      <vendorCode>4250444190348</vendorCode>
+      <price>2000</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/09-Astral-doors.jpg</picture>
+      <vendor>Metalville</vendor>
+       <description><![CDATA[Astral Doors - Jerusalem - шостий студійний концептуальний альбом шведських легенд класичного хеві-металу та хард-року Astral Doors, випущений у 2011 році. Цей реліз вважається однією з найсильніших, найбільш безкомпромісних та провокаційних робіт у дискографії гурту.
+Альбом наповнений фірмовими потужними рифами, епічною атмосферою та величним вокалом Нільса Патріка Йоханссона, якого часто порівнюють із Ронні Джеймсом Діо. Зведенням платівки займався відомий продюсер Даніель Бергстранд (працював із In Flames, Meshuggah), що гарантує еталонне та щільне метал-звучання.]]></description>
+      <quantity_in_stock>1</quantity_in_stock>
+      <param name="Мова">Англійська</param>
+      <param name="Рік видання">2023</param>
+      <param name="Кількість платівок">1</param>
+      <param name="Колір">Фіолетовий</param>
+      <param name="Тип конверту">Звичайний</param>
+      <param name="Артикул">MV0022-VC</param>
+      <param name="Стан">Новий, у плівці</param>
+    </offer>
+
+    <offer id="900006" available="true">
+      <name>CD-диск Ed Sheeran - Play</name>
+      <vendorCode>5021732758187</vendorCode>
+      <price>1000</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/10-StandardCD_3.jpg</picture>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/11-5021732758187HEROStandardCD.jpg</picture>
+      <vendor>Atlantic</vendor>
+       <description><![CDATA[Ed Sheeran - Play - восьмий студійний альбом легендарного британського автора та виконавця Ed Sheeran, випущений восени 2025 року. Цей реліз відкриває абсолютно нову главу в творчості музиканта, засновану на символах керування медіа (знак «Play»).
+Альбом гармонійно поєднує фірмовий поп-звук Ширана з екзотичними східними мотивами, індійськими та перськими інфлюенсами. До релізу увійшли такі успішні світові сингли, як «Azizam», «Old Phone», «Sapphire» та «Camera».]]></description>
+      <quantity_in_stock>1</quantity_in_stock>
+      <param name="Мова">Англійська</param>
+      <param name="Рік видання">2025</param>
+      <param name="Кількість дисків">1</param>
+      <param name="Тип конверту">Softpack</param>
+      <param name="Артикул">5021732758187</param>
+      <param name="Стан">Новий, у плівці</param>
+    </offer>
+
+    <offer id="900007" available="true">
+      <name>CD-диск F1: The Movie (Original Score By Hans Zimmer)</name>
+      <vendorCode>5021732758187</vendorCode>
+      <price>1200</price>
+      <currencyId>UAH</currencyId>
+      <categoryId>9001</categoryId>
+      <picture>https://raw.githubusercontent.com/Sinapolys/XML-update/main/images/12-F1-CD.jpg</picture>
+      <vendor>Atlantic</vendor>
+       <description><![CDATA[Офіційне подвійне CD-видання масштабного саундтреку до фільму «F1» (2025) з Бредом Піттом у головній ролі. Реліз об'єднує два диски з найкращою музикою, що передає шалену атмосферу та швидкість королівських перегонів.
+CD 1 (The Score): Повний інструментальний супровід від легендарного композитора, володаря премії «Оскар» Ханса Циммера (Hans Zimmer).
+CD 2 (The Album): Ексклюзивні поп-, електронні та рок-хіти, записані світовими зірками спеціально для фільму. Серед виконавців: Ed Sheeran, Rosé, Don Toliver, Tate McRae, Tiësto, Madison Beer, Peggy Gou та інші.]]></description>
+      <quantity_in_stock>1</quantity_in_stock>
+      <param name="Мова">Англійська</param>
+      <param name="Рік видання">2025</param>
+      <param name="Кількість дисків">2</param>
+      <param name="Тип конверту">Jewel-Case</param>
+      <param name="Артикул">075678594861</param>
+      <param name="Стан">Новий, у плівці</param>
+    </offer>
     
   </offers>
 
