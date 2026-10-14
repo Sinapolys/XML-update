@@ -20,15 +20,18 @@ OUTPUT_PATH = "output/filtered_feed.xml"
 CUSTOM_OFFERS_PATH = "custom_offers.xml"
 
 EXCLUDED_CATEGORIES = {
-    "130", "131", "134", "105", "120", "96", "97", "98", "99", "100", "101", "152", "168", "158", "159", "160", "161",
-    "163", "162", "153", "155", "156", "154", "157", "169", "164", "165", "166", "167", "77", "89", "82", "83", "84",
-    "85", "86", "87", "88", "78", "79", "80", "81", "146", "148", "151", "147", "149", "150", "36", "170", "172", "171",
-    "173", "174", "175", "176", "177", "178", "60", "61", "68", "69",
-
+    "130", "131", "134", "105", "120", "96", "97", "98", "99", "100",
+    "101", "152", "168", "158", "159", "160", "161", "163", "162", "153",
+    "155", "156", "154", "157", "169", "164", "165", "166", "167", "77",
+    "89", "82", "83", "84", "85", "86", "87", "88", "78", "79",
+    "80", "81", "146", "148", "151", "147", "149", "150", "36", "170",
+    "172", "171", "173", "174", "175", "176", "177", "178", "60", "61",
+    "68", "69",
 }
 
 # Ключові слова в назві товару (без урахування регістру), при наявності яких
 # оффер виключається повністю — незалежно від його categoryId.
+# Атласи у постачальника фактично лежать впереміш зі звичайними
 # робочими зошитами й посібниками (category id 9-11, 47-53 тощо),
 # тому фільтр по категорії "Атласи" (id 12/54) не спрацьовує —
 # треба виключати по назві.
@@ -37,29 +40,39 @@ EXCLUDED_NAME_KEYWORDS = [
 ]
 
 # ГЛАВНЫЙ ПЕРЕКЛЮЧАТЕЛЬ НАЦЕНКИ
-# True  -> цены поднимаются на MARKUP и округляются до ROUND_STEP (как обычно)
+# True  -> цены поднимаются на наценку (MARKUP_DEFAULT или MARKUP_BY_CATEGORY) и округляются до ROUND_STEP
 # False -> наценка и округление ВЫКЛЮЧЕНЫ, в фид идут оригинальные цены поставщика
 #          (кроме снятия скидки: price всё равно берётся из oldprice, если она была)
 ENABLE_MARKUP = True
 
-# Наценка на ВСЕ товары
+# Наценка на ВСЕ товары (в долях, 0.10 = +10%).
+# 0 -> товары без особой категории идут по оригинальной цене поставщика.
 MARKUP_DEFAULT = 0
 
-# Отдельная наценка для выбранных категорий (перекрывает общую)
+# ОТДЕЛЬНАЯ наценка для отдельных категорий: {"ID категории": наценка}.
+# Перекрывает MARKUP_DEFAULT. Достаточно указать ID родительской категории —
+# подкатегории входят автоматически; если у подкатегории указана своя наценка,
+# она главнее родительской.
+# "17" и "62" — это «Підручники» (1-4 клас и 5-11 клас).
 MARKUP_BY_CATEGORY = {
-    "17": 0.12,   # Підручники 1-4 клас
-    "62": 0.12,   # Підручники 5-11 клас
+    "17": 0.20,
+    "62": 0.20,
 }
 
 # До какого шага округлять итоговую цену (5 -> ...0/...5, 10 -> ...0, 1 -> обычное целое)
 ROUND_STEP = 1
 
 
-def apply_markup(price_value: float) -> int:
-    """Поднимает цену на MARKUP и округляет вверх до ближайного ROUND_STEP,
-    чтобы получилось "красивое" число (например, оканчивающееся на 0 или 5)."""
+def apply_markup(price_value: float, rate: float = None) -> int:
+    """Поднимает цену на rate (по умолчанию MARKUP_DEFAULT) и округляет вверх
+    до ближайного ROUND_STEP, чтобы получилось "красивое" число
+    (например, оканчивающееся на 0 или 5)."""
     import math
-    raw = price_value * (1 + MARKUP)
+    if rate is None:
+        rate = MARKUP_DEFAULT
+    # round(..., 6) убирает погрешность float (100 * 1.1 = 110.00000000000001),
+    # из-за которой ceil иногда округлял бы на целый шаг больше
+    raw = round(price_value * (1 + rate), 6)
     if ROUND_STEP <= 1:
         return int(math.ceil(raw))
     return int(math.ceil(raw / ROUND_STEP) * ROUND_STEP)
@@ -138,7 +151,31 @@ def build_is_excluded(parent_of: dict, excluded_roots: set):
     return is_excluded
 
 
-def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int, int]:
+def build_get_markup(parent_of: dict):
+    """Возвращает функцию get_markup(categoryId) -> (наценка, из_категории).
+    Идёт от категории вверх по родителям и берёт первую найденную в
+    MARKUP_BY_CATEGORY; если не нашла — MARKUP_DEFAULT."""
+    cache = {}
+
+    def get_markup(cid: str):
+        if cid in cache:
+            return cache[cid]
+        cur = cid
+        seen = set()
+        result = (MARKUP_DEFAULT, False)
+        while cur is not None and cur not in seen:
+            seen.add(cur)
+            if cur in MARKUP_BY_CATEGORY:
+                result = (MARKUP_BY_CATEGORY[cur], True)
+                break
+            cur = parent_of.get(cur)
+        cache[cid] = result
+        return result
+
+    return get_markup
+
+
+def filter_offers(content: str, is_excluded, get_markup=None) -> tuple[str, int, int, int, int, int, int, int]:
     """Удаляет из content блоки <offer>...</offer>, чьё название содержит
     одно из EXCLUDED_NAME_KEYWORDS, чья categoryId исключена,
     а также офферы с quantity_in_stock=0 (нет в наличии).
@@ -159,9 +196,11 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int, i
     removed_no_stock = 0
     removed_invalid_price = 0
     discounts_removed = 0
+    markup_applied = 0
+    markup_special = 0
 
     def repl(match: re.Match) -> str:
-        nonlocal kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed
+        nonlocal kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed, markup_applied, markup_special
         block = match.group(0)
 
         # 1. Исключаем по ключевым словам в названии (например, "Атлас")
@@ -200,20 +239,28 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int, i
             block = oldprice_pattern.sub("", block, count=1)
             discounts_removed += 1
 
-        # 6. Поднимаем цену на MARKUP и округляем до "красивого" числа
-        # (пропускается, если ENABLE_MARKUP = False — тогда остаётся оригинальная цена поставщика)
+        # 6. Наценка и округление до "красивого" числа.
+        # Для товаров из MARKUP_BY_CATEGORY — своя наценка, для остальных — MARKUP_DEFAULT.
+        # Пропускается, если ENABLE_MARKUP = False — тогда остаётся оригинальная цена.
         if ENABLE_MARKUP:
-            cur_price_match = price_pattern.search(block)
-            if cur_price_match:
-                cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
-                new_value = apply_markup(cur_value)
-                block = price_pattern.sub(f"<price>{new_value}</price>", block, count=1)
+            rate, special = MARKUP_DEFAULT, False
+            if get_markup is not None and cat_match:
+                rate, special = get_markup(cat_match.group(1))
+            if rate > 0:
+                cur_price_match = price_pattern.search(block)
+                if cur_price_match:
+                    cur_value = float(re.search(r"\d+(?:\.\d+)?", cur_price_match.group(0)).group(0))
+                    new_value = apply_markup(cur_value, rate)
+                    block = price_pattern.sub(f"<price>{new_value}</price>", block, count=1)
+                    markup_applied += 1
+                    if special:
+                        markup_special += 1
 
         kept += 1
         return block
 
     new_content = offer_pattern.sub(repl, content)
-    return new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed
+    return new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed, markup_applied, markup_special
 
 
 def merge_custom_offers(content: str, custom_path: str) -> tuple[str, int, int]:
@@ -289,14 +336,16 @@ def main():
     print(f"Найдено категорий: {len(parent_of)}")
 
     is_excluded = build_is_excluded(parent_of, EXCLUDED_CATEGORIES)
+    get_markup = build_get_markup(parent_of)
 
-    new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed = filter_offers(content, is_excluded)
+    new_content, kept, removed_name, removed_category, removed_no_stock, removed_invalid_price, discounts_removed, markup_applied, markup_special = filter_offers(content, is_excluded, get_markup)
     print(f"Оставлено офферов: {kept}")
     print(f"Удалено по названию (ключевые слова): {removed_name}")
     print(f"Удалено по категории: {removed_category}")
     print(f"Удалено (нет в наличии, quantity=0): {removed_no_stock}")
     print(f"Удалено (некорректная цена, 0 или отсутствует): {removed_invalid_price}")
     print(f"Скидок убрано (price <- oldprice): {discounts_removed}")
+    print(f"Наценка применена к товарам: {markup_applied} (из них по своим категориям: {markup_special})")
 
     new_content, custom_added, custom_skipped = merge_custom_offers(new_content, CUSTOM_OFFERS_PATH)
     print(f"Добавлено своих товаров: {custom_added}")
