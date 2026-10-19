@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-18 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-19 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -321,29 +321,7 @@
 <param name="ISBN">9789660724747</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="23921" available="true" in_stock="true" selling_type="r" >
-<name>Англійська мова Робочий зошит для дітей 5–6 років Підручники і посібники Готуємо дитину до школи</name>
-<vendorCode>9789660718050</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/inozemna-mova/iliustrovani-slovnyky-propysy/anhliiska-mova-robochyi-zoshyt-dlia-ditei-5-6-rokiv-pidruchnyky-i-posibnyky-hotuiemo-dytynu-do-shkoly/</url>
-<currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
-<price>70</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/23921/angliyska_mova_robochiy_zoshit_dlya_ditey_5_6_rokiv_pidruchniki_i_posibniki_gotu_mo_ditinu_do_shkoli.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Англійська мова: Робочий зошит для дітей 5–6 років. Серія: Готуємо дитину до школи Видання містить комунікативно орієнтовані вправи, спрямовані на ефективне вивчення, повторення і закріплення англійських слів та граматичних конструкцій. Посібник допоможе навчити дітей правильно називати й описувати предмети, а також спілкуватися англійською мовою на елементарному рівні.    Рекомендовано для використання в дошкільних навчальних закладах, а також для роботи батьків з дітьми.]]></description>
-<quantity_in_stock>78</quantity_in_stock>
-<param name="Автор">Вітушинська Н., Пилипів О.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">5-6 рокiв</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Готуємо дитину до школи</param>
-<param name="Кількість сторінок">32</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660718050</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="23922" available="true" in_stock="true" selling_type="r" >
 <name>Вчимося міркувати ДНЗ Підручники і посібники Робочий зошит для дітей 5-6 років</name>
 <vendorCode>9789660721487</vendorCode>
@@ -1746,7 +1724,7 @@
 <vendorCode>9789669396174</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-my-first-copy-book-torsinh-propysy-z-anhliiskoi-movy-universalni-kotyk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24015/nush_my_first_copy_book_torsing_propisi_z_angliysko_movi_universalni_kotik.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -7282,7 +7260,7 @@
 <vendorCode>9789662843651</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-bukvy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24405/ya_vchusya_z_nalipkami_bukvi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7303,7 +7281,7 @@
 <vendorCode>9789662843781</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-dopovny-maliunok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24406/ya_vchusya_z_nalipkami_dopovni_malyunok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7324,7 +7302,7 @@
 <vendorCode>9789662843675</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-lohika/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24407/ya_vchusya_z_nalipkami_logika.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7345,7 +7323,7 @@
 <vendorCode>9789662843798</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-kolory/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24408/ya_vchusya_z_nalipkami_kolori.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7366,7 +7344,7 @@
 <vendorCode>9789662843668</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-lichba/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24409/ya_vchusya_z_nalipkami_lichba.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7387,7 +7365,7 @@
 <vendorCode>9789662843682</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-mozaika/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24410/ya_vchusya_z_nalipkami_moza_ka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7408,7 +7386,7 @@
 <vendorCode>9789662843804</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-pam-iat-ta-uvaha/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24411/ya_vchusya_z_nalipkami_pam_yat_ta_uvaga.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7429,7 +7407,7 @@
 <vendorCode>9789662843811</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-formy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>126</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24412/ya_vchusya_z_nalipkami_formi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20442,7 +20420,7 @@
 <vendorCode>9789662846768</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-lohika-pryhody-v-dzhunhliakh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25531/2_metri_zavdan_logika_prigodi_v_dzhunglyah.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20464,7 +20442,7 @@
 <vendorCode>9789662846775</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-lohika-taiemnytsi-moriv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25532/2_metri_zavdan_logika_ta_mnitsi_moriv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20486,7 +20464,7 @@
 <vendorCode>9789662846799</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-matematyka-u-zamku-pryntsesy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25533/2_metri_zavdan_matematika_u_zamku_printsesi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20508,7 +20486,7 @@
 <vendorCode>9789662846782</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-matematyka-kosmichna-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25534/2_metri_zavdan_matematika_kosmichna_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20530,7 +20508,7 @@
 <vendorCode>9789662846843</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/2-metry-zavdan-chytaiemo-po-skladakh-mandruiemo-z-piratamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25535/2_metri_zavdan_chita_mo_po_skladah_mandru_mo_z_piratami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20552,7 +20530,7 @@
 <vendorCode>9789662846850</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/2-metry-zavdan-chytaiemo-po-skladakh-u-charivnomu-sviti-fei/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25536/2_metri_zavdan_chita_mo_po_skladah_u_charivnomu_sviti_fey.jpg</picture>
 <vendor>УЛА</vendor>
@@ -21991,7 +21969,7 @@
 <vendorCode>9789662847345</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-5-rokiv-2/pershi-slova-knyzhka-z-nalipkamy-dyki-tvaryny-wild-animals/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>104</categoryId>
 <price>23</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25709/pershi_slova_knizhka_z_nalipkami_diki_tvarini_wild_animals.jpg</picture>
 <vendor>УЛА</vendor>
@@ -23196,7 +23174,7 @@
 <vendorCode>9789662846836</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-rozvyvaiemo-fantaziiu-u-sviti-lodovykiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25840/2_metri_zavdan_rozviva_mo_fantaziyu_u_sviti_lodovikiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -23218,7 +23196,7 @@
 <vendorCode>9789662846829</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-rozvyvaiemo-fantaziiu-afrykanski-pryhody/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25841/2_metri_zavdan_rozviva_mo_fantaziyu_afrikanski_prigodi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -23240,7 +23218,7 @@
 <vendorCode>9789662846812</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-pam-iat-ta-uvaha-pryhody-na-fermi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25842/2_metri_zavdan_pam_yat_ta_uvaga_prigodi_na_fermi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -23262,7 +23240,7 @@
 <vendorCode>9789662846805</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/2-metry-zavdan-pam-iat-ta-uvaha-lisova-prohulianka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25843/2_metri_zavdan_pam_yat_ta_uvaga_lisova_progulyanka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -43374,10 +43352,102 @@
 <param name="ISBN">978-617-686-690-9</param>
 <param name="Формат, розмір">165×208 мм.</param>
 <param name="Видавництво">Весна</param></offer>
-
-
-
-
+<offer id="27167" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 2 клас</name>
+<vendorCode>978-617-686-695-4</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/2-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-2-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27167/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_2_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 2 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-695-4</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27168" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 4 клас</name>
+<vendorCode>978-617-686-697-8</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/4-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-4-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27168/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_4_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 4 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-697-8</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27169" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 3 клас</name>
+<vendorCode>978-617-686-696-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/3-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-3-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27169/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_3_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 3 клас. НУШ." допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 3 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">3 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-696-1</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27170" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 1 клас</name>
+<vendorCode>978-617-686-694-7</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/1-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-1-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27170/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_1_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 1 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 1 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”.  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-694-7</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
 <offer id="27171" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Інтегрований cловник-довідник Весна Українська мова Початкова школа 2025</name>
 <vendorCode>978-617-686-747-0</vendorCode>
@@ -65008,7 +65078,7 @@
 <vendorCode>9786177877508</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-dlia-mozku-maliuiemo-dvoma-rukamy-5-7-rokiv-assa-nova-shkola-dlia-maliat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28768/trenazher_dlya_mozku_malyu_mo_dvoma_rukami_5_7_rokiv_assa_nova_shkola_dlya_malyat.jpg</picture>
 <vendor>АССА</vendor>
@@ -65456,27 +65526,7 @@
 <param name="ISBN">978-617-524-019-9</param>
 <param name="Формат, розмір">165х230 мм</param>
 <param name="Видавництво">Торсiнг</param></offer>
-<offer id="28787" available="true" in_stock="true" selling_type="r" >
-<name>Усе для навчання грамоти Роздавальний матеріал з мови та читання від 3-х років. Ранок</name>
-<vendorCode>4823076378974</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/nabory-kartok-dlia-navchannia/use-dlia-navchannia-hramoty-rozdavalnyi-material-z-movy-ta-chytannia-vid-3-kh-rokiv-ranok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28787/use_dlya_navchannya_gramoti_rozdavalniy_material_z_movi_ta_chitannya_vid_3_h_rokiv_ranok.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Усе для навчання грамоти Роздавальний матеріал з мови та читання.  До набору входять:    3-6 років. 108 карток із твердого картону 20 ігор 4 рівні складності інструкція з варіантами ігор. Шановні дорослі!    Ви полумали, що тримаєте в руках посібник, який допоможе вашому малюку вивчити букви, звуки, навчитися вирізняти та розпізнавати їх, а також полегшить процес навчання читанню? Ні, це не все. Цей роздавальний матеріал "Усе для навчання грамоти" перетворить процес навчання у цікаву захопливу гру, а значить заохотить дитину до розвитку та навчання.  З цим набором ваш малюк також:     розширюватиме кругозір, збагачуватиме лексичний запас; розвиватиме дрібну моторику та логічне мислення; навчиться моделювати ігрову ситуацію, приймати обмірковані рішення, спокійно сприймати поразку; покращить пам'ять та спостережливість; розвиватиме посидючість, увагу, логічне мислення; помічатиме подібності та розбіжності; збагачуватиме словниковий запас; покращуватиме навички спілкування з дорослими та однолітками.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3-6 років</param>
-<param name="Тип">Демонстрационный материал</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">коробка</param>
-<param name="ISBN">4823076378974</param>
-<param name="Формат, розмір">245х230х45 мм</param>
-<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+
 
 
 
@@ -66628,7 +66678,7 @@
 <vendorCode>9786175405888</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/robochyi-zoshyt-ranok-prominchyky-znan-4-intehrovani-zaniattia-dib-l-m/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28971/robochiy_zoshit_ranok_prominchiki_znan_4_integrovani_zanyattya_dib_l_m.jpg</picture>
 <vendor>Ранок</vendor>
@@ -66651,7 +66701,7 @@
 <vendorCode>9786175405895</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/robochyi-zoshyt-ranok-prominchyky-znan-5-intehrovani-zaniattia-dib-l-m/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28972/robochiy_zoshit_ranok_prominchiki_znan_5_integrovani_zanyattya_dib_l_m.jpg</picture>
 <vendor>Ранок</vendor>
@@ -75912,7 +75962,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
+<categoryId>59</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -82120,7 +82170,7 @@
 <vendorCode>9786175443279</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-kreatyvna-matematyka-ula-mnozhennia-i-dilennia-60-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30289/nush_kreativna_matematika_ula_mnozhennya_i_dilennya_60_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -89386,7 +89436,7 @@
 <vendorCode>9786175443712</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-richnyi-kurs-dlia-ditei-6-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30751/zavdannya_5_hvilinki_ula_richniy_kurs_dlya_ditey_6_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -98573,7 +98623,7 @@
 <vendorCode>9786175444290</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/ya-vchusia-chytaty-4-ula-hraius-i-rozvyvaius-100-nalipok-silich-s-o/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>108</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31291/ya_vchusya_chitati_4_ula_grayus_i_rozvivayus_100_nalipok_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -98621,7 +98671,7 @@
 <vendorCode>9786175444313</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/ya-vchusia-chytaty-6-ula-hraius-i-rozvyvaius-100-nalipok-silich-s-o/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>128</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31293/ya_vchusya_chitati_6_ula_grayus_i_rozvivayus_100_nalipok_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -104438,7 +104488,7 @@
 <vendorCode>1210149</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-ukrainska-mova-2-4-klasy-orfohrafichni-zavdannia-leksyka-ta-vidminiuvannia-chastyny-movy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31651/komplekt_velikiy_trenazher_ula_ukra_nska_mova_2_4_klasi_orfografichni_zavdannya_leksika_ta_vidminyuvannya_chastini_movi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -104463,7 +104513,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -104512,7 +104562,7 @@
 <vendorCode>9786175444634, 9786175444665</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-nush-zoshyt-repetytor-iz-matematyky-ula-dodavannia-i-vidnimannia-v-mezhakh-100-1-2-klas-tablytsia-mnozhennia-2-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>8</categoryId>
 <price>68</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31654/komplekt_nush_zoshit_repetitor_iz_matematiki_ula_dodavannya_i_vidnimannya_v_mezhah_100_1_2_klas_tablitsya_mnozhennya_2_3_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -129614,7 +129664,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НМТ 2027 Історія України. Повний курс (Оксана Святокум, Світлана Коніщева) Посібник створено з метою якісної та ефективної підготовки до проходження НМТ з історії України. Довідник допоможе систематизувати й поглибити теоретичні знання з історії України, потренуватися у виконанні завдань на зразок тестів у форматі НМТ. Посібник має електронну підтримку на платформі ІЗЗІ. Користувачі можуть виконати в онлайн-режимі тренувальні тести, пройти пробне тестування. Посібник має електронну підтримку на платформі ІЗЗІ. Користувачі можуть виконати в онлайн-режимі тренувальні тести, пройти пробне тестування.  Призначено для учнів закладів загальної середньої освіти, абітурієнтів і вчителів історії.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Автор">Оксана Святокум, Світлана Коніщева</param>
 <param name="Предмет">Історія України</param>
 <param name="Мова">українська</param>
@@ -129764,7 +129814,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НМТ 2027. Біологія. Повний курс підготовки (Ольга Тагліна) Видання створено з метою якісної та ефективної підготовки до складання НМТ з біології. У довіднику подається теоретичний матеріал, вправи, тести до кожної теми, а також тренувальні тести. За цим посібником учні та учениці можуть готуватись як самостійно, так і на шкільних уроках або заняттях із репетитором.  Для всіх учасників та учасниць освітнього процесу, хто прагне здобути й удосконалити знання з біології.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Автор">Ольга Тагліна</param>
 <param name="Предмет">Біологія</param>
 <param name="Мова">українська</param>
