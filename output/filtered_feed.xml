@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-04 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-05 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1004,7 +1004,7 @@
 <vendorCode>9789660725409</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/maibutnii-pershoklasnyk-dnz-pidruchnyky-i-posibnyky-robochyi-zoshyt-dlia-ditei-5-6-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23966/maybutniy_pershoklasnik_dnz_pidruchniki_i_posibniki_robochiy_zoshit_dlya_ditey_5_6_rokiv.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -2460,7 +2460,7 @@
 <vendorCode>9789669464859</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-z-konturnymy-kartamy-piznaiemo-pryrodu-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
+<categoryId>47</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24075/nush_atlas_z_konturnimi_kartami_pizna_mo_prirodu_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -4791,7 +4791,7 @@
 <vendorCode>9789662841022</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/uchu-anhliiski-bukvy-ta-chytaiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>33</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24269/uchu_angliyski_bukvi_ta_chitayu.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4812,7 +4812,7 @@
 <vendorCode>9789662841039</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/uchu-formy-ta-kolory/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>33</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24270/uchu_formi_ta_kolori.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4879,7 +4879,7 @@
 <vendorCode>9789662842876</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/knyha-chytaiu-po-skladakh-4-5-rokiv-ula-117-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24277/kniga_chitayu_po_skladah_4_5_rokiv_ula_117_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4900,7 +4900,7 @@
 <vendorCode>9789662842227</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/knyha-hotuiemo-ruku-do-lysta-3-4-roky-ula-117-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24278/kniga_gotu_mo_ruku_do_lista_3_4_roki_ula_117_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4942,7 +4942,7 @@
 <vendorCode>9789662842258</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/knyha-dumaiu-ta-rakhuiu-4-5-rokiv-ula-117-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24280/kniga_dumayu_i_vvazhayu_4_5_rokiv_ula_117_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4963,7 +4963,7 @@
 <vendorCode>9789662842869</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/knyha-chytaiu-bukvy-sklady-ta-slova-3-4-roky-ula-117-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24281/kniga_chitayu_bukvi_skladi_ta_slova_3_4_roki_ula_117_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -5897,7 +5897,7 @@
 <vendorCode>978-966-429-085-9</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovanyi-shryft-fediienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24331/nush_angliyski_propisi_shkola_napivdrukovaniy_shrift_fedi_nko.jpg</picture>
 <vendor>Школа</vendor>
@@ -5921,7 +5921,7 @@
 <vendorCode>978-966-429-095-8</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-fediienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24332/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_fedi_nko.jpg</picture>
 <vendor>Школа</vendor>
@@ -6496,7 +6496,7 @@
 <vendorCode>9789662844153</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-hotuiemo-ruku-do-pysma-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24366/kaligrafiya_dlya_doshkilnyat_ula_gotu_mo_ruku_do_pisma_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -6538,7 +6538,7 @@
 <vendorCode>9789662844160</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-pyshemo-tsyfry-ta-hrafichni-dyktanty-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24368/kaligrafiya_dlya_doshkilnyat_ula_pishemo_tsifri_ta_grafichni_diktanti_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -6559,7 +6559,7 @@
 <vendorCode>9789662844184</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-uchymo-ta-pyshemo-bukvy-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24369/kaligrafiya_dlya_doshkilnyat_ula_uchimo_ta_pishemo_bukvi_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -6994,7 +6994,7 @@
 <vendorCode>9789662843651</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-bukvy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24405/ya_vchusya_z_nalipkami_bukvi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7015,7 +7015,7 @@
 <vendorCode>9789662843781</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-dopovny-maliunok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24406/ya_vchusya_z_nalipkami_dopovni_malyunok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7036,7 +7036,7 @@
 <vendorCode>9789662843675</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-lohika/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24407/ya_vchusya_z_nalipkami_logika.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7057,7 +7057,7 @@
 <vendorCode>9789662843798</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-kolory/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24408/ya_vchusya_z_nalipkami_kolori.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7078,7 +7078,7 @@
 <vendorCode>9789662843668</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-lichba/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24409/ya_vchusya_z_nalipkami_lichba.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7099,7 +7099,7 @@
 <vendorCode>9789662843682</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-mozaika/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24410/ya_vchusya_z_nalipkami_moza_ka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7120,7 +7120,7 @@
 <vendorCode>9789662843804</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-pam-iat-ta-uvaha/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24411/ya_vchusya_z_nalipkami_pam_yat_ta_uvaga.jpg</picture>
 <vendor>УЛА</vendor>
@@ -7141,7 +7141,7 @@
 <vendorCode>9789662843811</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/ya-vchusia-z-nalipkamy-formy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>127</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24412/ya_vchusya_z_nalipkami_formi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -8419,7 +8419,7 @@
 <vendorCode>9789662844764</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-modelne-ahentstvo-ula-zlata-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24513/kniga_modelne_agentstvo_ula_zlata_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -8439,7 +8439,7 @@
 <vendorCode>9789662844771</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-katrusia-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24514/kniga_modelne_agentstvo_ula_katrusya_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -8459,7 +8459,7 @@
 <vendorCode>9789662844788</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-mariika-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24515/kniga_modelne_agentstvo_ula_mariyka_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -8479,7 +8479,7 @@
 <vendorCode>9789662844795</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-olesia-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24516/kniga_modelne_agentstvo_ula_olesya_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -10025,7 +10025,7 @@
 <vendorCode>9789660732506</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/vid-zvuka-do-bukvy-dnz-pidruchnyky-i-posibnyky-robochyi-zoshyt-z-navchannia-hramoty-dlia-ditei-5-6-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>95</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24670/vid_zvuka_do_bukvi_dnz_pidruchniki_i_posibniki_robochiy_zoshit_z_navchannya_gramoti_dlya_ditey_5_6_rokiv.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -10054,7 +10054,7 @@
 <vendorCode>9789662845310</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-pyshu-litery-ta-tsyfry-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24676/kaligrafiya_dlya_doshkilnyat_ula_pishu_literi_ta_tsifri_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -10076,7 +10076,7 @@
 <vendorCode>9789662845327</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-pyshu-ta-chytaiu-slova-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24677/kaligrafiya_dlya_doshkilnyat_ula_pishu_ta_chitayu_slova_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -10098,7 +10098,7 @@
 <vendorCode>9789662845334</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-trenuiu-dribnu-motoryku-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24678/kaligrafiya_dlya_doshkilnyat_ula_trenuyu_dribnu_motoriku_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -10120,7 +10120,7 @@
 <vendorCode>9789662845341</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-uchusia-pysaty-krasyvo-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24679/kaligrafiya_dlya_doshkilnyat_ula_uchusya_pisati_krasivo_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -10145,7 +10145,7 @@
 <vendorCode>9789669394880</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/navchaius-hraiuchy-tsikava-matematyka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>77</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24683/navchayus_grayuchi_tsikava_matematika_z_nalipkami.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -10165,7 +10165,7 @@
 <vendorCode>9789669394873</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/navchaius-hraiuchy-vesela-lohika-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>77</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24684/navchayus_grayuchi_vesela_logika_z_nalipkami.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -10203,7 +10203,7 @@
 <vendorCode>9789669394859</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/navchaius-hraiuchy-ukrainska-abetka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>77</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24686/navchayus_grayuchi_ukra_nska_abetka_z_nalipkami.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -14750,7 +14750,7 @@
 <vendorCode>9789662845761</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-ihrashky-y-odiah-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25051/ya_chitayu_po_skladah_ula_igrashki_y_odyag_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -14769,7 +14769,7 @@
 <vendorCode>9789662845778</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-ovochi-ta-frukty-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25052/ya_chitayu_po_skladah_ula_ovochi_ta_frukti_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -14788,7 +14788,7 @@
 <vendorCode>9789662845792</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladam-ula-tvaryny-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25053/ya_chitayu_po_skladam_ula_tvarini_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -14807,7 +14807,7 @@
 <vendorCode>9789662845785</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-svit-navkolo-mene-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25054/ya_chitayu_po_skladah_ula_svit_navkolo_mene_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16764,7 +16764,7 @@
 <vendorCode>9789662846218</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/knyha-pyshu-chytaiu-rakhuiu-3-4-roky-ula-280-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>104</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25255/kniga_pishu_chitayu_rahuyu_3_4_roki_ula_280_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16785,7 +16785,7 @@
 <vendorCode>9789662846225</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/knyha-pyshu-chytaiu-rakhuiu-4-5-rokiv-ula-280-rozumnykh-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>104</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25256/kniga_pishu_chitayu_rahuyu_4_5_rokiv_ula_280_rozumnih_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16923,7 +16923,7 @@
 <vendorCode>9789662846355</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-malenka-modnytsia-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25284/ya_chitayu_po_skladah_ula_malenka_modnitsya_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16943,7 +16943,7 @@
 <vendorCode>9789662846362</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-my-yidemo-plyvemo-letymo-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25285/ya_chitayu_po_skladah_ula_mi_demo_plivemo_letimo_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16963,7 +16963,7 @@
 <vendorCode>9789662846379</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-pryhody-v-lisi-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25286/ya_chitayu_po_skladah_ula_prigodi_v_lisi_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -16983,7 +16983,7 @@
 <vendorCode>9789662846386</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/ya-chytaiu-po-skladakh-ula-pryhody-na-fermi-knyzhka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>128</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25287/ya_chitayu_po_skladah_ula_prigodi_na_fermi_knizhka_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -18041,7 +18041,7 @@
 <vendorCode>9789662846652</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/inozemna-mova/iliustrovani-slovnyky-propysy/propysy-z-nalipkamy-5-ula-pyshu-anhliiski-drukovani-litery/</url>
 <currencyId>UAH</currencyId>
-<categoryId>104</categoryId>
+<categoryId>128</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25387/propisi_z_nalipkami_5_ula_pishu_angliyski_drukovani_literi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -19918,7 +19918,7 @@
 <vendorCode>9789662846843</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/2-metry-zavdan-chytaiemo-po-skladakh-mandruiemo-z-piratamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25535/2_metri_zavdan_chita_mo_po_skladah_mandru_mo_z_piratami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -19940,7 +19940,7 @@
 <vendorCode>9789662846850</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/2-metry-zavdan-chytaiemo-po-skladakh-u-charivnomu-sviti-fei/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25536/2_metri_zavdan_chita_mo_po_skladah_u_charivnomu_sviti_fey.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20053,7 +20053,7 @@
 <vendorCode>9789662846874</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/propysy-z-nalipkamy-vid-palychky-do-litery/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25545/propisi_z_nalipkami_vid_palichki_do_literi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20163,7 +20163,7 @@
 <vendorCode>9789662846867</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/inozemna-mova/iliustrovani-slovnyky-propysy/propysy-z-nalipkamy-3-ula-anhliiski-drukovani-litery/</url>
 <currencyId>UAH</currencyId>
-<categoryId>104</categoryId>
+<categoryId>126</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25550/propisi_z_nalipkami_3_ula_angliyski_drukovani_literi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20627,7 +20627,7 @@
 <vendorCode>978-617-7485-82-6</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-atlas-konturni-karty-orion-ya-doslidzhuiu-svit-1-2-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>13</categoryId>
+<categoryId>14</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25626/nush_atlas_konturni_karti_orion_ya_doslidzhuyu_svit_1_2_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -22328,7 +22328,7 @@
 <vendorCode>9786177576647</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-konstruktor-ula-kumednyi-zoopark/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25839/kniga_z_nalipkami_konstruktor_ula_kumedniy_zoopark.jpg</picture>
 <vendor>УЛА</vendor>
@@ -22438,7 +22438,7 @@
 <vendorCode>9789662846751</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/2-metry-zavdan-anhliiska-mova-u-parku-dynozavriv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>104</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25844/2_metri_zavdan_angliyska_mova_u_parku_dinozavriv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -22460,7 +22460,7 @@
 <vendorCode>9789662846744</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/2-metry-zavdan-anhliiska-mova-malenki-modnytsi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>104</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25845/2_metri_zavdan_angliyska_mova_malenki_modnitsi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -24665,7 +24665,7 @@
 <vendorCode>978-966-284-788-8</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-charivni-krasuni-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25972/kniga_modelne_agentstvo_ula_charivni_krasuni_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -24688,7 +24688,7 @@
 <vendorCode>978-966-284-787-1</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-suchasni-modnytsi-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25973/kniga_modelne_agentstvo_ula_suchasni_modnitsi_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -24711,7 +24711,7 @@
 <vendorCode>978-966-284-786-4</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-modelne-ahentstvo-ula-modni-podruzhky-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25974/kniga_modelne_agentstvo_ula_modni_podruzhki_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -24734,7 +24734,7 @@
 <vendorCode>978-966-284-785-7</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-modelne-ahentstvo-ula-hlamurni-divchata-50-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25975/kniga_modelne_agentstvo_ula_glamurni_divchata_50_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -24841,7 +24841,7 @@
 <vendorCode>978-966-939-772-0</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/domashnia-akademiia-torsinh-mamo-navchy-lohichno-myslyty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>56</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25980/domashnya_akademiya_torsing_mamo_navchi_logichno_misliti.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -24864,7 +24864,7 @@
 <vendorCode>978-966-939-759-1</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/domashnia-akademiia-torsinh-mamo-navchy-pysaty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>56</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25981/domashnya_akademiya_torsing_mamo_navchi_pisati.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -24887,7 +24887,7 @@
 <vendorCode>978-966-939-761-4</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/domashnia-akademiia-torsinh-mamo-navchy-rakhuvaty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>56</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25982/domashnya_akademiya_torsing_mamo_navchi_rahuvati.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -27007,7 +27007,7 @@
 <vendorCode>978-966-284-848-9</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/propysy-dlia-maliat-ula-velykyi-malenkyi-vid-2-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26113/propisi_dlya_malyat_ula_velikiy_malenkiy_vid_2_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27031,7 +27031,7 @@
 <vendorCode>978-966-284-849-6</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/propysy-dlia-maliat-ula-dobyraiemo-pary-vid-2-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26114/propisi_dlya_malyat_ula_dobira_mo_pari_vid_2_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27075,7 +27075,7 @@
 <vendorCode>978-966-284-850-2</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/propysy-dlia-maliat-ula-pershi-slova-vid-2-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26116/propisi_dlya_malyat_ula_pershi_slova_vid_2_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27197,7 +27197,7 @@
 <vendorCode>978-966-284-855-7</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/inozemna-mova/knyzhky-z-nalipkamy-1/propysy-dlia-maliat-ula-anhliiska-mova-vid-4-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>104</categoryId>
+<categoryId>127</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26123/propisi_dlya_malyat_ula_angliyska_mova_vid_4_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27291,7 +27291,7 @@
 <vendorCode>978-966-284-873-1</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-ferma/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26127/mami_y_malyuki_ula_ferma.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27314,7 +27314,7 @@
 <vendorCode>978-966-284-870-0</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-afryka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26128/mami_y_malyuki_ula_afrika.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27337,7 +27337,7 @@
 <vendorCode>9789662848717</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-zoopark/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26130/mami_y_malyuki_ula_zoopark.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27360,7 +27360,7 @@
 <vendorCode>978-966-284-872-4</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-lis/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26131/mami_y_malyuki_ula_lis.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27472,7 +27472,7 @@
 <vendorCode>978-966-284-869-4</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-malenkyi-kukhar-ula-u-tsukerni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26141/kniga_malenkiy_kuhar_ula_u_tsukerni.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27495,7 +27495,7 @@
 <vendorCode>978-966-284-867-0</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-malenkyi-kukhar-ula-na-sviati/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26142/kniga_malenkiy_kuhar_ula_na_svyati.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27518,7 +27518,7 @@
 <vendorCode>978-966-284-868-7</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-malenkyi-kukhar-ula-u-kafe/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26143/kniga_malenkiy_kuhar_ula_u_kafe.jpg</picture>
 <vendor>УЛА</vendor>
@@ -28530,7 +28530,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В альбомі-посібнику " НУШ. Альбом-посібник Маленький трудівничок. Дизайн і технології 4 клас   " запропоновано творчі завдання з дизайну та технологій, розроблені відповідно до Типових освітніх програм МОН України (О. Савченко та Р. Шияна) для 4 класу, спрямовані на розвиток універсальних творчих якостей та сенсорних здібностей учнів.       Для учнів четвертого класу, учителів початкових класів, батьків.]]></description>
-<quantity_in_stock>96</quantity_in_stock>
+<quantity_in_stock>94</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">4 клас</param>
@@ -28833,7 +28833,7 @@
 <vendorCode>9789662849356</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/propysy-ta-labirynty-ula-superheroi-maliukam-vid-5-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>110</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26221/propisi_ta_labirinti_ula_supergero_malyukam_vid_5_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -28881,7 +28881,7 @@
 <vendorCode>9789662849332</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/propysy-ta-labirynty-ula-veseli-khovanky-maliukam-vid-4-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26223/propisi_ta_labirinti_ula_veseli_hovanki_malyukam_vid_4_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -28993,7 +28993,7 @@
 <vendorCode>9789662849394</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-kompleksnyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26228/trenazher_doshkilnika_ula_kompleksniy.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29017,7 +29017,7 @@
 <vendorCode>9789662849424</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-uchymosia-pysaty-litery-ta-slova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>78</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26229/trenazher_doshkilnika_ula_uchimosya_pisati_literi_ta_slova.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29041,7 +29041,7 @@
 <vendorCode>9789662849400</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-uchymosia-lichyty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>78</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26230/trenazher_doshkilnika_ula_uchimosya_lichiti.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29065,7 +29065,7 @@
 <vendorCode>9789662849431</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-uchymosia-chytaty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>78</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26231/trenazher_doshkilnika_ula_uchimosya_chitati.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29089,7 +29089,7 @@
 <vendorCode>9789662849417</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-uchymosia-lohichno-myslyty/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>78</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26232/trenazher_doshkilnika_ula_uchimosya_logichno_misliti.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29137,7 +29137,7 @@
 <vendorCode>9789662849547</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/2-3-roky/malenkyi-rozumnyk-ula-propysy-vid-2-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
+<categoryId>92</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26234/malenkiy_rozumnik_ula_propisi_vid_2_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29160,7 +29160,7 @@
 <vendorCode>9789662849554</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/3-4-roky/malenkyi-rozumnyk-ula-propysy-vid-3-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26235/malenkiy_rozumnik_ula_propisi_vid_3_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29183,7 +29183,7 @@
 <vendorCode>9789662849561</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/malenkyi-rozumnyk-ula-propysy-vid-4-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26236/malenkiy_rozumnik_ula_propisi_vid_4_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -31463,7 +31463,7 @@
 <vendorCode>9786177576845</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-konstruktor-ula-bezkrainie-more/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26400/kniga_z_nalipkami_konstruktor_ula_bezkrayn_more.jpg</picture>
 <vendor>УЛА</vendor>
@@ -31487,7 +31487,7 @@
 <vendorCode>9786177576821</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-konstruktor-ula-dyvovyzhni-dynozavry/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26401/kniga_z_nalipkami_konstruktor_ula_divovizhni_dinozavri.jpg</picture>
 <vendor>УЛА</vendor>
@@ -31511,7 +31511,7 @@
 <vendorCode>9786177576838</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-konstruktor-ula-taiemnychyi-kosmos/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26402/kniga_z_nalipkami_konstruktor_ula_ta_mnichiy_kosmos.jpg</picture>
 <vendor>УЛА</vendor>
@@ -31535,7 +31535,7 @@
 <vendorCode>9786177576616</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/moia-kolektsiia-nalipok-ula-tvaryny/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26403/moya_kolektsiya_nalipok_ula_tvarini.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32022,7 +32022,7 @@
 <vendorCode>9789662848915</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>108</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32045,7 +32045,7 @@
 <vendorCode>9789662848922</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>108</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32068,7 +32068,7 @@
 <vendorCode>9789662848939</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>108</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32636,7 +32636,7 @@
 <vendorCode>9789662849905</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/3-4-roky/malenkyi-rozumnyk-ula-uchymo-bukvy-3/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26460/malenkiy_rozumnik_ula_uchimo_bukvi_3.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32660,7 +32660,7 @@
 <vendorCode>9789662849912</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/malenkyi-rozumnyk-ula-chytaiemo-sklady-4/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>115</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26461/malenkiy_rozumnik_ula_chita_mo_skladi_4.jpg</picture>
 <vendor>УЛА</vendor>
@@ -32684,7 +32684,7 @@
 <vendorCode>9789662849929</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/malenkyi-rozumnyk-ula-chytaiemo-slova-5/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>115</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26462/malenkiy_rozumnik_ula_chita_mo_slova_5.jpg</picture>
 <vendor>УЛА</vendor>
@@ -33044,7 +33044,7 @@
 <vendorCode>9789662849745</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/hrai-nalipliai-ula-tekhnika/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>24</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26477/gray_naliplyay_ula_tehnika.jpg</picture>
 <vendor>УЛА</vendor>
@@ -33069,7 +33069,7 @@
 <vendorCode>9789662849714</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/hrai-nalipliai-ula-pryntsesy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>125</categoryId>
 <price>24</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26480/gray_naliplyay_ula_printsesi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -33164,7 +33164,7 @@
 <vendorCode>9789662849837</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-kukhar-ula-na-pikniku/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26484/malenkiy_kuhar_ula_na_pikniku.jpg</picture>
 <vendor>УЛА</vendor>
@@ -33188,7 +33188,7 @@
 <vendorCode>9789662849851</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-kukhar-ula-u-pekarni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26485/malenkiy_kuhar_ula_u_pekarni.jpg</picture>
 <vendor>УЛА</vendor>
@@ -33212,7 +33212,7 @@
 <vendorCode>9789662849844</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-kukhar-ula-na-yarmarku/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26486/malenkiy_kuhar_ula_na_yarmarku.jpg</picture>
 <vendor>УЛА</vendor>
@@ -34244,7 +34244,7 @@
 <vendorCode>9789669399625</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-shtrykhuiemo-ta-navodymo-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26546/propisi_torsing_shtrihu_mo_ta_navodimo_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -34268,7 +34268,7 @@
 <vendorCode>9789669399564</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-velyki-litery-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26547/propisi_torsing_pishemo_veliki_literi_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -34292,7 +34292,7 @@
 <vendorCode>9789669399557</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-drukovani-litery-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26548/propisi_torsing_pishemo_drukovani_literi_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -34316,7 +34316,7 @@
 <vendorCode>9789669399601</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-dvoma-rukamy-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26549/propisi_torsing_pishemo_dvoma_rukami_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -34340,7 +34340,7 @@
 <vendorCode>9789669399588</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-v-liniiku-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26550/propisi_torsing_pishemo_v_liniyku_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -34364,7 +34364,7 @@
 <vendorCode>9789669399595</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-v-klitynku-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26551/propisi_torsing_pishemo_v_klitinku_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -35352,7 +35352,7 @@
 <vendorCode>9789669398123</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/lehke-navchannia-torsinh-henii-za-5-khvylyn-4/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>89</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26596/legke_navchannya_torsing_geniy_za_5_hvilin_4.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -35376,7 +35376,7 @@
 <vendorCode>9789669398116</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/lehke-navchannia-torsinh-henii-za-5-khvylyn-3/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>89</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26597/legke_navchannya_torsing_geniy_za_5_hvilin_3.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -35400,7 +35400,7 @@
 <vendorCode>9789669398109</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/lehke-navchannia-torsinh-henii-za-5-khvylyn-2/</url>
 <currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
+<categoryId>92</categoryId>
 <price>89</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26598/legke_navchannya_torsing_geniy_za_5_hvilin_2.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -35424,7 +35424,7 @@
 <vendorCode>9789669398130</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/lehke-navchannia-torsinh-henii-za-5-khvylyn-5/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>89</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26599/legke_navchannya_torsing_geniy_za_5_hvilin_5.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -36697,7 +36697,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ 4 клас. Я досліджую світ АТЛАС + контурні карти  та навчальні презентації Атлас створений відповідно до Типової освітньої програми, розробленої під керівництвом О.Я. Савченко та Р.Б. Шияна до інтегрованого курсу «Я досліджую світ» 4 клас. Повнокольорове видання містить карти, схеми, діаграми, а також контурні карти для наочності. Сторінки атласу демонструють природу материків та океанів, їх різноманітність. Посібник стане у пригоді як для сучасних здобувачів освіти, так і для вчителів.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>97</quantity_in_stock>
 <param name="Автор">Назаренко А. А.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -38353,7 +38353,7 @@
 <vendorCode>9786175440100</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/kompleksni-propysy-ula-dlia-doshkilniat-55-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26840/kompleksni_propisi_ula_dlya_doshkilnyat_55_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -39697,7 +39697,7 @@
 <vendorCode>9789669399861</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-toi-khto-boiavsia-temriavy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26930/ya_chitayu_samostiyno_torsing_velikiy_shrift_toy_hto_boyavsya_temryavi.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -39721,7 +39721,7 @@
 <vendorCode>9789669399892</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-taiemnytsia-rozbytoho-dzerkala/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26931/ya_chitayu_samostiyno_torsing_velikiy_shrift_ta_mnitsya_rozbitogo_dzerkala.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -39745,7 +39745,7 @@
 <vendorCode>9789669399885</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-khto-vkrav-snih/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26932/ya_chitayu_samostiyno_torsing_velikiy_shrift_hto_vkrav_snig.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -39769,7 +39769,7 @@
 <vendorCode>9789669399878</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-shkola-krylatykh-pirativ/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26933/ya_chitayu_samostiyno_torsing_velikiy_shrift_shkola_krilatih_pirativ.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -41912,7 +41912,7 @@
 <vendorCode>978-966-429-617-2</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-ekspres-shablon-fediienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27160/nush_angliyski_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
 <vendor>Школа</vendor>
@@ -41936,7 +41936,7 @@
 <vendorCode>978-966-429-697-4</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-ekspres-shablon-fediienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27161/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_ekspres_shablon_fedi_nko.jpg</picture>
 <vendor>Школа</vendor>
@@ -41960,7 +41960,7 @@
 <vendorCode>978-966-429-564-9</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovani-ta-kalihrafichni-shryfty-fediienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
+<categoryId>8</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27162/nush_angliyski_propisi_shkola_napivdrukovani_ta_kaligrafichni_shrifti_fedi_nko.jpg</picture>
 <vendor>Школа</vendor>
@@ -42715,7 +42715,7 @@
 <vendorCode>9786175440346</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-dzhunhli-24-velyki-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27204/mami_y_malyuki_ula_dzhungli_24_veliki_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42739,7 +42739,7 @@
 <vendorCode>9786175440353</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-more-y-okean-24-velyki-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27205/mami_y_malyuki_ula_more_y_okean_24_veliki_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42763,7 +42763,7 @@
 <vendorCode>9786175440377</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-richka-y-ozero-24-velyki-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27206/mami_y_malyuki_ula_richka_y_ozero_24_veliki_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42787,7 +42787,7 @@
 <vendorCode>9786175440360</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-1-rokiv/mamy-y-maliuky-ula-pivnichnyi-polius-24-velyki-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>124</categoryId>
 <price>34</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27207/mami_y_malyuki_ula_pivnichniy_polyus_24_veliki_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42861,7 +42861,7 @@
 <vendorCode>9786175440681</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-dekorator-ula-u-dytiachomu-sadku-85-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27212/malenkiy_dekorator_ula_u_dityachomu_sadku_85_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42885,7 +42885,7 @@
 <vendorCode>9786175440674</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-dekorator-ula-u-budynku-70-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27213/malenkiy_dekorator_ula_u_budinku_70_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -42909,7 +42909,7 @@
 <vendorCode>9786175440698</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/malenkyi-dekorator-ula-u-supermarketi-90-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27214/malenkiy_dekorator_ula_u_supermarketi_90_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44048,7 +44048,7 @@
 <vendorCode>9786175440803</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/knyha-z-nalipkamy-ula-hominka-ferma-noisy-farm-nalipky-navchalky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>104</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27282/kniga_z_nalipkami_ula_gominka_ferma_noisy_farm_nalipki_navchalki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44071,7 +44071,7 @@
 <vendorCode>9786175440797</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/knyha-z-nalipkamy-ula-velyke-misto-big-city-nalipky-navchalky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>104</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27283/kniga_z_nalipkami_ula_velike_misto_big_city_nalipki_navchalki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44440,7 +44440,7 @@
 <vendorCode>9786175440926</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-avtomaisternia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27316/kniga_nalipki_pomichnitsi_ula_avtomaysternya.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44464,7 +44464,7 @@
 <vendorCode>9786175440940</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-harderob-modnytsi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27317/kniga_nalipki_pomichnitsi_ula_garderob_modnitsi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44488,7 +44488,7 @@
 <vendorCode>9786175440964</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-kosmichna-stantsiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27318/kniga_nalipki_pomichnitsi_ula_kosmichna_stantsiya.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44512,7 +44512,7 @@
 <vendorCode>9786175440933</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-velyke-prybyrannia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27319/kniga_nalipki_pomichnitsi_ula_velike_pribirannya.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44536,7 +44536,7 @@
 <vendorCode>9786175440964</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-port-i-aeroport/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27320/kniga_nalipki_pomichnitsi_ula_port_i_aeroport.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44560,7 +44560,7 @@
 <vendorCode>9786175440971</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyha-nalipky-pomichnytsi-ula-sviatkovyi-stil/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>58</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27321/kniga_nalipki_pomichnitsi_ula_svyatkoviy_stil.jpg</picture>
 <vendor>УЛА</vendor>
@@ -44856,7 +44856,7 @@
 <vendorCode>9786175441053</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-propysy-5/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27342/zavdannya_5_hvilinki_ula_propisi_5.jpg</picture>
 <vendor>УЛА</vendor>
@@ -47800,7 +47800,7 @@
 <vendor>Літера</vendor>
 <description>
 <![CDATA[НУШ. Інформатика. Робочий зошит. 4 клас (до підручника Козак Л. З.)  НУШ Робочий зошит Інформатинка 4 клас Нова українська школа Козак Л. Літера. Дорогі учні! На уроках інформатики ви дізнаєтеся, як корисно й цікаво можна використовувати цифрові пристрої для вирішення різних життєвих завдань та безпечно маневрувати у віртуальному світі.  А найголовніше - ви будете вчитися працювати з інформацією: шукати, порівнювати, прогнозувати, пропонувати різні шляхи розв'язання задач, аналізувати отримані результати.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Автор">Козак Л. З.</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -50452,7 +50452,7 @@
 <vendorCode>9786175441442</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-chytannia-6/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27798/zavdannya_5_hvilinki_ula_chitannya_6.jpg</picture>
 <vendor>УЛА</vendor>
@@ -50476,7 +50476,7 @@
 <vendorCode>9786175441435</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-chytannia-5/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27799/zavdannya_5_hvilinki_ula_chitannya_5.jpg</picture>
 <vendor>УЛА</vendor>
@@ -52510,7 +52510,7 @@
 <vendorCode>9786175441268</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-chystopysannia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27919/kaligrafiya_dlya_vidminnika_ula_chistopisannya.jpg</picture>
 <vendor>УЛА</vendor>
@@ -52533,7 +52533,7 @@
 <vendorCode>9786175441251</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-propysy-dlia-livshi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27920/kaligrafiya_dlya_vidminnika_ula_propisi_dlya_livshi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -52556,7 +52556,7 @@
 <vendorCode>9786175441244</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-matematychni-propysy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27921/kaligrafiya_dlya_vidminnika_ula_matematichni_propisi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -52579,7 +52579,7 @@
 <vendorCode>9786175441237</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-vypravlennia-pocherku/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27922/kaligrafiya_dlya_vidminnika_ula_vipravlennya_pocherku.jpg</picture>
 <vendor>УЛА</vendor>
@@ -54370,7 +54370,7 @@
 <vendorCode>9786175240816</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-khvyliasti-linii-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28065/pershe_pismo_torsing_hvilyasti_lini_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -54393,7 +54393,7 @@
 <vendorCode>9786175240809</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-rysochky-ta-linii-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28066/pershe_pismo_torsing_risochki_ta_lini_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -54416,7 +54416,7 @@
 <vendorCode>9786175240854</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-propysni-litery-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28067/pershe_pismo_torsing_propisni_literi_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -54439,7 +54439,7 @@
 <vendorCode>9786175240847</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-drukovani-litery-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28068/pershe_pismo_torsing_drukovani_literi_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -54462,7 +54462,7 @@
 <vendorCode>9786175240823</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-hachky-ta-spiralky-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28069/pershe_pismo_torsing_gachki_ta_spiralki_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -54485,7 +54485,7 @@
 <vendorCode>9786175240830</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/pershe-pysmo-torsinh-tsyfry-ta-znaky-4-6-rokiv-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28070/pershe_pismo_torsing_tsifri_ta_znaki_4_6_rokiv_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -55428,7 +55428,7 @@
 <vendorCode>9786175441886</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/navchaiemosia-z-nalipkamy-ula-leveniatko-74-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28148/navcha_mosya_z_nalipkami_ula_levenyatko_74_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -55451,7 +55451,7 @@
 <vendorCode>9786175441893</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/navchaiemosia-z-nalipkamy-ula-lyseniatko-74-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28149/navcha_mosya_z_nalipkami_ula_lisenyatko_74_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -55474,7 +55474,7 @@
 <vendorCode>9786175441909</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/navchaiemosia-z-nalipkamy-ula-pinhvinchyk-74-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28150/navcha_mosya_z_nalipkami_ula_pingvinchik_74_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -55497,7 +55497,7 @@
 <vendorCode>9786175441916</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/navchaiemosia-z-nalipkamy-ula-porosiatko-74-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28151/navcha_mosya_z_nalipkami_ula_porosyatko_74_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -55620,7 +55620,7 @@
 <vendorCode>9786175441701</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-doshkilnyka-ula-365-dniv-do-shkoly/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28156/trenazher_doshkilnika_ula_365_dniv_do_shkoli.jpg</picture>
 <vendor>УЛА</vendor>
@@ -58051,7 +58051,7 @@
 <vendorCode>9786175241011</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-kazky-charivna-kvitka-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28296/propisi_torsing_pishemo_kazki_charivna_kvitka_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -58075,7 +58075,7 @@
 <vendorCode>9786175241028</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-kazky-nezabarom-sviato/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28297/propisi_torsing_pishemo_kazki_nezabarom_svyato.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -58099,7 +58099,7 @@
 <vendorCode>9786175240991</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-kazky-lisovi-druzi-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28298/propisi_torsing_pishemo_kazki_lisovi_druzi_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -58123,7 +58123,7 @@
 <vendorCode>9786175241004</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-torsinh-pyshemo-kazky-kazkova-pryhoda-fisina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28299/propisi_torsing_pishemo_kazki_kazkova_prigoda_fisina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -63131,7 +63131,7 @@
 <vendorCode>9786177877508</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-dlia-mozku-maliuiemo-dvoma-rukamy-5-7-rokiv-assa-nova-shkola-dlia-maliat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>8</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28768/trenazher_dlya_mozku_malyu_mo_dvoma_rukami_5_7_rokiv_assa_nova_shkola_dlya_malyat.jpg</picture>
 <vendor>АССА</vendor>
@@ -63178,7 +63178,7 @@
 <vendorCode>9786178229429</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/vyvchaiemo-litery-richnyi-kurs-zavdan-vid-4-kh-rokiv-assa-nova-shkola-dlia-maliat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28770/vivcha_mo_literi_richniy_kurs_zavdan_vid_4_h_rokiv_assa_nova_shkola_dlya_malyat.jpg</picture>
 <vendor>АССА</vendor>
@@ -64754,7 +64754,7 @@
 <vendorCode>9786175405895</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/robochyi-zoshyt-ranok-prominchyky-znan-5-intehrovani-zaniattia-dib-l-m/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28972/robochiy_zoshit_ranok_prominchiki_znan_5_integrovani_zanyattya_dib_l_m.jpg</picture>
 <vendor>Ранок</vendor>
@@ -68847,7 +68847,7 @@
 <vendorCode>9786175442548</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-matematyka-tsyfry-ta-znaky-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29474/pershoklasna_pidgotovka_do_shkoli_ula_matematika_tsifri_ta_znaki_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -68871,7 +68871,7 @@
 <vendorCode>9786175442531</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-matematyka-formy-ta-velychyny-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29475/pershoklasna_pidgotovka_do_shkoli_ula_matematika_formi_ta_velichini_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -68895,7 +68895,7 @@
 <vendorCode>9786175442524</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-matematyka-dodavannia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29476/pershoklasna_pidgotovka_do_shkoli_ula_matematika_dodavannya_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -68919,7 +68919,7 @@
 <vendorCode>9786175442517</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-matematyka-vidnimannia-c-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29477/pershoklasna_pidgotovka_do_shkoli_ula_matematika_vidnimannya_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -69864,7 +69864,7 @@
 <vendorCode>9789669463487</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryroda-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>15</categoryId>
+<categoryId>10</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29639/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_priroda_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -69930,28 +69930,7 @@
 <param name="ISBN">9786170979223</param>
 <param name="Формат, розмір">205х265 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-<offer id="29642" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Набір карток Ранок Вивчаємо цифри за методикою Глена Домана</name>
-<vendorCode>4823277488960</vendorCode>
-<url>https://knigovan.com/karty-plakaty-naochnist/nabir-plakativ-kartok/pochatkova-shkola-1/nush-nabir-kartok-ranok-vyvchaiemo-tsyfry-za-metodykoiu-hlena-domana/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>105</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29642/nush_nabir_kartok_ranok_vivcha_mo_tsifri_za_metodikoyu_glena_domana.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Набір карток за методикою Глена Домана "Вивчаємо цифри"  Пропонуємо навчальний комплект з цифрами та математичними знаками за унікальною методикою Глена Домана.   48 карток набору допоможуть дитині весело та швидко вивчити цифри, познайомитися з арифметичними діями.  Гра розвиватиме у малюка розумові здібності та фотографічну пам'ять. ]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">2-4 роки</param>
-<param name="Тип">Картки</param>
-<param name="Серія">Картки Глена Домана</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2024</param>
-<param name="Тип обкладинки">коробка</param>
-<param name="ISBN">4823277488960</param>
-<param name="Формат, розмір">50х70х15 мм</param>
-<param name="Видавництво">Ранок</param></offer>
+
 
 
 
@@ -70080,7 +70059,7 @@
 <vendorCode>9786177403394</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/skarbnytsia-kazok-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29657/skarbnitsya_kazok_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70103,7 +70082,7 @@
 <vendorCode>9786177403356</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/lili-ta-chaklunska-nauka-belkar-knyha-svit-kazky-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29658/lili_ta_chaklunska_nauka_belkar_kniga_svit_kazki_lindli.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70126,7 +70105,7 @@
 <vendorCode>9786177403370</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/do-kazky-na-hostynu-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29659/do_kazki_na_gostinu_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70149,7 +70128,7 @@
 <vendorCode>9786177403349</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovi-pryhody-belkar-knyha-svit-kazky-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29660/kazkovi_prigodi_belkar_kniga_svit_kazki_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70172,7 +70151,7 @@
 <vendorCode>9786177403301</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/dyvna-druzhba-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29661/divna_druzhba_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70310,7 +70289,7 @@
 <vendorCode>9786177403080</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-charivni-kazky-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29667/krashchi_charivni_kazki_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70356,7 +70335,7 @@
 <vendorCode>9786177403073</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-ta-opovidannia-belkar-knyha-svit-kazky-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29669/krashchi_kazki_ta_opovidannya_belkar_kniga_svit_kazki_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70379,7 +70358,7 @@
 <vendorCode>9786177403042</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-tvaryn-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29670/krashchi_kazki_pro_tvarin_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70425,7 +70404,7 @@
 <vendorCode>9789661694797</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-pryntses-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29672/krashchi_kazki_pro_printses_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70448,7 +70427,7 @@
 <vendorCode>9789661694827</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-ukrainski-kazky-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29673/krashchi_ukra_nski_kazki_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70471,7 +70450,7 @@
 <vendorCode>9789661694711</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-fei-ta-pryntses-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29674/krashchi_kazki_pro_fey_ta_printses_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70494,7 +70473,7 @@
 <vendorCode>9786177403431</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/pryhody-sherloka-belkar-knyha-opovidannia-chytaiu-sam-horodetska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>139</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29675/prigodi_sherloka_belkar_kniga_opovidannya_chitayu_sam_gorodetska.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70540,7 +70519,7 @@
 <vendorCode>9786177403318</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/urok-dobroty-belkar-knyha-opovidannia-chytaiu-sam-hurina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29677/urok_dobroti_belkar_kniga_opovidannya_chitayu_sam_gurina.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70563,7 +70542,7 @@
 <vendorCode>9786177403288</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-staty-charivnykom-belkar-knyha-opovidannia-kazky-chytaiu-sam-babaieva/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29678/yak_stati_charivnikom_belkar_kniga_opovidannya_kazki_chitayu_sam_baba_va.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70586,7 +70565,7 @@
 <vendorCode>9786177403141</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nespodivanyi-podarunok-belkar-knyha-opovidannia-chytaiu-sam-hryhoruk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>139</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29679/nespodivaniy_podarunok_belkar_kniga_opovidannya_chitayu_sam_grigoruk.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70609,7 +70588,7 @@
 <vendorCode>9786177403035</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/pukhnaste-shchastia-belkar-knyha-opovidannia-kazky-chytaiu-sam/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>139</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29680/puhnaste_shchastya_belkar_kniga_opovidannya_kazki_chitayu_sam.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70656,7 +70635,7 @@
 <vendorCode>9786177403448</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-pro-tvaryn-belkar-knyha-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29683/opovidki_pro_tvarin_belkar_kniga_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70679,7 +70658,7 @@
 <vendorCode>9786177403424</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/z-choho-pochynaietsia-liudyna-belkar-knyha-opovidannia-kazky-virshi-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29684/z_chogo_pochina_tsya_lyudina_belkar_kniga_opovidannya_kazki_virshi_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70725,7 +70704,7 @@
 <vendorCode>9786177403325</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-darunky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29686/nezvichayni_darunki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70817,7 +70796,7 @@
 <vendorCode>9786177403004</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/daruvaty-dobro-belkar-knyha-kazky-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29690/daruvati_dobro_belkar_kniga_kazki_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70863,7 +70842,7 @@
 <vendorCode>9789661694919</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/zacharovana-pryntsesa-belkar-knyha-kazky-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29692/zacharovana_printsesa_belkar_kniga_kazki_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70958,7 +70937,7 @@
 <vendorCode>9789661694742</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krykhitka-feia-belkar-knyha-kazky-pro-fei-ta-elfiv-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29699/krihitka_feya_belkar_kniga_kazki_pro_fey_ta_elfiv_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -70981,7 +70960,7 @@
 <vendorCode>9789661694735</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkova-kraina-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29700/kazkova_kra_na_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71050,7 +71029,7 @@
 <vendorCode>9789661694452</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/mandrivka-u-kazku-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29703/mandrivka_u_kazku_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71073,7 +71052,7 @@
 <vendorCode>9789661694438</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/dobra-nauka-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29704/dobra_nauka_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71096,7 +71075,7 @@
 <vendorCode>9789661694001</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazka-zbyraie-druziv-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29705/kazka_zbira_druziv_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71119,7 +71098,7 @@
 <vendorCode>9789668816604</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovi-perlynky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29706/kazkovi_perlinki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71235,7 +71214,7 @@
 <vendorCode>9789668816727</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkova-skrynka-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29712/kazkova_skrinka_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71281,7 +71260,7 @@
 <vendorCode>9789668816673</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazochky-na-dobranich-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29714/kazochki_na_dobranich_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71304,7 +71283,7 @@
 <vendorCode>9789668816819</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovymy-stezhynkamy-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29715/kazkovimi_stezhinkami_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71327,7 +71306,7 @@
 <vendorCode>9786177403400</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazky-dlia-malechi-belkar-knyha-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29716/kazki_dlya_malechi_belkar_kniga_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71350,7 +71329,7 @@
 <vendorCode>9786177403332</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/lapka-pomichnyk-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29717/lapka_pomichnik_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71396,7 +71375,7 @@
 <vendorCode>9786177403264</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/zustrich-z-kazkoiu-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29719/zustrich_z_kazkoyu_belkar_kniga_kazki_chitannya_po_skladah_prominets.png</picture>
 <vendor>Белкар-книга</vendor>
@@ -71419,7 +71398,7 @@
 <vendorCode>9786177403219</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/khytryi-piven-belkar-knyha-kazky-opovidannia-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29720/hitriy_piven_belkar_kniga_kazki_opovidannya_chitannya_po_skladah_prominets.png</picture>
 <vendor>Белкар-книга</vendor>
@@ -71442,7 +71421,7 @@
 <vendorCode>9789661694780</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/druzi-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29721/druzi_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.png</picture>
 <vendor>Белкар-книга</vendor>
@@ -71465,7 +71444,7 @@
 <vendorCode>9789661694575</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/pan-kotskyi-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29722/pan_kotskiy_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71488,7 +71467,7 @@
 <vendorCode>9789668816635</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/mii-druh-kazka-belkar-knyha-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29723/miy_drug_kazka_belkar_kniga_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71511,7 +71490,7 @@
 <vendorCode>9789668816864</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/podorozh-u-kazku-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29724/podorozh_u_kazku_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71604,7 +71583,7 @@
 <vendorCode>9789661694506</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/naiharnisha-mama-belkar-knyha-kazky-prominets-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29729/naygarnisha_mama_belkar_kniga_kazki_prominets_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71627,7 +71606,7 @@
 <vendorCode>9789661694384</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/myshacha-rada-belkar-knyha-ukrainski-narodni-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>107</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29730/mishacha_rada_belkar_kniga_ukra_nski_narodni_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71857,7 +71836,7 @@
 <vendorCode>9789668816499</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-pryhody-i-taiemnytsi-belkar-knyha-skarbnychka-shkoliara-kostetskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29740/nezvichayni_prigodi_i_ta_mnitsi_belkar_kniga_skarbnichka_shkolyara_kostetskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -71880,7 +71859,7 @@
 <vendorCode>9789661694445</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/odynytsia-z-obmanom-belkar-knyha-piatirka-z-khvostykom-super-b-z-frykadelkamy-skarbnychka-shkoliara-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>336</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29741/odinitsya_z_obmanom_belkar_kniga_p_yatirka_z_hvostikom_super_b_z_frikadelkami_skarbnichka_shkolyara_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -72194,49 +72173,9 @@
 <param name="Видавництво">Ула</param></offer>
 
 
-<offer id="29767" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Картки А5 Українська абетка 33 картки ZIRKA</name>
-<vendorCode>9789660838857</vendorCode>
-<url>https://knigovan.com/karty-plakaty-naochnist/nabir-plakativ-kartok/pochatkova-shkola-1/nush-kartky-a5-ukrainska-abetka-33-kartky-zirka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>231</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29767/nush_kartki_a5_ukra_nska_abetka_33_kartki_zirka.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Картки А5. Українська абетка. НУШ  Тематичні комплекти карток допоможуть дорослим ознайомити дитину з навколишнім світом, розвинути мовленнєві вміння, навчити порівнювати, класифікувати, узагальнювати. Картки можуть бути використані для пізнавальних ігор та занять з дітьми. Також стануть в нагоді для індивідуальної та групової роботи логопедам, психологам, вихователям дитячих садків, учителям початкових класів. У наборі 33 картки виконані на цупкому картоні розміром 150х200 мм. Відповідають вимогам НУШ (Нова Українська Школа).  Матеріал - картон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">дошкільний, молодший шкільний</param>
-<param name="Тип">картки</param>
-<param name="Кількість сторінок">33</param>
-<param name="Тип паперу">картон, кольорова</param>
-<param name="Тип обкладинки">Пакет п/п</param>
-<param name="ISBN">9789660838857</param>
-<param name="Формат, розмір">150х200 мм</param>
-<param name="Видавництво">ZIRKA</param></offer>
 
-<offer id="29769" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Картки А5. Цифри. Числа. Знаки 36 карткок ZIRKA</name>
-<vendorCode>9786110000079</vendorCode>
-<url>https://knigovan.com/karty-plakaty-naochnist/nabir-plakativ-kartok/pochatkova-shkola-1/nush-kartky-a5-tsyfry-chysla-znaky-36-kartkok-zirka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>231</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29769/nush_kartki_a5_tsifri_chisla_znaki_36_kartkok_zirka.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Цифри. Числа. Знаки. Картки А5 НУШ  Тематичні комплекти карток допоможуть дорослим ознайомити дитину з навколишнім світом, розвинути мовленнєві вміння, навчити порівнювати, класифікувати, узагальнювати. Картки можуть бути використані для пізнавальних ігор та занять з дітьми. Також стануть в нагоді для індивідуальної та групової роботи логопедам, психологам, вихователям дитячих садків, учителям початкових класів.  У наборі 36 карток виконані на цупкому картоні розміром 150х200 мм. Відповідають вимогам НУШ (Нова Українська Школа).  Матеріал - картон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">дошкільний, молодший шкільний</param>
-<param name="Тип">картки</param>
-<param name="Кількість сторінок">36</param>
-<param name="Тип паперу">картон, кольорова</param>
-<param name="Тип обкладинки">Пакет п/п</param>
-<param name="ISBN">9786110000079</param>
-<param name="Формат, розмір">150x200 мм.</param>
-<param name="Видавництво">ZIRKA</param></offer>
+
+
 
 
 
@@ -72455,7 +72394,7 @@
 <vendorCode>1210078</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/komplekt-shkola-krolyka-dobryka-assa-4/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>94</categoryId>
 <price>320</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29799/komplekt_shkola_krolika_dobrika_assa_4.jpg</picture>
 <vendor>АССА</vendor>
@@ -72693,7 +72632,7 @@
 <vendorCode>9786175241134</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-shkola-mriinykiv-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29822/sam_udoma_torsing_shkola_mriynikiv_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -72717,7 +72656,7 @@
 <vendorCode>9786175241110</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-khto-na-kukhni-holovnyi-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29823/sam_udoma_torsing_hto_na_kuhni_golovniy_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -72741,7 +72680,7 @@
 <vendorCode>9786175241141</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-potiah-nevydymka-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29824/sam_udoma_torsing_potyag_nevidimka_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -72765,7 +72704,7 @@
 <vendorCode>9786175241127</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-babusia-charivnytsia-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29825/sam_udoma_torsing_babusya_charivnitsya_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -73273,7 +73212,7 @@
 <vendorCode>9789669462695</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/1-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryrodoznavstvo-1-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>13</categoryId>
+<categoryId>8</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29859/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_prirodoznavstvo_1_2_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -73295,7 +73234,7 @@
 <vendorCode>1210088</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-suspilstvo-istoriia-kultura-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>15</categoryId>
+<categoryId>10</categoryId>
 <price>201</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29860/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_suspilstvo_istoriya_kultura_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -73341,7 +73280,7 @@
 <vendorCode>9789669462879</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/atlas-ukrainoznavstvo-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
+<categoryId>47</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29862/atlas_ukra_noznavstvo_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -73363,7 +73302,7 @@
 <vendorCode>9789669463449</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/atlas-ukrainoznavstvo-7-8-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>57</categoryId>
+<categoryId>49</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29863/atlas_ukra_noznavstvo_7_8_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -74316,50 +74255,8 @@
 <param name="ISBN">978-966-945-410-2</param>
 <param name="Формат, розмір">84х108/16</param>
 <param name="Видавництво">Літера</param></offer>
-<offer id="29963" available="true" in_stock="true" selling_type="r" >
-<name>Роздавальний матеріал Ранок Фігури. Кольори. 36 двосторонніх карток</name>
-<vendorCode>4823076112547</vendorCode>
-<url>https://knigovan.com/karty-plakaty-naochnist/nabir-plakativ-kartok/pochatkova-shkola-1/rozdavalnyi-material-ranok-fihury-kolory-36-dvostoronnikh-kartok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>93</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29963/rozdavalniy_material_ranok_figuri_kolori_36_dvostoronnih_kartok.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Роздавальний матеріал "Фігури. Кольори"   Пропонуємо вам набір із 36 двосторонніх карток із зображеннями основних фігур: квадрат, круг, прямокутник, трикутник та ромб. Кожна фігура розфарбована 7 кольорами веселки, а також білим, бірюзовим, бежевим, рожевим, коричневим, чорним та сірим. Набір містить картку-підказку з кольорами та іхніми назвами.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3-7 років</param>
-<param name="Тип">картки</param>
-<param name="Серія">Двосторонні роздавальні картки</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">коробка</param>
-<param name="ISBN">4823076112547</param>
-<param name="Формат, розмір">50х70х15 мм</param>
-<param name="Видавництво">Ранок/Наочні посібники</param></offer>
-<offer id="29964" available="true" in_stock="true" selling_type="r" >
-<name>Роздавальний матеріал Ранок Цифри та знаки. 36 двосторонніх карток</name>
-<vendorCode>4823076112530</vendorCode>
-<url>https://knigovan.com/karty-plakaty-naochnist/nabir-plakativ-kartok/pochatkova-shkola-1/rozdavalnyi-material-ranok-tsyfry-ta-znaky-36-dvostoronnikh-kartok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>111</categoryId>
-<price>93</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29964/rozdavalniy_material_ranok_tsifri_ta_znaki_36_dvostoronnih_kartok.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Роздавальний матеріал "Цифри та знаки"   Пропонуємо вам набір із 36 двосторонніх карток із зображеннями цифр, математичних знаків та предметів. Гра з картками допоможе дитині легко й весело навчитися рахувати та розв’язувати прості задачі.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3-6 років</param>
-<param name="Тип">картки</param>
-<param name="Серія">Двосторонні роздавальні картки</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">коробка</param>
-<param name="ISBN">4823076112530</param>
-<param name="Формат, розмір">50х70х15 мм</param>
-<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+
+
 <offer id="29965" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Тренажер з читання 1 клас Оріон Читаємо швидко і вдумливо Пономарьова</name>
 <vendorCode>9789669912824</vendorCode>
@@ -74656,7 +74553,7 @@
 <vendorCode>9786175442791</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/propysy-z-virshykamy-y-zahadkamy-ula-transport-i-tekhnika-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29981/propisi_z_virshikami_y_zagadkami_ula_transport_i_tehnika_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -74679,7 +74576,7 @@
 <vendorCode>9786175442784</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/propysy-z-virshykamy-y-zahadkamy-ula-tvaryny-ta-ptakhy-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29982/propisi_z_virshikami_y_zagadkami_ula_tvarini_ta_ptahi_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -74702,7 +74599,7 @@
 <vendorCode>9786175442777</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-3-rokiv/propysy-z-virshykamy-y-zahadkamy-ula-ovochi-ta-frukty-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
+<categoryId>93</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29983/propisi_z_virshikami_y_zagadkami_ula_ovochi_ta_frukti_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -76145,7 +76042,7 @@
 <vendorCode>9786175442845</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-ya-doslidzhuiu-svit-na-fermi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30120/pershoklasna_pidgotovka_do_shkoli_ula_ya_doslidzhuyu_svit_na_fermi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -76169,7 +76066,7 @@
 <vendorCode>9786175442852</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-ya-doslidzhuiu-svit-udoma/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30121/pershoklasna_pidgotovka_do_shkoli_ula_ya_doslidzhuyu_svit_udoma.jpg</picture>
 <vendor>УЛА</vendor>
@@ -76193,7 +76090,7 @@
 <vendorCode>9786175442869</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-ya-doslidzhuiu-svit-u-lisi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30122/pershoklasna_pidgotovka_do_shkoli_ula_ya_doslidzhuyu_svit_u_lisi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -76217,7 +76114,7 @@
 <vendorCode>9786175442876</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-ya-doslidzhuiu-svit-u-misti/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30123/pershoklasna_pidgotovka_do_shkoli_ula_ya_doslidzhuyu_svit_u_misti.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77059,7 +76956,7 @@
 <vendorCode>9786175442999</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-anhliiska-mova-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>116</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30167/litnya_pidgotovka_do_shkoli_ula_angliyska_mova_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77082,7 +76979,7 @@
 <vendorCode>9786175443002</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-kmitlyva-matematyka-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30168/litnya_pidgotovka_do_shkoli_ula_kmitliva_matematika_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77105,7 +77002,7 @@
 <vendorCode>9786175443019</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-lohichne-myslennia-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30169/litnya_pidgotovka_do_shkoli_ula_logichne_mislennya_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77128,7 +77025,7 @@
 <vendorCode>9786175443026</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-pershe-chytannia-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30170/litnya_pidgotovka_do_shkoli_ula_pershe_chitannya_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77151,7 +77048,7 @@
 <vendorCode>9786175443033</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-pidhotovchi-propysy-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30171/litnya_pidgotovka_do_shkoli_ula_pidgotovchi_propisi_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77174,7 +77071,7 @@
 <vendorCode>9786175443040</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/litnia-pidhotovka-do-shkoly-ula-svit-navkolo-mene-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30172/litnya_pidgotovka_do_shkoli_ula_svit_navkolo_mene_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77630,29 +77527,7 @@
 <param name="ISBN">978-617-8229-44-3</param>
 <param name="Формат, розмір">138х200 мм.</param>
 <param name="Видавництво">АССА</param></offer>
-<offer id="30195" available="true" in_stock="true" selling_type="r" >
-<name>Пригоди Містера Кроса АССА Неймовірна подорож собаки-мандрівника. Лео Сульман</name>
-<vendorCode>9786178229856</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pryhody-mistera-krosa-assa-neimovirna-podorozh-sobaky-mandrivnyka-leo-sulman/</url>
-<currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
-<price>350</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30195/prigodi_mistera_krosa_assa_neymovirna_podorozh_sobaki_mandrivnika_leo_sulman.jpg</picture>
-<vendor>АССА</vendor>
-<description>
-<![CDATA[Пригоди Містера Кроса. Неймовірна подорож собаки-мандрівника | Лео Сульман  Чи любите ви пригоди? Справжні, карколомні, з численними несподіванками й небезпеками? Які відбуваються на суші й в океані, у великому місті та джунглях, на фермі, в потязі, на військовій базі? Тоді ця книжка стане вашою улюбленою, бо щільність пригод у ній просто зашкалює! Головний герой оповіді — безпородний пес, який пройшов через безліч випробувань і досяг, здавалося б, недосяжного. І він хоче розповісти свою історію.  Чому варто прочитати:  Історія безпородного пса, який пройшов через безліч випробувань, викликає співчуття та захоплення, надихаючи читачів на подолання власних перешкод. Книга має багато сюжетних ілюстрацій, що робить читання не тільки цікавим, але й візуально привабливим.  Авторка:  Лео Сульман (справжнє ім’я Лев Кокшаров) народився 1965 року. Здобувши військову освіту, служив у військово-повітряних силах. Створив команду для участі в популярному телевізійному гумористичному шоу, перемігши в ньому. Після звільнення з армії присвятив себе телебаченню, працюючи режисером, генеральним продюсером телекомпанії, сценаристом. Мабуть, тому в першій книзі багато екшну, вона дуже легко візуалізується. Лео Сульман планує продовжити письменницьку діяльність. У його планах продовження пригод Містера Кроса та інші проєкти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Лео Сульман</param>
-<param name="Мова">українська</param>
-<param name="Вік">9+</param>
-<param name="Тип">книга для читання</param>
-<param name="Кількість сторінок">320</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-617-8229-85-6</param>
-<param name="Формат, розмір">138х200 мм.</param>
-<param name="Видавництво">АССА</param></offer>
+
 <offer id="30196" available="true" in_stock="true" selling_type="r" >
 <name>Коти-вояки АССА Книга 6 Темні часи (м&apos;яка обкладинка) Ерін Гантер</name>
 <vendorCode>9786178229535</vendorCode>
@@ -77802,7 +77677,7 @@
 <vendorCode>9786175443064</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-bukvy-ta-chytaiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30203/ekspres_propisi_z_nalipkami_ula_pishu_bukvi_ta_chitayu.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77826,7 +77701,7 @@
 <vendorCode>9786175443071</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-tsyfry-ta-rakhuiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30204/ekspres_propisi_z_nalipkami_ula_pishu_tsifri_ta_rahuyu.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77850,7 +77725,7 @@
 <vendorCode>978-617-544-308-8</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-dobyraiu-pary/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30205/ekspres_propisi_z_nalipkami_ula_pishu_ta_dobirayu_pari.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77874,7 +77749,7 @@
 <vendorCode>9786175443095</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-dopovniuiu-maliunky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30206/ekspres_propisi_z_nalipkami_ula_pishu_ta_dopovnyuyu_malyunki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77898,7 +77773,7 @@
 <vendorCode>9786175443101</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-maliuiu-po-klitynkakh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30207/ekspres_propisi_z_nalipkami_ula_pishu_ta_malyuyu_po_klitinkah.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77922,7 +77797,7 @@
 <vendorCode>9786175443118</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-maliuiu-po-tochkakh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30208/ekspres_propisi_z_nalipkami_ula_pishu_ta_malyuyu_po_tochkah.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77946,7 +77821,7 @@
 <vendorCode>9786175443125</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-navodzhu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30209/ekspres_propisi_z_nalipkami_ula_pishu_ta_navodzhu.jpg</picture>
 <vendor>УЛА</vendor>
@@ -77970,7 +77845,7 @@
 <vendorCode>9786175443132</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/ekspres-propysy-z-nalipkamy-ula-pyshu-ta-shtrykhuiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>22</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30210/ekspres_propisi_z_nalipkami_ula_pishu_ta_shtrihuyu.jpg</picture>
 <vendor>УЛА</vendor>
@@ -81446,7 +81321,7 @@
 <vendorCode>9786175443330</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/pershoklasna-pidhotovka-do-shkoly-ula-chytannia-rechennia-ta-teksty-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>116</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30420/pershoklasna_pidgotovka_do_shkoli_ula_chitannya_rechennya_ta_teksti_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -81592,7 +81467,7 @@
 <vendorCode>9786175443323</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/pershoklasna-pidhotovka-do-shkoly-ula-chytannia-slovospoluchennia-ta-rechennia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>116</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30431/pershoklasna_pidgotovka_do_shkoli_ula_chitannya_slovospoluchennya_ta_rechennya_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -81616,7 +81491,7 @@
 <vendorCode>9786175443316</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/pershoklasna-pidhotovka-do-shkoly-ula-chytannia-slova-ta-slovospoluchennia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>116</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30432/pershoklasna_pidgotovka_do_shkoli_ula_chitannya_slova_ta_slovospoluchennya_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -81640,7 +81515,7 @@
 <vendorCode>9786175443309</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/pershoklasna-pidhotovka-do-shkoly-ula-chytannia-sklady-ta-slova-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>116</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30433/pershoklasna_pidgotovka_do_shkoli_ula_chitannya_skladi_ta_slova_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -84983,7 +84858,7 @@
 <vendorCode>9786175242759</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/dlia-rozumnykiv-i-rozumnyts-torsinh-zavdannia-dlia-ditei-z-nalipkamy-2-marchenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
+<categoryId>92</categoryId>
 <price>97</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30653/dlya_rozumnikiv_i_rozumnits_torsing_zavdannya_dlya_ditey_z_nalipkami_2_marchenko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -85006,7 +84881,7 @@
 <vendorCode>9786175242766</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/dlia-rozumnykiv-i-rozumnyts-torsinh-zavdannia-dlia-ditei-z-nalipkamy-3-marchenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>97</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30654/dlya_rozumnikiv_i_rozumnits_torsing_zavdannya_dlya_ditey_z_nalipkami_3_marchenko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -85029,7 +84904,7 @@
 <vendorCode>9786175242773</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/dlia-rozumnykiv-i-rozumnyts-torsinh-zavdannia-dlia-ditei-z-nalipkamy-4-zhyhalko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>97</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30655/dlya_rozumnikiv_i_rozumnits_torsing_zavdannya_dlya_ditey_z_nalipkami_4_zhigalko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -85052,7 +84927,7 @@
 <vendorCode>9786175242780</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/dlia-rozumnykiv-i-rozumnyts-torsinh-zavdannia-dlia-ditei-z-nalipkamy-5-zhyhalko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>95</categoryId>
 <price>97</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30656/dlya_rozumnikiv_i_rozumnits_torsing_zavdannya_dlya_ditey_z_nalipkami_5_zhigalko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -86346,7 +86221,7 @@
 <vendorCode>9786175443644</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-lohika-pam-iat-i-myslennia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30740/pershoklasna_pidgotovka_do_shkoli_ula_logika_pam_yat_i_mislennya_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86370,7 +86245,7 @@
 <vendorCode>9786175443651</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-lohika-mirkuvannia-ta-uvaha-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30741/pershoklasna_pidgotovka_do_shkoli_ula_logika_mirkuvannya_ta_uvaga_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86394,7 +86269,7 @@
 <vendorCode>9786175443668</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-lohika-uvaha-ta-pam-iat-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30742/pershoklasna_pidgotovka_do_shkoli_ula_logika_uvaga_ta_pam_yat_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86418,7 +86293,7 @@
 <vendorCode>9786175443675</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-lohika-uiava-ta-uvaha-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30743/pershoklasna_pidgotovka_do_shkoli_ula_logika_uyava_ta_uvaga_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86442,7 +86317,7 @@
 <vendorCode>9786175443477</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/chytannia-z-nalipkamy-ula-veseli-vykhidni-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30744/chitannya_z_nalipkami_ula_veseli_vihidni_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86466,7 +86341,7 @@
 <vendorCode>9786175443484</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/chytannia-z-nalipkamy-ula-haida-na-maister-klas-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30745/chitannya_z_nalipkami_ula_gayda_na_mayster_klas_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86490,7 +86365,7 @@
 <vendorCode>9786175443491</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/chytannia-z-nalipkamy-ula-zakhoplyvi-zmahannia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30746/chitannya_z_nalipkami_ula_zahoplivi_zmagannya_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86513,7 +86388,7 @@
 <vendorCode>9786175443507</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/chytannia-z-nalipkamy-ula-pryhody-za-mistom-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>107</categoryId>
 <price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30747/chitannya_z_nalipkami_ula_prigodi_za_mistom_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86537,7 +86412,7 @@
 <vendorCode>9786175443682</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-richnyi-kurs-dlia-ditei-3-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30748/zavdannya_5_hvilinki_ula_richniy_kurs_dlya_ditey_3_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86561,7 +86436,7 @@
 <vendorCode>9786175443699</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-richnyi-kurs-dlia-ditei-4-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30749/zavdannya_5_hvilinki_ula_richniy_kurs_dlya_ditey_4_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86585,7 +86460,7 @@
 <vendorCode>9786175443705</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-richnyi-kurs-dlia-ditei-5-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>95</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30750/zavdannya_5_hvilinki_ula_richniy_kurs_dlya_ditey_5_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -86609,7 +86484,7 @@
 <vendorCode>9786175443712</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zavdannia-5-khvylynky-ula-richnyi-kurs-dlia-ditei-6-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>116</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30751/zavdannya_5_hvilinki_ula_richniy_kurs_dlya_ditey_6_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90447,7 +90322,7 @@
 <vendorCode>9786175443750</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-rozvyvaiemo-navychky-pysma-propysy-zavdannia-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30990/kaligrafichniy_trenazher_ula_rozviva_mo_navichki_pisma_propisi_zavdannya_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90470,7 +90345,7 @@
 <vendorCode>9786175443743</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-vpravy-dlia-harnoho-pocherku-propysy-zavdannia-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30991/kaligrafichniy_trenazher_ula_vpravi_dlya_garnogo_pocherku_propisi_zavdannya_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90493,7 +90368,7 @@
 <vendorCode>9786175443736</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-tsyfry-y-obchysliuiemo-propysy-zavdannia-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30992/kaligrafichniy_trenazher_ula_pishemo_tsifri_y_obchislyu_mo_propisi_zavdannya_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90516,7 +90391,7 @@
 <vendorCode>9786175443729</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-bukvy-y-slova-propysy-zavdannia-nalipky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>8</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30993/kaligrafichniy_trenazher_ula_pishemo_bukvi_y_slova_propisi_zavdannya_nalipki.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90635,7 +90510,7 @@
 <vendorCode>9786175444016</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-navchalni-rozmalovky-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30998/minitrenazher_ula_navchalni_rozmalovki_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90659,7 +90534,7 @@
 <vendorCode>9786175444009</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-zavdannia-holovolomky-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30999/minitrenazher_ula_zavdannya_golovolomki_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90683,7 +90558,7 @@
 <vendorCode>9786175443996</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-dobukveni-propysy-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31000/minitrenazher_ula_dobukveni_propisi_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90707,7 +90582,7 @@
 <vendorCode>9786175443989</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-bukvy-ta-hrafichni-vpravy-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31001/minitrenazher_ula_bukvi_ta_grafichni_vpravi_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90726,36 +90601,13 @@
 <param name="ISBN">978-617-544-398-9</param>
 <param name="Формат, розмір">210х150 мм</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="31002" available="true" in_stock="true" selling_type="r" >
-<name>Мінітренажер УЛА Розмальовки й аплікації наліпками. 48 наліпок Сіліч</name>
-<vendorCode>9786175444054</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-rozmalovky-y-aplikatsii-nalipkamy-48-nalipok-silich/</url>
-<currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
-<price>32</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31002/minitrenazher_ula_rozmalovki_y_aplikatsi_nalipkami_48_nalipok_silich.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Мінітренажер — Розмальовки й аплікації наліпками З книжкою «Букви та графічні вправи» дитина цікаво та з користю проведе час, адже наводитиме букви по пунктиру та малюватиме різні предмети по клітинках. Разом із тим малюк потренується читати по складах прості слова, а також зможе оцінити свої вміння наліпкою. Робота з виданням допоможе покращити дрібну моторику пальців рук, розвине увагу та уяву, потренує пам’ять і посидючість, виховає старанність та акуратність під час виконання завдань.    Видання призначене для дітей дошкільного віку та їхніх батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С.О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкiльний</param>
-<param name="Тип">Навчальний посібник</param>
-<param name="Серія">Мінітренажер</param>
-<param name="Кількість сторінок">16</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-405-4</param>
-<param name="Формат, розмір">210х150 мм</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="31003" available="true" in_stock="true" selling_type="r" >
 <name>Мінітренажер УЛА Розвиток мовлення. 48 наліпок Сіліч</name>
 <vendorCode>9786175444047</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-rozvytok-movlennia-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31003/minitrenazher_ula_rozvitok_movlennya_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90779,7 +90631,7 @@
 <vendorCode>9786175444030</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-vyrazy-ta-chyslovi-rozmalovky-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31004/minitrenazher_ula_virazi_ta_chislovi_rozmalovki_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90803,7 +90655,7 @@
 <vendorCode>9786175444023</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-plutanky-ta-lohichni-zadachi-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31005/minitrenazher_ula_plutanki_ta_logichni_zadachi_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90827,7 +90679,7 @@
 <vendorCode>9786175444092</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-chytaiemo-kleimo-shtrykhuiemo-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31006/minitrenazher_ula_chita_mo_kle_mo_shtrihu_mo_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90851,7 +90703,7 @@
 <vendorCode>9786175444085</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-chas-i-pory-roku-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31007/minitrenazher_ula_chas_i_pori_roku_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90875,7 +90727,7 @@
 <vendorCode>9786175444078</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-tsyfry-ta-chyslovi-labirynty-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31008/minitrenazher_ula_tsifri_ta_chislovi_labirinti_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -90899,7 +90751,7 @@
 <vendorCode>9786175444061</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/minitrenazher-ula-fihury-ta-lohichni-zavdannia-48-nalipok-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
+<categoryId>110</categoryId>
 <price>32</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31009/minitrenazher_ula_figuri_ta_logichni_zavdannya_48_nalipok_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -92019,7 +91871,7 @@
 <vendorCode>9786177403493</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-z-babusynykh-klubochkiv-belkar-knyha-svit-kazky-n-trishch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31109/opovidki_z_babusinih_klubochkiv_belkar_kniga_svit_kazki_n_trishch.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -93501,7 +93353,7 @@
 <vendorCode>9786177403486</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/horikhy-dlia-bilochky-opovidannia-kazky-veselka-belkar-knyha-vasyl-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31188/gorihi_dlya_bilochki_opovidannya_kazki_veselka_belkar_kniga_vasil_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -93551,7 +93403,7 @@
 <vendorCode>9786175444191</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/malenkyi-rozumnyk-ula-velyka-knyha-testiv-dlia-doshkilniat-4-5-rokiv-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31192/malenkiy_rozumnik_ula_velika_kniga_testiv_dlya_doshkilnyat_4_5_rokiv_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -93575,7 +93427,7 @@
 <vendorCode>9786175444184</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/3-4-roky/malenkyi-rozumnyk-ula-velyka-knyha-testiv-dlia-ditei-3-4-roky-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31193/malenkiy_rozumnik_ula_velika_kniga_testiv_dlya_ditey_3_4_roki_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -93599,7 +93451,7 @@
 <vendorCode>9786175444177</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/2-3-roky/malenkyi-rozumnyk-ula-velyka-knyha-testiv-dlia-maliat-2-3-roky-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
+<categoryId>92</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31194/malenkiy_rozumnik_ula_velika_kniga_testiv_dlya_malyat_2_3_roki_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -94277,7 +94129,7 @@
 <vendorCode>9786175243473</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/skoro-do-shkoly-torsinh-meni-skoro-do-shkoly-5-zavdannia-dlia-rozvytku-z-nalipkamy-zhyhalko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>172</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31225/skoro_do_shkoli_torsing_meni_skoro_do_shkoli_5_zavdannya_dlya_rozvitku_z_nalipkami_zhigalko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -95634,7 +95486,7 @@
 <vendorCode>9786175444306</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/ya-vchusia-chytaty-5-ula-hraius-i-rozvyvaius-100-nalipok-silich-s-o/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>95</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31292/ya_vchusya_chitati_5_ula_grayus_i_rozvivayus_100_nalipok_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -95658,7 +95510,7 @@
 <vendorCode>9786175444313</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/ya-vchusia-chytaty-6-ula-hraius-i-rozvyvaius-100-nalipok-silich-s-o/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>95</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31293/ya_vchusya_chitati_6_ula_grayus_i_rozvivayus_100_nalipok_silich_s_o.jpg</picture>
 <vendor>УЛА</vendor>
@@ -96493,7 +96345,7 @@
 <vendorCode>9786175444412</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-propysy-linii-ta-vizerunky-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31351/pershoklasna_pidgotovka_do_shkoli_ula_propisi_lini_ta_vizerunki_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -96517,7 +96369,7 @@
 <vendorCode>9786175444429</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-propysy-litery-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31352/pershoklasna_pidgotovka_do_shkoli_ula_propisi_literi_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -96541,7 +96393,7 @@
 <vendorCode>9786175444436</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-propysy-fihury-ta-predmety-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31353/pershoklasna_pidgotovka_do_shkoli_ula_propisi_figuri_ta_predmeti_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -96565,7 +96417,7 @@
 <vendorCode>9786175444443</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/pershoklasna-pidhotovka-do-shkoly-ula-propysy-shtrykhuvannia-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31354/pershoklasna_pidgotovka_do_shkoli_ula_propisi_shtrihuvannya_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -96819,7 +96671,7 @@
 <vendorCode>9786177728305</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-wimmelbuch-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>103</categoryId>
 <price>159</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31378/kazkovi_prigodi_z_angliyskoyu_wimmelbuch_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -96842,7 +96694,7 @@
 <vendorCode>9786177728329</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-robochyi-zoshyt-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>103</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31379/kazkovi_prigodi_z_angliyskoyu_robochiy_zoshit_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -99102,7 +98954,7 @@
 <vendorCode>9786170043726</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/khrestomatiia-dlia-chytannia-tvory-dlia-ditei-osnova-dlia-ditei-3-6-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>108</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31542/hrestomatiya_dlya_chitannya_tvori_dlya_ditey_osnova_dlya_ditey_3_6_rokiv.jpg</picture>
 <vendor>Основа</vendor>
@@ -99768,7 +99620,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 6 частинах. Українська мова та читання. Посібник. 2 клас Цікавий, креативний, змістовний навчальний посібник «Українська мова та читання 2 клас Пономарьова Савченко складається з 6 частин. Цей посібник призначений для навчання з двох предметів - "Української мови" та "Читання" і складається з 2 розділів. У першому вміщено навчальний матеріал до уроків української мови і розвитку мовлення. Цей розділ розташований на сторінках 4-39. У другому розділі подано навчальний матеріал до уроків читання. Цей розділ розміщений на сторінках 40-79. Навчальний посібник створено відповідно до Типової освітньої програми НУШ 2024 року.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Катерина Пономарьова, Олександра Савченко, Ірина Красуцька</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -101343,7 +101195,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>8</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -101687,7 +101539,7 @@
 <vendorCode>9786178229559, 9786178229429</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/komplekt-richnyi-kurs-zavdan-vid-4-kh-rokiv-vyvchaiemo-matematyku-vyvchaiemo-litery-assa-nova-shkola-dlia-maliat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>115</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31672/komplekt_richniy_kurs_zavdan_vid_4_h_rokiv_vivcha_mo_matematiku_vivcha_mo_literi_assa_nova_shkola_dlya_malyat.jpg</picture>
 <vendor>АССА</vendor>
@@ -101712,7 +101564,7 @@
 <vendorCode>1210155</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-hotuiemos-do-nush-5-6-rokiv-pidhotovka-do-pysma-pryroda-matematyka-osnovy-hramoty-mii-albom-dlia-maliuvannia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>470</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31675/komplekt_gotu_mos_do_nush_5_6_rokiv_pidgotovka_do_pisma_priroda_matematika_osnovi_gramoti_miy_albom_dlya_malyuvannya.jpg</picture>
 <vendor>Основа</vendor>
@@ -101735,7 +101587,7 @@
 <vendorCode>1210156</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/komplekt-hotuiemos-do-nush-4-5-rokiv-pryroda-navkolyshnii-svit-movlennia-matematyka-mii-albom-dlia-maliuvannia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>450</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31676/komplekt_gotu_mos_do_nush_4_5_rokiv_priroda_navkolishniy_svit_movlennya_matematika_miy_albom_dlya_malyuvannya.jpg</picture>
 <vendor>Основа</vendor>
@@ -101758,7 +101610,7 @@
 <vendorCode>1210157</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-uspishnyi-start-5-shkola-osobystist-dytyny-ta-sotsium-movlennia-ta-kultura-spilkuvannia-matematyka-ta-elementarna-lohika-pysmo-ta-dribna-motoryka-litery-ta-pochatok-chytannia-pryroda-ta-okhorona-dovkillia-myslennia-uvaha-ta-pamiat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>875</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31678/komplekt_uspishniy_start_5_shkola_osobistist_ditini_ta_sotsium_movlennya_ta_kultura_spilkuvannya_matematika_ta_elementarna_logika_pismo_ta_dribna_motorika_literi_ta_pochatok_chitan.jpg</picture>
 <vendor>Школа</vendor>
@@ -101779,7 +101631,7 @@
 <vendorCode>1210158</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/komplekt-uspishnyi-start-4-shkola-osobystist-dytyny-ta-sotsium-movlennia-ta-kultura-spilkuvannia-pryroda-ta-okhorona-dovkillia-matematyka-ta-elementarna-lohika-dribna-motoryka-ta-rozvytok-pervynnykh-navychok-pysma-myslennia-uvaha-ta-pam-iat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31679/komplekt_uspishniy_start_4_shkola_osobistist_ditini_ta_sotsium_movlennya_ta_kultura_spilkuvannya_priroda_ta_ohorona_dovkillya_matematika_ta_elementarna_logika_dribna_motorika_ta_ro.jpg</picture>
 <vendor>Школа</vendor>
@@ -107508,7 +107360,7 @@
 <vendorCode>9786170959249</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-lohichni-vpravy-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>8</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31975/startu_mo_razom_logichni_vpravi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
 <vendor>Ранок</vendor>
@@ -107532,7 +107384,7 @@
 <vendorCode>9786170959256</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-usna-lichba-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>8</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31976/startu_mo_razom_usna_lichba_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
 <vendor>Ранок</vendor>
@@ -107556,7 +107408,7 @@
 <vendorCode>9786170959195</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-bukvy-zvuky-ta-sklady-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>8</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31977/startu_mo_razom_bukvi_zvuki_ta_skladi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
 <vendor>Ранок</vendor>
@@ -108099,7 +107951,7 @@
 <vendorCode>9786175244340</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-naikrashchyi-podarunok-tetiana-klapchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>41</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32004/malenki_istori_po_skladah_torsing_naykrashchiy_podarunok_tetyana_klapchuk.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -108123,7 +107975,7 @@
 <vendorCode>9786175244333</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-horishky-dlia-druziv-tetiana-klapchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>41</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32005/malenki_istori_po_skladah_torsing_gorishki_dlya_druziv_tetyana_klapchuk.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -108147,7 +107999,7 @@
 <vendorCode>9786175244357</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-hoidalka-dlia-druha-tetiana-klapchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
+<categoryId>8</categoryId>
 <price>41</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32006/malenki_istori_po_skladah_torsing_goydalka_dlya_druga_tetyana_klapchuk.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -108485,7 +108337,7 @@
 <vendorCode>1210163</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/3-4-roky/komplekt-hotuiemos-do-nush-3-4-roky-matematyka-intehrovani-zaniattia-rozvytok-movlennia-oznaiomlennia-z-pryrodoiu-ta-navkolyshnim-svitom-mii-albom-dlia-maliuvannia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>285</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32023/komplekt_gotu_mos_do_nush_3_4_roki_matematika_integrovani_zanyattya_rozvitok_movlennya_oznayomlennya_z_prirodoyu_ta_navkolishnim_svitom_miy_albom_dlya_malyuvannya.jpg</picture>
 <vendor>Основа</vendor>
@@ -109917,7 +109769,7 @@
 <vendorCode>1210165</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-hotuiemos-do-nush-5-6-rokiv-pidhotovka-do-pysma-pryroda-matematyka-osnovy-hramoty-albomy-dlia-maliuvannia-dlia-aplikatsii-ta-liplennia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>580</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32110/komplekt_gotu_mos_do_nush_5_6_rokiv_pidgotovka_do_pisma_priroda_matematika_osnovi_gramoti_albomi_dlya_malyuvannya_dlya_aplikatsi_ta_liplennya.jpg</picture>
 <vendor>Основа</vendor>
@@ -109939,7 +109791,7 @@
 <vendorCode>1210166</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/komplekt-hotuiemos-do-nush-4-5-rokiv-pryroda-navkolyshnii-svit-movlennia-matematyka-albomy-dlia-maliuvannia-dlia-aplikatsii-ta-liplennia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32111/komplekt_gotu_mos_do_nush_4_5_rokiv_priroda_navkolishniy_svit_movlennya_matematika_albomi_dlya_malyuvannya_dlya_aplikatsi_ta_liplennya.jpg</picture>
 <vendor>Основа</vendor>
@@ -111048,7 +110900,7 @@
 <vendorCode>9786175444955</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/inozemna-mova/iliustrovani-slovnyky-propysy/propysy-asotsiatsii-ula-anhliiska-abetka-s-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>103</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32175/propisi_asotsiatsi_ula_angliyska_abetka_silich_s.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111072,7 +110924,7 @@
 <vendorCode>9786175444962</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/propysy-asotsiatsii-ula-ukrainska-abetka-s-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32176/propisi_asotsiatsi_ula_ukra_nska_abetka_silich_s.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111096,7 +110948,7 @@
 <vendorCode>9786175444979</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/propysy-asotsiatsii-ula-tsyfry-ta-fihury-s-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
+<categoryId>94</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32177/propisi_asotsiatsi_ula_tsifri_ta_figuri_silich_s.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111764,7 +111616,7 @@
 <vendorCode>9786177576425</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/moia-kolektsiia-nalipok-ula-svit-fei/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32208/moya_kolektsiya_nalipok_ula_svit_fey.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111785,7 +111637,7 @@
 <vendorCode>9786177576456</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/moia-kolektsiia-nalipok-ula-modnytsi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32209/moya_kolektsiya_nalipok_ula_modnitsi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111806,7 +111658,7 @@
 <vendorCode>9786177576418</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/moia-kolektsiia-nalipok-ula-pryntsesy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32210/moya_kolektsiya_nalipok_ula_printsesi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -111827,7 +111679,7 @@
 <vendorCode>9786177576951</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/moia-kolektsiia-nalipok-ula-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32211/moya_kolektsiya_nalipok_ula_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -114030,7 +113882,7 @@
 <vendorCode>9786178387556, 9786178387563</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/komplekt-holovna-knyha-doshkilniatka-matematyka-chytannia-vid-4-do-6-rokiv-assa-alona-puliaieva/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>95</categoryId>
 <price>340</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32375/komplekt_golovna_kniga_doshkilnyatka_matematika_chitannya_vid_4_do_6_rokiv_assa_alona_pulya_va.jpg</picture>
 <vendor>АССА</vendor>
@@ -115013,7 +114865,7 @@
 <vendorCode>1210195</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/2-3-roky/komplekt-malenkyi-rozumnyk-2-3-roky-ula-velyka-knyha-zavdan-velyka-knyha-doshkilniatka-propysy-velyka-knyha-testiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
+<categoryId>92</categoryId>
 <price>445</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32417/komplekt_malenkiy_rozumnik_2_3_roki_ula_velika_kniga_zavdan_velika_kniga_doshkilnyatka_propisi_velika_kniga_testiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115033,7 +114885,7 @@
 <vendorCode>1210196</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/3-4-roky/komplekt-malenkyi-rozumnyk-3-4-roky-ula-velyka-knyha-zavdan-velyka-knyha-doshkilniatka-uchymo-bukvy-propysy-velyka-knyha-testiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>114</categoryId>
+<categoryId>93</categoryId>
 <price>555</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32418/komplekt_malenkiy_rozumnik_3_4_roki_ula_velika_kniga_zavdan_velika_kniga_doshkilnyatka_uchimo_bukvi_propisi_velika_kniga_testiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115053,7 +114905,7 @@
 <vendorCode>1210197</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/4-5-rokiv/komplekt-malenkyi-rozumnyk-4-5-rokiv-ula-velyka-knyha-zavdan-velyka-knyha-doshkilniatka-chytaiemo-sklady-propysy-velyka-knyha-testiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>115</categoryId>
+<categoryId>94</categoryId>
 <price>555</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32419/komplekt_malenkiy_rozumnik_4_5_rokiv_ula_velika_kniga_zavdan_velika_kniga_doshkilnyatka_chita_mo_skladi_propisi_velika_kniga_testiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115073,7 +114925,7 @@
 <vendorCode>1210198</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-malenkyi-rozumnyk-vid-5-rokiv-ula-chytaiemo-slova-velyka-knyha-doshkilniatka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>455</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32420/komplekt_malenkiy_rozumnik_vid_5_rokiv_ula_chita_mo_slova_velika_kniga_doshkilnyatka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115114,7 +114966,7 @@
 <vendorCode>1210200</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-trenazher-doshkilnyka-ula-365-dniv-do-shkoly-kompleksnyi-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>280</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32422/komplekt_trenazher_doshkilnika_ula_365_dniv_do_shkoli_kompleksniy_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115136,7 +114988,7 @@
 <vendorCode>1210201</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-trenazher-doshkilnyka-ula-uchymosia-chytaty-pysaty-litery-ta-slova-lohichno-myslyty-lichyty-vyvchaiemo-anhliisku-movu-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>390</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32423/komplekt_trenazher_doshkilnika_ula_uchimosya_chitati_pisati_literi_ta_slova_logichno_misliti_lichiti_vivcha_mo_angliysku_movu_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115157,7 +115009,7 @@
 <vendorCode>1210202</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-trenazher-doshkilnyka-ula-uchymosia-chytaty-pysaty-litery-ta-slova-lohichno-myslyty-lichyty-vyvchaiemo-anhliisku-movu-365-dniv-do-shkoly-kompleksnyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>670</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32424/komplekt_trenazher_doshkilnika_ula_uchimosya_chitati_pisati_literi_ta_slova_logichno_misliti_lichiti_vivcha_mo_angliysku_movu_365_dniv_do_shkoli_kompleksniy.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115201,7 +115053,7 @@
 <vendorCode>1210203</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-doshkilniat-ula-komplekt-8-zoshytiv-propysy-iz-zavdanniamy-ta-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>352</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32426/kaligrafiya_dlya_doshkilnyat_ula_komplekt_8_zoshitiv_propisi_iz_zavdannyami_ta_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115222,7 +115074,7 @@
 <vendorCode>1210204</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/komplekt-8-zoshytiv-pyshu-maliuiu-navchaius-ula-propysy-dlia-doshkilniat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>320</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32427/komplekt_8_zoshitiv_pishu_malyuyu_navchayus_ula_propisi_dlya_doshkilnyat.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115243,7 +115095,7 @@
 <vendorCode>9786175441855, 9789662849929</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-malenkyi-rozumnyk-5-ula-velyka-knyha-doshkilniatka-chytaiemo-slova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32428/komplekt_malenkiy_rozumnik_5_ula_velika_kniga_doshkilnyatka_chita_mo_slova.jpg</picture>
 <vendor>УЛА</vendor>
@@ -115264,7 +115116,7 @@
 <vendorCode>1210205</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-navchalnykh-posibnykiv-dlia-doshkilniat-shkola-mirkuvan-ranok-myslennia-abetka-matematyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>109</categoryId>
 <price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32429/komplekt_navchalnih_posibnikiv_dlya_doshkilnyat_shkola_mirkuvan_ranok_mislennya_abetka_matematika.jpg</picture>
 <vendor>Ранок</vendor>
@@ -117307,7 +117159,7 @@
 <vendorCode>1210206</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/komplekt-zoshytiv-matematychnyi-start-dlia-ditei-5-6-rokiv-chastyny-1-4-ranok-skvortsova-onopriienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32518/komplekt_zoshitiv_matematichniy_start_dlya_ditey_5_6_rokiv_chastini_1_4_ranok_skvortsova_onopri_nko.jpg</picture>
 <vendor>Ранок</vendor>
@@ -119569,7 +119421,7 @@
 <vendorCode>1210210</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/komplekt-velykyi-trenazher-iz-pidhotovky-do-shkoly-ula-lohika-matematyka-propysy-chytannia-s-o-silich/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32639/komplekt_velikiy_trenazher_iz_pidgotovki_do_shkoli_ula_logika_matematika_propisi_chitannya_s_o_silich.jpg</picture>
 <vendor>УЛА</vendor>
@@ -119879,7 +119731,7 @@
 <vendorCode>1210217</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/5-6-rokiv/komplekt-litnia-pidhotovka-do-shkoly-ula-90-zavdan-na-90-dniv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>516</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32653/komplekt_litnya_pidgotovka_do_shkoli_ula_90_zavdan_na_90_dniv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121559,7 +121411,7 @@
 <vendorCode>9786175445433</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-ihrashky-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32862/kontrastni_propisi_ula_igrashki_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121582,7 +121434,7 @@
 <vendorCode>9786175445426</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-avtopark-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32863/kontrastni_propisi_ula_avtopark_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121605,7 +121457,7 @@
 <vendorCode>9786175445440</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-monstryky-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32864/kontrastni_propisi_ula_monstriki_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121628,7 +121480,7 @@
 <vendorCode>9786175445457</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-more-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32865/kontrastni_propisi_ula_more_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121651,7 +121503,7 @@
 <vendorCode>9786175445464</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-pryntsesy-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32866/kontrastni_propisi_ula_printsesi_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -121674,7 +121526,7 @@
 <vendorCode>9786175445471</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-2-rokiv/kontrastni-propysy-ula-tvarynky-dlia-ditei-vid-2-rokiv-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
+<categoryId>92</categoryId>
 <price>40</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32867/kontrastni_propisi_ula_tvarinki_dlya_ditey_vid_2_rokiv_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -122065,7 +121917,7 @@
 <vendorCode>9786175445587</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-bezpeka-vdoma-dlia-ditei-vid-3-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32885/vihovni_virshiki_z_nalipkami_ula_bezpeka_vdoma_dlya_ditey_vid_3_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -122089,7 +121941,7 @@
 <vendorCode>9786175445594</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-idemo-v-hosti-dlia-ditei-vid-3-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32886/vihovni_virshiki_z_nalipkami_ula_idemo_v_gosti_dlya_ditey_vid_3_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -122113,7 +121965,7 @@
 <vendorCode>9786175445600</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-idemo-na-prohulianku-dlia-ditei-vid-3-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>126</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32887/vihovni_virshiki_z_nalipkami_ula_idemo_na_progulyanku_dlya_ditey_vid_3_rokiv.jpg</picture>
 <vendor>УЛА</vendor>
@@ -122737,7 +122589,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-robochyi-zoshyt-pidruchnyky-i-posibnyky-ukrainska-mova-9-klas-za-prohramoiu-holub-horoshkinoi-zabolotnoho/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>80</price>
+<price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32916/nush_robochiy_zoshit_pidruchniki_i_posibniki_ukra_nska_mova_9_klas_za_programoyu_golub_goroshkino_zabolotnogo.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
@@ -125069,7 +124921,7 @@
 <vendorCode>9786175445662</vendorCode>
 <url>https://knigovan.com/index.php?route=product/product&amp;product_id=33085</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33085/litnya_pidgotovka_do_shkoli_ula_velika_kniga_propisiv_188_zavdan_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -125092,7 +124944,7 @@
 <vendorCode>9786175445679</vendorCode>
 <url>https://knigovan.com/index.php?route=product/product&amp;product_id=33086</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33086/litnya_pidgotovka_do_shkoli_ula_matematika_chitannya_logika_180_zavdan_z_nalipkami.jpg</picture>
 <vendor>УЛА</vendor>
@@ -125284,7 +125136,7 @@
 <vendorCode>9789666724116</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/propysy-dlia-doshkilniat-ranok-iryna-tsepova-2026-rik/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>95</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33095/propisi_dlya_doshkilnyat_ranok_irina_tsepova_2026_rik.jpg</picture>
 <vendor>Ранок</vendor>
@@ -127009,7 +126861,7 @@
 <vendorCode>9786176867852</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/mii-vsesvit-mii-pokhid-vesna-knyzhka-rozmalovka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/products/33177/knizhka-hmarinka-tors-ng-bdzh-lka-z-nal-pkami-oleksandr-rindya-1.jpg</picture>
 <vendor>Весна</vendor>
@@ -127032,7 +126884,7 @@
 <vendorCode>9786176867647</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/mii-vsesvit-moie-selo-vesna-knyzhka-rozmalovka-z-nalipkamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
+<categoryId>126</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/products/33178/m-y-vsesv-t-m-y-poh-d-vesna-knizhka-rozmalovka-z-nal-pkami-1.jpg</picture>
 <vendor>Весна</vendor>
@@ -127766,7 +127618,7 @@
 <vendorCode>9786175445822</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/hrafichni-dyktanty-ula-navedy-po-chyslakh-60-nalipok-propysy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/products/33215/velik-propisi-dlya-malyat-ula-3-4-roki-80-nal-pok-1.jpg</picture>
 <vendor>УЛА</vendor>
@@ -127790,7 +127642,7 @@
 <vendorCode>9786175445839</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/hrafichni-dyktanty-ula-proidy-za-strilochkamy-60-nalipok-propysy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/products/33216/graf-chn-diktanti-ula-proydi-za-str-lochkami-60-nal-pok-propisi-1.jpg</picture>
 <vendor>УЛА</vendor>
@@ -127814,7 +127666,7 @@
 <vendorCode>9786175445846</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/hrafichni-dyktanty-ula-zafarbui-kvadratyky-60-nalipok-propysy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/products/33217/graf-chn-diktanti-ula-zafarbuy-kvadratiki-60-nal-pok-propisi-1.jpg</picture>
 <vendor>УЛА</vendor>
@@ -127838,7 +127690,7 @@
 <vendorCode>9786175445853</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/trenazhery-ta-zoshyty/hrafichni-dyktanty-ula-domaliui-polovynku-60-nalipok-propysy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>93</categoryId>
 <price>50</price>
 <picture>https://knigovan.com/image/catalog/products/33218/graf-chn-diktanti-ula-zafarbuy-kvadratiki-60-nal-pok-propisi-1.jpg</picture>
 <vendor>УЛА</vendor>
@@ -132913,13 +132765,13 @@
 <vendorCode>9786170044488</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/chytanka-osnova-stezhkamy-chytannia-1-klas-iuliia-bardakova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>8</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/products/33514/chitanka-osnova-stezhkami-chitannya-1-klas-yul-ya-bardakova-1.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Стежками читання 1 клас Цей чудово ілюстрований навчальний посібник створено для допитливих першокласників. Читанка містить твори сучасних українських письменників, що різняться жанрами, стилями, темами та обсягом.  До кожного тексту запропоновано сучасний методичний інструментарій, систему завдань різних типів і рівнів складності.  Тематику творів і завдання до них інтегровано із курсом «Я досліджую світ». Читачі виконуватимуть більшість завдань на сторінках посібника, тож видання бажано використовувати водночас як дитячу книжку та індивідуальний робочий зошит. Біля назви кожного твору зазначено кількість слів. Можна вибирати певне завдання на власний розсуд, зважаючи на рівень навчальних досягнень, здібності, зацікавлення дитини. Усі читанки чудово ілюстровані.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Бардакова Юлія Євгенівна</param>
 <param name="Предмет">Читання</param>
 <param name="Мова">українська</param>
@@ -133089,7 +132941,7 @@
 <vendorCode>1210236</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/komplekt-zoshytiv-osnova-hotuiemos-do-nush-5-6-rokiv-matematykapidhotovka-do-pysmaosnovy-hramotypryroda/</url>
 <currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
+<categoryId>117</categoryId>
 <price>360</price>
 <picture>https://knigovan.com/image/catalog/products/33523/komplekt-gotu-mos-do-nush-5-6-rok-v-p-dgotovka-do-pisma-priroda-matematika-osnovi-gramoti-m-y-albom-dlya-malyuvannya-1.jpg</picture>
 <vendor>Основа</vendor>
@@ -133112,7 +132964,7 @@
 <vendorCode>1210237</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-4-rokiv/komplekt-zoshytiv-osnova-hotuiemos-do-nush-4-5-rokiv-matematykamovlenniapryrodanavkolyshnii-svit/</url>
 <currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
+<categoryId>94</categoryId>
 <price>340</price>
 <picture>https://knigovan.com/image/catalog/products/33524/komplekt-zoshit-v-osnova-gotu-mos-do-nush-4-5-rok-v-matematika-movlennya-priroda-navkolishn-y-sv-t-1.jpg</picture>
 <vendor>Основа</vendor>
@@ -133180,29 +133032,7 @@
 <param name="ISBN">978-617-8510-55-8</param>
 <param name="Формат, розмір">200 х 275 мм</param>
 <param name="Видавництво">АССА</param></offer>
-<offer id="33527" available="true" in_stock="true" selling_type="r" >
-<name>Розмовляємо правильно Основа Країна щебетунчиків. У гостях у свистячої сімейки, Наталія Пасічник</name>
-<vendorCode>9786170033208</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/rozmovliaiemo-pravylno-osnova-kraina-shchebetunchykiv-u-hostiakh-u-svystiachoi-simeiky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
-<price>60</price>
-<picture>https://knigovan.com/image/catalog/products/33527/gotu-mos-do-nush-osnova-robochiy-zoshit-navkolishn-y-sv-t-5-6-rok-v-olena-shevtsova-1.jpeg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Розмовляємо правильно. Країна щебетунчиків. У гостях у свистячої сімейки Посібник містить різноманітний мовленнєвий матеріал для закріплення правильної артикуляції звуків у дітей дошкільного та молодшого шкільного віку. Використовуючи пропонований матеріал для домашніх завдань, логопед має можливість залучити батьків до активної корекційної роботи.  Для вчителів-логопедів, батьків, вихователів дошкільних навчальних закладів, учителів початкових класів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Наталія Пасічник</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкiльний</param>
-<param name="Тип">Навчальний посібник</param>
-<param name="Серія">Розмовляємо правильно</param>
-<param name="Кількість сторінок">56</param>
-<param name="Тип паперу">офсет, чорно-білий</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170033208</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 <offer id="33529" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Збірник задач з параметрами. Основні типи і види 10-12 класи Генеза Олександр Істер, 2026 рік</name>
@@ -134717,7 +134547,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Математика 6 клас. Зошит з елементами STEM Альона Гаращенко 2026 рік Зошит з елементами STEM (Математика. 6 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики.    Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані як під час уроків, так і для самостійної роботи, домашніх завдань або проєктної діяльності.    Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>42</quantity_in_stock>
 <param name="Автор">Альона Гаращенко</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -135433,7 +135263,7 @@
 <vendorCode>9789664298473</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/krok-do-shkoly-shkola-vchymos-maliuvaty-bez-problem-robochyi-zoshyt-5-ievheniia-zhytnyk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>110</categoryId>
+<categoryId>95</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/products/33692/krok-do-shkoli-shkola-vivcha-mo-prirodu-r-dnogo-krayu-robochiy-zoshit-5-vasil-fed-nko-1.jpeg</picture>
 <vendor>Школа</vendor>
