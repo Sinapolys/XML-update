@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-05 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-06 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -2237,7 +2237,7 @@
 <vendor>Картографія</vendor>
 <description>
 <![CDATA[Атлас + Контурні карти. Географія материків і океанів 7 клас НУШ    Комплект включає в себе атлас і контурні карти для 7 класу, повністю відповідає програмі НУШ. Атлас містить докладні карти з досліджуваних тем. Карти ілюструють і доповнюють текст будь-якого підручника по курсу. Контурні карти і завдання, що містяться в них, дозволяють поглибити і закріпити знання по досліджуваному курсу. Контрольні завдання дають можливість вчителю перевірити знання учня, а учневі - проявити свої знання і вміння творчо працювати з атласом і підручником.  Атлас налічує 48 сторінок і містить карти світу, карти материків, океанів, охоплює теми забруднення довкілля та охорони природи. Даний атлас буде гарним помічником як для вчителя, так і для учнів 7 класу, для комплексного вивчення материків і океанів. Для повноти та наочності основні базові карти материків створені в єдиному масштабі 1 : 35 000 000, що дозволяє усвідомлювати розміри материків, порівнювати і аналізувати різноманітну географічну інформацію: цілісність природи материків і океанів, їх різноманітність та умови життя населення. Особливістю даного атласу є те, що він містить величезну кількість різноманітних статистичних даних, які розміщені як на картах, так і в табличках-«паспортах» до кожної з карт материка чи океану. Проведено оновлення за найновішими даними відповідно останніх світових досліджень, що надаються міжнародними організаціями, які проводять моніторинг навколишнього природного середовища. Враховано усі зміни, що відбуваються кожного року у нових освітніх програмах з географії закладів загальної середньої освіти України, а також виклики часу, що диктує сучасне життя. Додано нові заповідні території, культурні та природні об’єкти, що знаходяться під охороною ЮНЕСКО. Проведено чергування чисельності населення материків, країн і міст (тільки у цьому атласі можна проаналізувати як змінюється чисельність населення за материками), змін географічних назв, довжин річок, відміток висот та глибин, тощо. При останньому перевиданні на картах відображено межу Південного океану та додано його підпис. Видання має гриф Міністерства освіти і науки України та відповідає санітарному законодавству України.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
+<quantity_in_stock>88</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">7 класс</param>
 <param name="Тип">Атлас+Контурні карти</param>
@@ -5903,7 +5903,7 @@
 <vendor>Школа</vendor>
 <description>
 <![CDATA[НУШ Англійські прописи. Напівдрукований шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.   Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>83</quantity_in_stock>
 <param name="Автор">В. Федієнко</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">6+</param>
@@ -8278,7 +8278,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Посібник " Інтегрований курс підготовки до школи. Малюки пізнають світ. Частина 1 " мiстить інтегрованi завдання, спрямованi на формування в дітей цілісного сприйняття світу. Взаємопов'язанi вправи з математики і логiки, розвитку мовлення, захисту довкiлля, формування громадської свiдомості стирають мiжпредметнi межi, об'єднують знання і навички з кiлькох дисциплiн в одно цiле, стимулують пізнавальну активнiсть як запоруку подальшого навчання у школі.   Рекомендовано для використання на заняттях у закладах дошкiльної освіти, а також для роботи батьків з дітьми.   Серія «Рік за роком, крок за кроком» iнтегрований курс підготовки до школи "Малюки пізнають світ" частина 1:   - Математика   - Розвиток мовлення   - Підготовка до письма   - Логіка   - Безпека і здоров'я   - Пізнаємо природу   - Моя країна - Україна   - Бережемо довкілля     ]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Леся Вознюк</param>
 <param name="Мова">українська</param>
 <param name="Вік">дошкольный</param>
@@ -8301,7 +8301,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Посібник " Інтегрований курс підготовки до школи. Малюки пізнають світ. Частина 2 " мiстить інтегрованi завдання, спрямованi на формування в дітей цілісного сприйняття світу. Взаємопов'язанi вправи з математики і логiки, розвитку мовлення, захисту довкiлля, формування громадської свiдомості стирають мiжпредметнi межi, об'єднують знання і навички з кiлькох дисциплiн в одно цiле, стимулують пізнавальну активнiсть як запоруку подальшого навчання у школі.   Рекомендовано для використання на заняттях у закладах дошкiльної освіти, а також для роботи батьків з дітьми.   Серія «Рік за роком, крок за кроком» iнтегрований курс підготовки до школи "Малюки пізнають світ" частина 2:   - Математика   - Розвиток мовлення   - Підготовка до письма   - Логіка   - Безпека і здоров'я   - Пізнаємо природу   - Моя країна - Україна   - Бережемо довкілля     ]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Леся Вознюк</param>
 <param name="Мова">українська</param>
 <param name="Вік">дошкольный</param>
@@ -10492,7 +10492,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Видання "Шпаргалка старшокласника. 7–11 класи" містить основні визначення, формули та схеми з алгебри, геометрії, фізики та хімії. Компактно структурований матеріал допоможе школяреві краще підготуватися до контрольної роботи, тематичного оцінювання та ЗНО. Зручний кишеньковий формат видання дозволить завжди тримати необхідну інформацію під рукою та швидко пригадати її за потреби.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Островерхова Н. І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">старша школа</param>
@@ -10512,7 +10512,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Видання "Шпаргалка старшокласника. 7–11 класи" містить основні визначення, правила та дати з української та англійської мов, а також історії України. Компактно структурований матеріал допоможе школяреві краще підготуватися до контрольної роботи, тематичного оцінювання та ЗНО. Зручний кишеньковий формат видання дозволить завжди тримати необхідну інформацію під рукою та швидко пригадати її за потреби]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Таровiта И. О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">старша школа</param>
@@ -13232,54 +13232,8 @@
 <param name="Формат, розмір">170х200 мм.</param>
 <param name="Видавництво">Богдан</param></offer>
 
-<offer id="24911" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Математика 1 клас. Робочий зошит. Частина 2 (до підручника Гісь)</name>
-<vendorCode>9789661055871</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-matematyka-1-klas-robochyi-zoshyt-chastyna-2-do-pidruchnyka-his/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24911/nush_matematika_1_klas_robochiy_zoshit_chastina_2_do_pidruchnika_gis.jpg</picture>
-<vendor>Богдан</vendor>
-<description>
-<![CDATA[НУШ. Математика 1 клас. Робочий зошит. Частина 2 (до підручника Гісь)     Зміст зошита відповідає Державному стандарту початкової освіти, типовим освітнім програмам та підручнику «Математика. 1 клас» (авт. Гісь О.М., Філяк І.В.). Подано матеріал для дій над числами в межах 100, задачі, вправи геометричного змісту, різні за складністю завдання для самостійної роботи та завдання творчого характеру. Завантаживши інтерактивний додаток, діти зможуть виконувати завдання на своєму ґаджеті (давати відповіді на запитання, розв’язувати задачі, малювати тощо). Для учнів 1-го класу.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Автор">Будна Н. О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Посібник для учня</param>
-<param name="Серія">робочий зошит</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-10-5587-1</param>
-<param name="Формат, розмір">170х200 мм.</param>
-<param name="Видавництво">Богдан</param></offer>
-<offer id="24912" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Математика 1 клас. Робочий зошит. Частина 1 (до підручника Гісь)</name>
-<vendorCode>9789661055864</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-matematyka-1-klas-robochyi-zoshyt-chastyna-1-do-pidruchnyka-his/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24912/nush_matematika_1_klas_robochiy_zoshit_chastina_1_do_pidruchnika_gis.jpg</picture>
-<vendor>Богдан</vendor>
-<description>
-<![CDATA[НУШ. Математика 1 клас. Робочий зошит. Частина 1 (до підручника Гісь)     Зміст зошита відповідає Державному стандарту початкової освіти, типовим освітнім програмам та підручнику «Математика. 1 клас» (авт. Гісь О.М., Філяк І.В.). Подано матеріал для дій над числами в межах 100, задачі, вправи геометричного змісту, різні за складністю завдання для самостійної роботи та завдання творчого характеру. Завантаживши інтерактивний додаток, діти зможуть виконувати завдання на своєму ґаджеті (давати відповіді на запитання, розв’язувати задачі, малювати тощо). Для учнів 1-го класу.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Автор">Будна Н. О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Посібник для учня</param>
-<param name="Серія">робочий зошит</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-10-5586-4</param>
-<param name="Формат, розмір">170х200 мм.</param>
-<param name="Видавництво">Богдан</param></offer>
+
+
 <offer id="24913" available="true" in_stock="true" selling_type="r" >
 <name>НУШ. Математика 1 клас. Робочий зошит. Частина 2 (до підручника Листопад)</name>
 <vendorCode>9789661055857</vendorCode>
@@ -24071,7 +24025,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Атлас Україна: природа, природокористування. Географія. 8 клас НУШ НУШ 8 клас. Географія. Атлас Україна: природа, природокористування. Руденко І. С.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко І. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -26442,7 +26396,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Географія. Комплексна підготовка до ЗНО/НМТ 2027 (Андрій Кузишин, Оксана Заячук) Посібник містить теоретичний матеріал, а також тестові завдання різного ступеня складності. Зміст матеріалів відповідає вимогам чинної програми зовнішнього незалежного оцінювання та чинних навчальних програм з географії.  Для абітурієнтів, учнів 11 класу, вчителів географії.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Заячук О., Кузишин А.</param>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
@@ -29504,7 +29458,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Історія України. Комплексна підготовка до ЗНО/НМТ 2027 (Ігор Панчук) Пропонований посібник призначено для самостійної підготовки до ЗНО та ДПА з історії України, а також для поурочної роботи. Він укладений відповідно до чинної програми з історії України для закладів загальної середньої освіти та чинної програми ЗНО. У виданні представлено теоретичні відомості, різноманітні словниково-довідкові й інші допоміжні матеріали та тестові завдання з історії України (від найдавніших часів до наших днів) з відповідями, що дають змогу здійснити перевірку знань, умінь і навичок з цього курсу.  Для випускників, абітурієнтів, учнів та вчителів закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Панчук І.</param>
 <param name="Предмет">Історія України</param>
 <param name="Мова">українська</param>
@@ -42361,7 +42315,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Граматичний практикум Англійська мова І рівень 3-6 класи Князєва І. О.  Граматичний практикум містить вправи різних ступенів складності, таблиці, які допоможуть зрозуміти та сформулювати правила англійської граматики, та тести з ключами для самоконтролю. Посібник укладений відповідно до чинної програми з іноземних мов, з урахуванням вікових особливостей учнів. Він сприятиме більш повному опрацюванню граматичного матеріалу учнями в школі та вдома. Для учнів 3—6 класів закладів загальної середньої освіти незалежно від їхнього профілю, вчителів англійської мови та всіх, хто вивчає англійську. Ви можете замовити електронну версію у захищеному форматі PDF. Для цього натисніть на "Придбати електронну версію".]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Автор">Князєва І.А.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">3-6 клас</param>
@@ -43143,8 +43097,54 @@
 <param name="ISBN">9786175440599</param>
 <param name="Видавництво">Ула</param></offer>
 
-
-
+<offer id="27228" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ГРУДЕНЬ Молодший вік (2024 рік)</name>
+<vendorCode>9786170976260</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-hruden-molodshyi-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27228/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_gruden_molodshiy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Сучасна дошкільна освіта. Розгорнутий календарний план. ГРУДЕНЬ. Молодший вік У посібнику подано перспективний та розгорнутий календарний плани організації освітньо-виховного процесу з дітьми молодшого дошкільного віку. План укладено за блочно-тематичним принципом на один місяць, потижнево. Окрім основного матеріалу, видання пропонує сценарії заходів і твори художньої літератури, покликані полегшити роботу вихователя.    Посібник можна використовувати як робочий календарний план, у який необхідно вписувати індивідуальну роботу, трудову діяльність, роботу щодо попередження дитячого травматизму та роботу з батьками вихованців.      Видання призначене для працівників закладів дошкільної освіти.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва Т.М.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976260</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="27229" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ГРУДЕНЬ Середній вік (2024 рік)</name>
+<vendorCode>9786170976345</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-hruden-serednii-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27229/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_gruden_seredniy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Сучасна дошкільна освіта. Розгорнутий календарний план. ГРУДЕНЬ. Середній вікУ посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми середньої групи ДОЗ.  Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва Т.М. Романова Ю.А.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">128</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976345</param>
+<param name="Формат, розмір">205х260 мм.</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="27230" available="true" in_stock="true" selling_type="r" >
 <name>Граматичний практикум Ранок Англійська мова ІІІ рівень 10-11 класи Павліченко</name>
 <vendorCode>9786170912077</vendorCode>
@@ -43630,7 +43630,30 @@
 <param name="ISBN">978-966-429-685-1</param>
 <param name="Формат, розмір">215 х 155 х 30 мм</param>
 <param name="Видавництво">Школа</param></offer>
-
+<offer id="27255" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ГРУДЕНЬ Старший вік (2024 рік)</name>
+<vendorCode>9786170976406</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-hruden-starshyi-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27255/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_gruden_starshiy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Сучасна дошкільна освіта. Розгорнутий календарний план. ГРУДЕНЬ. Старший вік У посібнику подано перспективний та розгорнутий календарний плани організації освітньо-виховного процесу з дітьми старшого дошкільного віку. План укладено за блочно-тематичним принципом на один місяць, потижнево. Окрім основного матеріалу, видання пропонує сценарії заходів і твори художньої літератури, покликані полегшити роботу вихователя.    Посібник можна використовувати як робочий календарний план, у який необхідно вписувати індивідуальну роботу, трудову діяльність, роботу щодо попередження дитячого травматизму та роботу з батьками вихованців.      Видання призначене для працівників закладів дошкільної освіти.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Федюшина Т.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976406</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -44227,10 +44250,102 @@
 <param name="ISBN">9786175440513</param>
 <param name="Формат, розмір">24×22 см</param>
 <param name="Видавництво">Ула</param></offer>
-
-
-
-
+<offer id="27290" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план СІЧЕНЬ Старший вік (2024 рік)</name>
+<vendorCode>9786170976765</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-sichen-starshyi-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27290/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_sichen_starshiy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розгорнутий календарний план. СІЧЕНЬ. Старший вік У посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми старшої групи ДОЗ. Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Федюшина Т.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976765</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="27291" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ЗИМА Ранній вік (2024 рік)</name>
+<vendorCode>9786170975096</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-zyma-rannii-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27291/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_zima_ranniy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Сучасна дошкільна освіта. Розгорнутий календарний план. ЗИМА. Ранній вікУ посібнику подано перспективний та розгорнутий календарний план освітньої роботи з дітьми групи раннього віку. Він складений за блочно-тематичним принципом з урахуванням вимог Базового компонента дошкільної освіти.     Видання призначене для педагогічних працівників закладів дошкільної освіти.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва О.В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">288</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170975096</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="27292" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план СІЧЕНЬ Молодший вік (2024 рік)</name>
+<vendorCode>9786170976741</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-sichen-molodshyi-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27292/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_sichen_molodshiy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розгорнутий календарний план. СІЧЕНЬ. Молодший вікУ посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми старшої групи ДОЗ.  Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва Т.М.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">128</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976741</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="27293" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план СІЧЕНЬ Середній вік (2024 рік)</name>
+<vendorCode>9786170976758</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-sichen-serednii-vik-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27293/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_sichen_seredniy_vik_2024_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розгорнутий календарний план. СІЧЕНЬ. Середній вікУ посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми середньої групи ДОЗ.  Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва Т.М. Романова Ю.А.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">128</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170976758</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -44673,8 +44788,54 @@
 <param name="Формат, розмір">130х205 мм</param>
 <param name="Видавництво">АССА</param></offer>
 
-
-
+<offer id="27327" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ЛЮТИЙ Середній вік (2025 рік)</name>
+<vendorCode>9786170977144</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-liutyi-serednii-vik-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27327/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_lyutiy_seredniy_vik_2025_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Сучасна дошкільна освіта. Розгорнутий календарний план ЛЮТИЙ Середній вік.У посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми середньої групи ДОЗ.  Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Христоєва Т.М. Романова Ю.А.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">128</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170977144</param>
+<param name="Формат, розмір">203х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="27328" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план ЛЮТИЙ Старший вік (2025 рік)</name>
+<vendorCode>9786170977137</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-liutyi-starshyi-vik-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27328/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_lyutiy_starshiy_vik_2025_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розгорнутий календарний план. ЛЮТИЙ. Старший вік У посібнику подано перспективний та розгорнутий календарний план організації освітньо-виховного процесу з дітьми старшої групи ДОЗ. Видання можна використовувати як робочий календарний план, журнал ведення щоденної роботи з вихованцями.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Ванжа С.М. Федюшина Т.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170977137</param>
+<param name="Формат, розмір">202х258</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="27329" available="true" in_stock="true" selling_type="r" >
 <name>Математика з родиною ДЗУМІВ 5-6 років Основа</name>
 <vendorCode>9786170040206</vendorCode>
@@ -49687,7 +49848,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Вступ історії України та громадянської освіти НУШ 5 клас. Атлас інтегрований курс   Атлас створено відповідно до модельної навчальної програми «Вступ до історії України та громадянської освіти. 5 клас» для закладів загальної середньої освіти (автори: Бурлака О. В., Власова Н. С., Желіба О. В., Майорський В. В., Піскарьова І. О., Щупак І. Я.). У ньому реалізовано вимоги Державного стандарту базової середньої освіти (2020 р.) і втілено ідеї Нової української школи.   Підручник ознайомлює учнів з основами історії як науки про минуле людства. Він також має на меті зацікавити та розвинути інтерес до навчального курсу, сприяти осмисленню школярами подій минулого в контексті його зв’язків із сьогоденням, формуванню обрисів майбутнього. Підручник реалізує засади компетентнісно орієнтованого навчання та формує наскрізні вміння. Навчальні тексти та методичний апарат забезпечують розвиток історико-хронологічного, геопросторового, критичного і системного мислення, творчих здібностей, а також сприяють усвідомленню власних прав і гідності, формуванню поваги до прав і гідності інших людей.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
 <param name="Тип">Атлас</param>
@@ -50340,7 +50501,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Атлас з контурними картами Оріон Пізнаємо природу 5 клас   Атлас видавництва Оріон складено за програмою загальноосвітніх навчальних закладів України для курсу історії України за 5 клас. Атлас включає в себе карти, схеми, кольорові ілюстрації, контурні карти, а також багато корисної навчальної інформації.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
 <param name="Тип">Атлас</param>
@@ -50995,7 +51156,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ. Вступ історії України та громадянської освіти 5 клас. Робочий зошит.  Автор: Ігор Щупак, Ірина Піскарьова, Олена Бурлака   Тип: Робочий зошит   ISBN: 978-966-991-166-7   Рік: 2022   Палітурка: м'яка   Колірність: повноколір   Мова: Українська   Ступені освіти: Середня школа   МОН: схвалено]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Ігор Щупак, Ірина Піскарьова, Олена Бурлака</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -59511,7 +59672,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Пізнаємо природу 5 кл. Робочий зошит. НУШ.   Автор: Тетяна Коршевнюк Робочий зошит з предмету "Пізнаємо природу" для 5 класу, складений відповідно до програми НУШ. Цей зошит призначений для самооцінювання і перевірки навчальних результатів, яких ви досягли у пізнанні природи. Зошит складається з двох частин. Частина І «Оціни себе» містить рубрики: Самооцінювання навчальних результатів Самооцінювання роботи у групі Моє найбільше досягнення Створюємо підручник самі Частина II «Перевір себе» містить два варіанти перевірних завдань до шести вивчених тем. Біля кожного завдання зазначена максимальна оцінка у балах за. його правильне виконання. Сумарна оцінка за правильне виконання усіх завдань варіанта перевірної роботи становить 12 балів. На основі отриманих балів ти можеш здійснювати самооцінювання, а потім порівнювати свою оцінку з оцінкою вчительки/вчителя.]]></description>
-<quantity_in_stock>66</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Коршевнюк</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -61533,7 +61694,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Атлас Пізнаємо природу 6 клас. НУШ  Відповідає всім чинним модельним навчальним програмам інтегрованого курсу "Пізнаємо природу" для 6 класу Нової української школи. Схвалено для використання в освітньому процесі (рішеннями експертних комісій з біології та екології (протокол №5 від 09.06.2023 року), географії (протокол №7 від 27.07.2023), фізики та астрономії (протокол №6 від 1.08.2023 року), №3.0436-2023 у Каталозі надання грифів навчальній літературі і навчальним програмам) Атлас відповідає санітарному законодавству України (висновок №12.2-18-1/7458 від 26.06.2023 року).]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
 <param name="Тип">Атлас</param>
@@ -62037,7 +62198,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Контурні карти Пізнаємо природу 6 клас НУШ  Відповідає всім чинним модельним навчальним програмам інтегрованого курсу "Пізнаємо природу" для 6 класу Нової української школи.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -62060,7 +62221,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Контурні карти Географія 6 клас НУШ  Відповідає всім чинним модельним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -62082,7 +62243,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Атлас Географія 6 клас. НУШ  Відповідає всім чинним модельним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -62484,7 +62645,29 @@
 
 
 
-
+<offer id="28655" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит-практикум Оріон Здоров&apos;я, Безпека та Добробут 6 клас Зоя Хитра</name>
+<vendorCode>9789669912312</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-praktykum-orion-zdorovia-bezpeka-ta-dobrobut-6-klas-zoia-khytra/</url>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28655/nush_zoshit_praktikum_orion_zdorov_ya_bezpeka_ta_dobrobut_6_klas_zoya_hitra.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[НУШ Здоров'я, безбека та добробут. 6 клас. Зошит-практикум]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Зоя Хитра</param>
+<param name="Мова">українська</param>
+<param name="Вік">6 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669912312</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="28656" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Вправи, самостійні роботи, діагностичні роботи, експрес-контроль Генеза Математика 6 клас Істер</name>
 <vendorCode>9789661113632</vendorCode>
@@ -62852,7 +63035,29 @@
 
 
 
-
+<offer id="28735" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит Оріон Пізнаємо природу 6 клас Коршевнюк</name>
+<vendorCode>9789669912411</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-robochyi-zoshyt-orion-piznaiemo-pryrodu-6-klas-korshevniuk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28735/nush_robochiy_zoshit_orion_pizna_mo_prirodu_6_klas_korshevnyuk.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Робочий зошит Пізнаємо природу 6 клас Коршевнюк  Робочий зошит з предмету "Пізнаємо природу" для 6 класу, складений відповідно до програми НУШ. Цей зошит призначений для самооцінювання і перевірки навчальних результатів, яких ви досягли у пізнанні природи.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Коршевнюк Т.В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">6 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">56</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669912411</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="28736" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Експрес-контроль Оріон Математика 6 клас Частина 1 Тарасенкова</name>
 <vendorCode>9789669912275</vendorCode>
@@ -73360,7 +73565,29 @@
 <param name="Тип обкладинки">тверда</param>
 <param name="ISBN">978-617-8363-38-3</param>
 <param name="Видавництво">Генеза</param></offer>
-
+<offer id="29883" available="true" in_stock="true" selling_type="r" >
+<name>Готуємось до школи Основа 5–6 років Підготовка до письма Юрченко Основи грамоти. Математика. Природа</name>
+<vendorCode>9786170041388</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/hotuiemos-do-shkoly-osnova-56-rokiv-pidhotovka-do-pysma-iurchenko-osnovy-hramoty-matematyka-pryroda/</url>
+<currencyId>UAH</currencyId>
+<categoryId>95</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29883/gotu_mos_do_shkoli_osnova_5_6_rokiv_pidgotovka_do_pisma_yurchenko_osnovi_gramoti_matematika_priroda.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Готуємось до школи. 5–6 років. РДШ007. Підготовка до письма. Основи грамоти. Математика. Природа  Посібник містить цікаві різноманітні завдання, що допоможуть ефективно організувати пізнавальну діяльність дітей шостого року життя. Матеріали робочого зошита спрямовані на розвиток графічних навичок письма, опанування дітьми основ грамоти, оволодіння елементарними математичними уявленнями, закріплення та розширення знань про довкілля. Завдання відповідають вимогам Базового компонента дошкільної освіти та відповідних розділів чинних програм.     Рекомендовано для дітей старшого дошкільного віку, педагогів ЗДО, центрів розвитку та підготовки до школи, а також для роботи батьків із дітьми.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Юрченко Н. Ф.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-6 рокiв</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Готуємось до школи</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170041388</param>
+<param name="Видавництво">Основа</param></offer>
 <offer id="29884" available="true" in_stock="true" selling_type="r" >
 <name>Малюємо водою! УЛА Песик Розмальовка для малюків</name>
 <vendorCode>9786175442753</vendorCode>
@@ -75282,7 +75509,30 @@
 <param name="ISBN">9786170977748</param>
 <param name="Формат, розмір">205х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
+<offer id="30030" available="true" in_stock="true" selling_type="r" >
+<name>Сучасна дошкільна освіта Ранок Розгорнутий календарний план. ВЕСНА. Ранній вік. НОВА РЕДАКЦІЯ</name>
+<vendorCode>9786170975102</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/literatura-vykhovateliu-ta-lohopedu/suchasna-doshkilna-osvita-ranok-rozghornutyi-kalendarnyi-plan-vesna-rannii-vik-nova-redaktsiia/</url>
+<currencyId>UAH</currencyId>
+<categoryId>119</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30030/suchasna_doshkilna_osvita_ranok_rozgornutiy_kalendarniy_plan_vesna_ranniy_vik_nova_redaktsiya.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розгорнутий календарний план. ВЕСНА. Ранній вік (НОВА РЕДАКЦІЯ) У посібнику подано перспективний та розгорнутий календарний план освітньої роботи з дітьми групи раннього віку. Він складений за блочно-тематичним принципом із урахуванням вимог Базового компонента дошкільної освіти, затвердженого Наказом Міністерства освіти і науки України.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Ванжа С.М.</param>
+<param name="Мова">українська</param>
+<param name="Вік">дошкiльний</param>
+<param name="Тип">Методичний посібник</param>
+<param name="Серія">Сучасна дошкільна освіта</param>
+<param name="Кількість сторінок">264</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170975102</param>
+<param name="Формат, розмір">205х265 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -82975,7 +83225,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Вступ до історії України та громадянської освіти 5 клас. Мої досягнення. Тематичне оцінювання Зошит для самооцінювання та перевірних робот з історії України та громадянської освіти для 5 класу, складений за програмою НУШ.]]></description>
-<quantity_in_stock>96</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Ігор Щупак</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -83063,11 +83313,33 @@
 <param name="ISBN">978-617-686-736-4</param>
 <param name="Формат, розмір">125х200 мм.</param>
 <param name="Видавництво">Весна</param></offer>
-
+<offer id="30552" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Географія. Материки та океани 7 клас</name>
+<vendorCode>9789669913272</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-konturni-karty-orion-heohrafiia-materyky-ta-okeany-7-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30552/nush_konturni_karti_orion_geografiya_materiki_ta_okeani_7_klas.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Географія 7 клас. Контурні карти. Материки і Океани Контурні карти за географічними основами цілком відповідають однойменному атласу «Географія материків і океанів» для 7 класу. Вони містять всі необхідні карти для виконання практичних робіт, передбачених навчальною програмою.    Карти доповнені творчими завданнями різної складності.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Тетяна Гільберг</param>
+<param name="Мова">українська</param>
+<param name="Вік">7 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669913272</param>
+<param name="Формат, розмір">60х92/8</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="30553" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас Оріон Географія. Материки та океани 7 клас</name>
 <vendorCode>9789669913289</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-atlas-orion-heohrafiia-materyky-ta-okeany-7-klas/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-orion-heohrafiia-materyky-ta-okeany-7-klas/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
 <price>150</price>
@@ -83075,7 +83347,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Географія 7 клас. Атлас. Материки і Океани Атлас укладено згідно з навчальною програмою «Географія. 5–9 класи».  У його структурі є 7 тематичних розділів:     Форма і рухи Землі. Материки та океани – великі природні комплекси географічної оболонки (карти світу). Материки тропічних широт (розділи: Африка, Південна Америка, Австралія). Полярний материк планети (Антарктида). Материки Північної півкулі (розділи: Північна Америка, Євразія). Океани. Вплив людини на природу материків та океанів.    Карти атласу розроблені на географічних основах, створених за ГІС-технологіями з використанням цифрових карт, що відображують точну конфігурацію берегової лінії материків, правильні абриси озерних улоговин, актуальні лінії річок тощо. Компонування карт материків відрізняється від узвичаєних у навчальній картографії. Зокрема на картах Африки вміщено територію Чорного моря та півдня України, що дає змогу краще усвідомити зв’язки між нашою країною та державами Африканського континенту (відповідно до навчальної програми). Усі карти атласу створені з відмивкою рельєфу. Це дає можливість, по-перше, уявити об’ємну картину фізичної поверхні материків та дна океанів, простежити зв’язок між формами рельєфу й тектонічними структурами, залежністю клімату від підстильної поверхні, природних зон від рельєфу місцевості. Джерелами укладання карт є актуальна інформація міжнародних організацій, які проводять моніторинг навколишнього природного середовища. Так, кліматична карта світу укладена за відкритими даними WorldClim – Global Climate Data, карти природних зон світу та екологічної ситуації побудовані за новітніми даними Всесвітньої організації з охорони природи, зменшення лісового покриву подано за інтерактивною картою Global Forest World, а картосхеми зміни озонового шару над  Антарктидою створені згідно з космічними знімками NASA Ozone Watch. Традиційні карти материків (фізична, тектонічна, кліматична, природних зон, політична) доповнені картами, які вперше подані в навчальних шкільних атласах, зокрема карти формування території та розселення корінних народів. Карти природних зон материків містять позначення природних об’єктів Світової спадщини ЮНЕСКО за відкритими даними World Database on Protected Areas, а політичні карти — культурних об’єктів ЮНЕСКО. Серед нових треба відзначити карти рельєфу Антарктиди без льодового покриву з відображенням прогнозних корисних копалин і товщини льодового покриву. Особливостями карт океанів є наявність карти Південного океану, відображення рельєфу океанічного дна відмивкою, показ тваринного світу художніми значками, подання охоронних об’єктів ЮНЕСКО.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -85146,7 +85418,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Всесвітня історія. Історія України НУШ 6 клас. Атлас інтегрований курс  Інтегрований курс історії для 6 класу - перший систематичний курс історії в середній школі. З його особливостей: вивчення давньої історії України як частини всесвітньої історії; викладення історичного матеріалу від появи первісних людей до падіння Західної Римської імперії. Розпочинається атлас сторінкою-нагадуванням «Як читати історичні карти». Усі 33 карти атласу розкривають розуміння цивілізаційної значущості стародавнього періоду в історії України, Європи та світу в цілому. Антична цивілізація, як основа для подальшого розвитку європейського суспільства, займає центральне місце в атласі, 21 карта присвячена цій темі. Усі карти в атласі комплексні – будь-який історичний час для кожної теми показаний на карті з усіх його боків: культові постаті, зміни кордонів і меж, завоювання територій, залежні території, міста, сільськогосподарські культури, корисні копалини, війни та битви, культура та просвітництво тощо.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
 <param name="Тип">Атлас</param>
@@ -85157,7 +85429,28 @@
 <param name="ISBN">9789669911643</param>
 <param name="Формат, розмір">60х92/8</param>
 <param name="Видавництво">Оріон</param></offer>
-
+<offer id="30667" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 6 клас Інтегрований курс</name>
+<vendorCode>9789669911650</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-6-klas-intehrovanyi-kurs/</url>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30667/nush_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_6_klas_integrovaniy_kurs.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) НУШ 6 клас. Контурні карти  Контурні карти укладено відповідно до чинної навчальної програми з географії для 6 класу. Завдання в контурних картах відповідають віковим особливостям учнів та сформовані так, щоб закріпити теоретичні знання здобуті під час вивчення окремих навчальних тем і виконати всі практичні роботи, передбачені програмою.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">6 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">13</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669911650</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="30668" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас Оріон Всесвітня історія. Історія України 7 клас Інтегрований курс</name>
 <vendorCode>9789669913265</vendorCode>
@@ -85180,7 +85473,28 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669913265</param>
 <param name="Видавництво">Оріон</param></offer>
-
+<offer id="30669" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 7 клас Інтегрований курс</name>
+<vendorCode>9789669913258</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-7-klas-intehrovanyi-kurs/</url>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30669/nush_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_7_klas_integrovaniy_kurs.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 7 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти містять творчі завдання різного ступеня складності. На їхніх сторінках можна виконати п’ять практичних завдань з курсу «Історія України» та всі завдання з курсу «Всесвітня історія».]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">7 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12 (кількість карт: 26)</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669913258</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="30670" available="true" in_stock="true" selling_type="r" >
 <name>НУШ ​Робочий зошит Астон Історія: Україна і світ 7 клас Інтегрований курс Васильків</name>
 <vendorCode>9789663089416</vendorCode>
@@ -88331,9 +88645,72 @@
 <param name="Формат, розмір">235х235х50 мм</param>
 <param name="Видавництво">Ранок/Наочні посібники</param></offer>
 
-
-
-
+<offer id="30865" available="true" in_stock="true" selling_type="r" >
+<name>Психологічна гра для занять з дітьми &quot;Наодинці з дитиною&quot; Ранок. Наочні посібники</name>
+<vendorCode>4826477788984</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/psykholohichni-ihry/psykholohichna-hra-dlia-zaniat-z-ditmy-naodyntsi-z-dytynoiu-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<price>255</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30865/psihologichna_gra_dlya_zanyat_z_ditmi_naodintsi_z_ditinoyu_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Наодинці з дитиною. Психологічна гра для занять з дітьми Новинка від Ранок. Наочні посібники – ваша міні психологічна гра!  В зручному кишеньковому форматі – беремо з собою в дорогу Унікальна карткова психологічна гра про створення довіри між дорослими та дітьми 50 незвичайних запитань для відвертого спілкування батьків та дітей.  Ця гра - ефективний метод для зміцнення родинних стосунків   Рекомендуємо до використання усю серію:      «Відверті розмови» «Розкажи мені свою історію» «Наодинці з дитиною»    Представляємо вам унікальну карткову психологічну гру, яка стане чудовим інструментом для зміцнення довіри між дорослими та дітьми. Пограйте разом і відкрийте нові грані ваших стосунків!  Кому це потрібно?  Якщо ви прагнете, щоб ваша дитина відчувала до вас довіру і ділилася своїми думками та переживаннями, ця гра – ваш ідеальний союзник! Вона дозволяє зануритися у світ дитячих мрій і надій, розслабитися і навчитися спілкуватися на новому рівні.  Візьміть з собою!  Гра має зручний кишеньковий формат, що дозволяє легко брати її з собою куди завгодно – на прогулянку, у подорож або просто на сімейне збори.  Грайте вдвох або всією родиною!  Ця захоплююча гра підходить як для спілкування з дітьми наодинці, так і для веселих родинних вечірок. Незвичайні питання допоможуть вам знайти спільну мову та поринути у світ відкриттів. Не втрачайте можливість зблизитися зі своїми дітьми! Відкрийте нові горизонти довіри та розуміння з нашою міні психологічною грою від Ранок. Грайте, досліджуйте і створюйте незабутні миті разом!   Набір містить: 50 карток, правила гри]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">6-9 рокiв</param>
+<param name="Тип">Настільні та напольні ігри</param>
+<param name="Серія">Психологічні ігри</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">коробка</param>
+<param name="ISBN">4826477788984</param>
+<param name="Формат, розмір">87х127х25 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+<offer id="30866" available="true" in_stock="true" selling_type="r" >
+<name>Психологічна гра для занять з дітьми &quot;Розкажи мені свою історію&quot; Ранок. Наочні посібники</name>
+<vendorCode>4826477788991</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/psykholohichni-ihry/psykholohichna-hra-dlia-zaniat-z-ditmy-rozkazhy-meni-svoiu-istoriiu-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<price>255</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30866/psihologichna_gra_dlya_zanyat_z_ditmi_rozkazhi_meni_svoyu_istoriyu_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Розкажи мені свою історію. Психологічна гра для занять з дітьми Новинка від Ранок. Наочні посібники – ваша міні психологічна гра!  В зручному кишеньковому форматі – беремо з собою в дорогу 50 незвичайних запитань, які допоможуть краще пізнати одне одного Ця карткова гра - ефективний метод для зміцнення родинних стосунків  Рекомендуємо до використання усю серію:     «Відверті розмови» «Розкажи мені свою історію» «Наодинці з дитиною»    Відкрийте для себе новий спосіб зміцнити родинні зв’язки та дізнатися більше про своїх рідних завдяки психологічній картковій грі! Створена вона в зручному кишеньковому форматі!   Ця гра містить 50 незвичайних запитань, які спонукатимуть вас до відвертих бесід. Чи знаєте ви, про що мріяв ваш дідусь у дитинстві? Які улюблені ігри були у бабусі? З такими запитаннями ви зможете зануритися в минуле вашої родини, дізнатися про їхні мрії та захоплення, та створити нові спогади. Заваріть чай, приготуйте печиво та пориньте у світ цікавих історій та глибоких емоцій. Адже ця гра – не лише розвага, а й ефективний метод для зміцнення родинних стосунків! Не пропустіть можливість ближче познайомитися зі своїми рідними, адже ці моменти будуть з вами назавжди. Візьміть гру з собою в дорогу, та завжди будьте готові до нових відкриттів!   Набір містить: 50 карток, правила гри.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">6-9 рокiв</param>
+<param name="Тип">Настільні та напольні ігри</param>
+<param name="Серія">Психологічні ігри</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">коробка</param>
+<param name="ISBN">4826477788991</param>
+<param name="Формат, розмір">87х127х25 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+<offer id="30867" available="true" in_stock="true" selling_type="r" >
+<name>Психологічна гра для занять з дітьми &quot;Відверті розмови&quot; Ранок. Наочні посібники</name>
+<vendorCode>4827477788950</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/psykholohichni-ihry/psykholohichna-hra-dlia-zaniat-z-ditmy-vidverti-rozmovy-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<price>255</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30867/psihologichna_gra_dlya_zanyat_z_ditmi_vidverti_rozmovi_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Відверті розмови. Психологічна гра для занять з дітьми Новинка від Ранок. Наочні посібники – ваша міні психологічна гра!  В зручному кишеньковому форматі – беремо з собою в дорогу 50 запитань для довірчих стосунків між батьками й дітьми Ця карткова гра - ефективний метод для зміцнення родинних стосунків   Рекомендуємо до використання усю серію:      «Відверті розмови» «Розкажи мені свою історію» «Наодинці з дитиною»    Відкрийте нові горизонти у спілкуванні з близькими завдяки нашій інноваційній психологічній картковій грі! У зручному кишеньковому форматі, який легко взяти з собою в дорогу, ви отримуєте чудовий інструмент для зміцнення довірчих стосунків з вашими дітьми.  50 запитань для довірчих стосунків — це ваш шанс відкрити нові грані спілкування! Чи завжди ви щирі одне з одним? Гра підкаже, як зробити ваші сімейні стосунки кращими й теплішими. Зберіться разом за вечерею та насолодіться захоплюючими бесідами, які допоможуть зламати бар’єри та розкрити серця.  Родинні бесіди — це не лише можливість провести час разом, а й чудова нагода дізнатися про ваші рідних більше. Гра не тільки забезпечить цікавість, але й справді зблизить покоління, показуючи, наскільки важливими є щирість та відкритість у ваших стосунках.  Набір містить: 50 карток, правила гри.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">6-9 рокiв</param>
+<param name="Тип">Настільні та напольні ігри</param>
+<param name="Серія">Психологічні ігри</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">коробка</param>
+<param name="ISBN">4827477788950</param>
+<param name="Формат, розмір">87х127х25 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
 <offer id="30868" available="true" in_stock="true" selling_type="r" >
 <name>Психологічна гра &quot;Давай поговоримо!&quot; Знаходимо спільну мову з підлітком 10+ Ранок. Наочні посібники</name>
 <vendorCode>4827677788927</vendorCode>
@@ -88345,7 +88722,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Давай поговоримо! Психологічна гра. Підлітковий вік - дуже цікавий період життя. На жаль, батькам не завжди вдається зрозуміти поведінку своєї дитини. Щоб краще зрозуміти одне одного, проводьте разом більше часу, займайтеся спільними справами, придумайте сімейне хобі, а ще краще - пограйте у гру «Давай поговоримо!». Щоб зблизити підлітка з батьками, ми розробили гру з нескладними запитаннями і тематичними ілюстраціями. Зберіться родиною, заваріть чай і пограйте! Приділіть одне одному увагу і ви побачите, що ваша сім’я прекрасна!  3 варіанти гри! Як грати?  1 варіант. Беремо по картці зі стосу, відповідаючи по черзі на запитання. Гра триває до закінчення карток у стосу. 2 варіант. Один гравець, взявши картку зі стосу, обирає іншого гравця, який відповідатиме на запитання. У грі мають взяти участь усі гравці 3 варіант. Кожен гравець бере картку і розглядає на ній малюнок. Далі по черзі розповідає, що бачить. Після цього гравці обговорюють кожен малюнок.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">10-13 рокiв</param>
 <param name="Тип">Настільні та напольні ігри</param>
@@ -88356,8 +88733,50 @@
 <param name="ISBN">4827677788927</param>
 <param name="Формат, розмір">125х175х33 мм</param>
 <param name="Видавництво">Ранок/Наочні посібники</param></offer>
-
-
+<offer id="30869" available="true" in_stock="true" selling_type="r" >
+<name>Психологічна гра &quot;Я все зможу!&quot; 30 навичок, які відкривають у тобі суперсилу! 8+ Ранок. Наочні посібники</name>
+<vendorCode>4827677978977</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/psykholohichni-ihry/psykholohichna-hra-ya-vse-zmozhu-30-navychok-yaki-vidkryvaiut-u-tobi-supersylu-8-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<price>318</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30869/psihologichna_gra_ya_vse_zmozhu_30_navichok_yaki_vidkrivayut_u_tobi_supersilu_8_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Я все зможу! Психологічна гра. Діти ростуть, але деякі дорослі залишаються в полоні своїх дитячих страхів. Це може призвести до нерішучості та не життєрадісності. Час змінювати це! Гра «Я все зможу!» створена, щоб допомогти дітям подолати невпевненість та відкрити в собі справжню суперсилу.  Що пропонує гра?     30 унікальних навичок, які розвиватимуться разом із вашою дитиною протягом життя. Три різних варіанти гри з цікавими запитаннями: «Цього тижня я зможу…», «Моя родина це зможе!» та «Чи я зможу це зробити?». Кожне запитання – це можливість для самоаналізу та розвитку. Оригінальне упакування у вигляді стилізованого чохла та коробки-жабки, що нагадує сірникову коробку. Це не лише привабливий дизайн, а й ідеальне місце для зберігання карток після гри. Картки виготовлені з матового крейдованого паперу щільністю 350 г, що забезпечує їх якість та довговічність. Тематичний дизайн і високоякісний друк створюють мотивацію до гри та навчання.     «Я зможу все» - це незамінний інструмент для психологів, педагогів та батьків. Дорослі, граючи разом з дітьми, допомагають їм рости, й самі відчувають радість спільного навчання. Приєднуйтесь до нас у цій захопливій подорожі до впевненості та особистісного розвитку!]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">8-11 рокiв</param>
+<param name="Тип">Настільні та напольні ігри</param>
+<param name="Серія">Психологічні ігри для підлітків</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">коробка</param>
+<param name="ISBN">4827677978977</param>
+<param name="Формат, розмір">125х175х33 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+<offer id="30870" available="true" in_stock="true" selling_type="r" >
+<name>Психологічна гра &quot;Я мислю, значить дію!&quot; Вчуся приймати рішення 10+ Ранок. Наочні посібники</name>
+<vendorCode>4827677978984</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/psykholohichni-ihry/psykholohichna-hra-ya-mysliu-znachyt-diiu-vchusia-pryimaty-rishennia-10-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<price>318</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30870/psihologichna_gra_ya_mislyu_znachit_diyu_vchusya_priymati_rishennya_10_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Я мислю, значить дію! Психологічна гра. Шукаєте ідеальний спосіб навчити вашого підлітка приймати рішення? Ця психологічна гра — це саме те, що потрібно!   Життя — це нескінченний ряд виборів. Від малих рішень, таких як час на навчання або прогулянку, до великого: обрати зустріч з друзями чи «зависнути» в гаджетах. І гра «Я мислю, значить, я дію» допоможе підліткам задуматися про наслідки своїх дій, навчитися аналізувати варіанти та приймати зважені рішення. Не пропустіть можливість подарувати вашому підлітку корисну і натхненну гру!  Два захоплюючі варіанти гри з цікавинками допомагають дитині зрозуміти важливість вибору в повсякденному житті. Кожна картка містить запитання, що спонукають до роздумів і обговорень, що ідеально підійде для розвитку критичного мислення підлітка.  Унікальне упакування: гра в стильному чохлі та коробці у формі жабки, які відкриваються як «сірникова коробка». Цей дизайн не лише приваблює, а й слугує зручним місцем для зберігання карток після гри.  Якість на першому місці: Картки надруковані на матовому крейдованому папері з щільністю 350 г, що гарантує довговічність і естетичний вигляд. Тематичний дизайн і якісний друк мотивують до активної гри та відкриття нових можливостей.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">10-13 рокiв</param>
+<param name="Тип">Настільні та напольні ігри</param>
+<param name="Серія">Психологічні ігри для підлітків</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">коробка</param>
+<param name="ISBN">4827677978984</param>
+<param name="Формат, розмір">125х175х33 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
 <offer id="30871" available="true" in_stock="true" selling_type="r" >
 <name>Психологічна гра &quot;Пізнай себе!&quot; 30 запитань та викликів, щоб дізнатися, ким ти є насправді 10+ Ранок</name>
 <vendorCode>4827677978960</vendorCode>
@@ -88369,7 +88788,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Пізнай себе! Психологічна гра. Пропонуємо вам унікальну психологічну гру у кишеньковому форматі А5, яка допомагає підліткам пізнати самого себе! Підлітковий вік зазвичай непростий, але цікавий.  Перед учорашніми дітьми постає чимало запитань. Ким стати? Чим займатися? З ким товаришувати? Який одяг носити? Пошук відповідей на ці запитання бентежить і рухає вперед. Гра «Пізнай себе» створена для самопізнання підлітків, збалансованого розвитку особистості й підтримки психічного здоров’я. До того ж це чудовий інструмент взаємодії та зміцнення стосунків між батьками та дітьми  Серія ігор складається з чотирьох захопливих варіантів:     Давай поговоримо Я все зможу Я мислю, значить, я дію! Пізнай себе!    Один із найбільших викликів у житті - це пізнання самого себе. Хто я? Ким я хочу стати? Чим хочу займатися? Пропонований набір містить 30 карток з ілюстраціями та завданнями, які допоможуть у подорожі самопізнання. І ця подорож буде неймовірною!]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">10-13 рокiв</param>
 <param name="Тип">Настільні та напольні ігри</param>
@@ -88954,7 +89373,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Географія: Навчальний комплект (робочий зошит для практичних робіт, вправ, досліджень і проєктів; контурні карти, зошит для діагностувальних робіт) для 7 класу Навчальний комплект з географії містить два зошити та контурні карти. У робочому зошиті подано докладні інструкції щодо виконання практичних робіт, географічних задач і вправ, дослідницьких завдань і проєктів, що передбачені модельною навчальною програмою «Географія. 6-9 класи» для закладів загальної середньої освіти (автори: Запотоцький С. П., Карпюк Г. І., Гладковський Р. В. та ін.). У окремому зошиті вміщено діагностувальні роботи (у двох варіантах) для визначення рівня очікуваних результатів навчально-пізнавальної діяльності учнів.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Автор">Бойко В., Міхелі С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -89839,7 +90258,7 @@
 <vendor>Літера</vendor>
 <description>
 <![CDATA[Я досліджую світ. 2 клас. Частина 1. Підручник (2024 рік) Підручник «Я досліджую світ» авторства Іщенко О.Л., Іщенко А.Ю., Кліщ О.М., Козак Л.З., створено відповідно до Типової освітньої програми для 1-2 класів колективу авторів під керівництвом Р. Б. Шияна. Підручник побудовано на засадах тематичної інтеграції: на кожен місяць передбачено певні теми й основні питання/проблеми, які мають бути обговорені, досліджені та з’ясовані. Тематика підручника «Я досліджую світ» відображає змістові лінії, визначені Державним стандартом початкової освіти. Змістові лінії природничої, основозбережувальної, інформативної та інших галузей розкриваються поступово, за концентричним принципом, протягом усього курсу, оскільки основним методом є спостереження і дослідження змін у довкіллі та самому собі. Запитання і завдання до сторінок курсу «Я досліджую світ» орієнтовані не на відтворення, а на розв'язання певної проблеми, пошук відповідей шляхом аналізу текстів, різноманітних ілюстрацій. Увесь контент дібрано і складено так, щоб розвивати природну допитливість учнів, учити критично і творчо мислити, допомогти пізнавати себе і світ, залучити наявний досвід. У підручнику розглядаються ситуації, актуальні для дітей. До кожної теми тижня передбачено сторінку курсу  «Інформатика» (стисло теоретичні відомості та практичне завдання за комп’ютером на урок) і «Технології»: виготовлення виробів у різних техніках з покроковими фотоінструкціями.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Іщенко О.Л., Іщенко А.Ю., Кліщ О.М., Козак Л.З.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -89864,7 +90283,7 @@
 <vendor>Літера</vendor>
 <description>
 <![CDATA[Я досліджую світ. 2 клас. Частина 2. Підручник (2024 рік) Підручник «Я досліджую світ» авторства Іщенко О.Л., Іщенко А.Ю., Кліщ О.М., Козак Л.З., створено відповідно до Типової освітньої програми для 1-2 класів колективу авторів під керівництвом Р. Б. Шияна. Підручник побудовано на засадах тематичної інтеграції: на кожен місяць передбачено певні теми й основні питання/проблеми, які мають бути обговорені, досліджені та з’ясовані. Тематика підручника «Я досліджую світ» відображає змістові лінії, визначені Державним стандартом початкової освіти. Змістові лінії природничої, основозбережувальної, інформативної та інших галузей розкриваються поступово, за концентричним принципом, протягом усього курсу, оскільки основним методом є спостереження і дослідження змін у довкіллі та самому собі. Запитання і завдання до сторінок курсу «Я досліджую світ» орієнтовані не на відтворення, а на розв'язання певної проблеми, пошук відповідей шляхом аналізу текстів, різноманітних ілюстрацій. Увесь контент дібрано і складено так, щоб розвивати природну допитливість учнів, учити критично і творчо мислити, допомогти пізнавати себе і світ, залучити наявний досвід. У підручнику розглядаються ситуації, актуальні для дітей. До кожної теми тижня передбачено сторінку курсу  «Інформатика» (стисло теоретичні відомості та практичне завдання за комп’ютером на урок) і «Технології»: виготовлення виробів у різних техніках з покроковими фотоінструкціями.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Іщенко О.Л., Іщенко А.Ю., Кліщ О.М., Козак Л.З.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -91028,8 +91447,52 @@
 <param name="ISBN">978-966-991-202-2</param>
 <param name="Формат, розмір">170х240 мм</param>
 <param name="Видавництво">Оріон</param></offer>
-
-
+<offer id="31042" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Україна: природа, природокористування. Географія 8 клас Руденко І. С. (2025 рік)</name>
+<vendorCode>9789669914460</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-konturni-karty-orion-ukraina-pryroda-pryrodokorystuvannia-heohrafiia-8-klas-rudenko-i-s-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31042/nush_konturni_karti_orion_ukra_na_priroda_prirodokoristuvannya_geografiya_8_klas_rudenko_i_s_2025_rik.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Географія. Контурні карти Україна: природа, природокористування 8 клас НУШ НУШ 8 клас. Географія. Контурні карти Україна: природа, природокористування. Руденко І. С.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко І.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, однокольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669914460</param>
+<param name="Формат, розмір">220х280 мм</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31043" available="true" in_stock="true" selling_type="r" >
+<name>Контурні карти Оріон Всесвітня історія. Історія України 8 клас (інтегрований курс)</name>
+<vendorCode>9786177712182</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-8-klas-intehrovanyi-kurs/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31043/konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_8_klas_integrovaniy_kurs.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 8 клас. Контурні карти Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії – 5 з курсу історії України та 6 із всесвітньої історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2018</param>
+<param name="Тип паперу">офсет, однокольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-7712-18-2</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="31044" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас + Контурні карти Оріон Географія 6 клас Комплект Гільберг</name>
 <vendorCode>9789669912350, 9789669912367</vendorCode>
@@ -91041,7 +91504,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія 6 клас. Атлас+Контурні карти. НУШ  Атлас та Контурні карти відповідають всім чинним модельним навчальним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -91089,7 +91552,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Пізнаємо природу 6 клас. Атлас + Контурні карти НУШ  Атлас та Контурні карти відповідають всім чинним модельним навчальним програмам інтегрованого курсу «Пізнаємо природу» для 6 класу Нової української школи.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко І.С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -91113,7 +91576,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія: Україна і світове господарство 9 клас. Атлас + Контурні карти (НУШ) Комплект розрахований на учнів 9 класу Нової української школи та охоплює основні теми шкільного курсу географії: населення України та світу, національне й світове господарство, а також географічні регіони та країни.  1. Атлас допомагає наочно працювати з географічною інформацією та досліджувати особливості розміщення населення, господарства, країн і регіонів. За тематичними картами учні можуть порівнювати території, аналізувати відмінності їхнього розвитку та простежувати взаємозв’язки між природними, демографічними й економічними процесами.  2. Контурні карти призначені для практичного опрацювання навчального матеріалу. З їхньою допомогою учні наносять географічні об’єкти, позначають території та кордони, працюють з умовними знаками, створюють легенди карт і закріплюють знання, отримані під час роботи з підручником та атласом. Кількість карт і їхня тематика дозволяють виконати всі практичні роботи, рекомендовані діючою навчальною програмою. Поєднання атласу та контурних карт допомагає розвивати просторове мислення, формує навички роботи з картографічними матеріалами, вчить читати й аналізувати карти, а також зіставляти статистичні та картографічні дані. Комплект стане зручним доповненням до уроків географії, практичних робіт і домашніх завдань, а також допоможе учням підготуватися до перевірки знань.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко І. С.</param>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
@@ -91138,7 +91601,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас + Контурні карти (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Щупак І.Я</param>
 <param name="Предмет">Всесвітня історія, Історія України</param>
 <param name="Мова">українська</param>
@@ -98731,7 +99194,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Всесвітня історія. Історія України (інтегрований курс) 8 клас. Атлас (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Структура та зміст атласу забезпечує послідовне висвітлення тем двох навчальних курсів «Всесвітньої історії» та «Історії України» тематичними картами, відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7–9 класах». Зміст цього видання суттєво розвантажено, подано тільки ті карти, що ілюструють головні теми навчальних курсів. Тож учні зможуть здобувати знання на основі опрацювання менших обсягів інформації. Атлас можна використовувати як на уроках з курсу «Всесвітньої історії», так і на уроках «Історії України». Тема Східного світу з курсу всесвітньої історії розкрита через окрему карту Персії, Індії, Китаю та Японії, де показано  утворення держави Сефевідів, Великих Моголів, імперії Цін, Японії за Токугавою, європейські колонії в Азії. Видання має гарний візуальний культурний контекст: його проілюстровано фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Щупак І.Я</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -98742,7 +99205,29 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-991-441-5</param>
 <param name="Видавництво">Оріон</param></offer>
-
+<offer id="31532" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 8 клас Інтегрований курс Щупак І.Я. (2025 рік)</name>
+<vendorCode>9789669914422</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-8-klas-intehrovanyi-kurs-shchupak-i-ia-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31532/nush_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_8_klas_integrovaniy_kurs_shchupak_i_ya_2025_rik.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 8 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії – 5 з курсу історії України та 6 із всесвітньої історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12 (кількість карт: 26)</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-991-442-2</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="31533" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 8 клас Інтегрований курс Щупак І.Я. (2025 рік)</name>
 <vendorCode>9789669914415, 9789669914422</vendorCode>
@@ -98754,7 +99239,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 8 клас. Атлас + Контурні карти (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас. Структура та зміст атласу забезпечує послідовне висвітлення тем двох навчальних курсів «Всесвітньої історії» та «Історії України» тематичними картами, відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7–9 класах». Зміст цього видання суттєво розвантажено, подано тільки ті карти, що ілюструють головні теми навчальних курсів. Тож учні зможуть здобувати знання на основі опрацювання менших обсягів інформації. Атлас можна використовувати як на уроках з курсу «Всесвітньої історії», так і на уроках «Історії України». Тема Східного світу з курсу всесвітньої історії розкрита через окрему карту Персії, Індії, Китаю та Японії, де показано  утворення держави Сефевідів, Великих Моголів, імперії Цін, Японії за Токугавою, європейські колонії в Азії. Видання має гарний візуальний культурний контекст: його проілюстровано фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії – 5 з курсу історії України та 6 із всесвітньої історії.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Щупак І.Я</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -100715,7 +101200,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Пізнаємо Природу, 5 клас, Робочий зошит + тематичне оцінювання (до курсу Біда, Гільберг)    Пізнаємо природу: робочий зошит за Модельною навчальною програмою "Пізнаємо природу 5-6 класи" (інтегрований курс) для закладів загальної середньої освіти (авторський колектив: Д.Д. Біда, Т.Г. Гілберг, Я.І. Колісник).]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Оксана Чухліб, Катерина Левада</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -100750,7 +101235,29 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-991-444-6</param>
 <param name="Видавництво">Оріон</param></offer>
-
+<offer id="31629" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит + Тестові завдання Оріон Підприємництво і фінансова грамотність 8 клас Кузнєцова, Довгань (2025 рік)</name>
+<vendorCode>9789669914385</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-robochyi-zoshyt-testovi-zavdannia-orion-pidpryiemnytstvo-i-finansova-hramotnist-8-klas-kuznietsova-dovhan-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31629/nush_robochiy_zoshit_testovi_zavdannya_orion_pidpri_mnitstvo_i_finansova_gramotnist_8_klas_kuzn_tsova_dovgan_2025_rik.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Підприємництво і фінансова грамотність, 8 клас, Робочий зошит + Тестові завдання, (НУШ)   Що в посібнику:     Практичні кейси і фінансові задачі. Дослідницькі та моделювальні вправи. Тести і ситуаційні завдання. Актуальна й корисна інформація.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Кузнєцова А.Я. Довгань А.І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-991-438-5</param>
+<param name="Видавництво">Оріон</param></offer>
 
 <offer id="31631" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Веселий тренажер Основа Математика 4 клас Завдання для відпрацювання навичок усних та письмових обчислень 5000 завдань (Руденко)</name>
@@ -101604,7 +102111,29 @@
 <param name="ISBN">9786170040725, 9786170040732, 9786170040718, 9786170040701, 9786170042378</param>
 <param name="Формат, розмір">200х260 мм.</param>
 <param name="Видавництво">Основа</param></offer>
-
+<offer id="31677" available="true" in_stock="true" selling_type="r" >
+<name>КОМПЛЕКТ: Рік до школи 5-6 років. Готуємось до школи Підготовка до письма. Основи грамоти. Математика. Природа + Вчуся читати</name>
+<vendorCode>9786170042217, 9786170042996</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/richnyi-kurs-zavdan-z-navchannia-dytyny/pidhotovka-do-shkoly/komplekt-rik-do-shkoly-5-6-rokiv-hotuiemos-do-shkoly-pidhotovka-do-pysma-osnovy-hramoty-matematyka-pryroda-vchusia-chytaty/</url>
+<currencyId>UAH</currencyId>
+<categoryId>117</categoryId>
+<price>300</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31677/komplekt_rik_do_shkoli_5_6_rokiv_gotu_mos_do_shkoli_pidgotovka_do_pisma_osnovi_gramoti_matematika_priroda_vchusya_chitati.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Рік до школи 5-6 років. Готуємось до школи Підготовка до письма. Основи грамоти. Математика. Природа + Вчуся читати.  Комплект “Рік до школи”   У складі комплекту:   1. Готуємось до школи. 5–6 років  Зошит для комплексної та якісної підготовки до школи, що допоможе майбутньому першокласникові легко адаптуватися до навчального процесу! Усередині на вас чекають цікаві різноманітні ігрові завдання, що допоможуть ефективно організувати пізнавальну діяльність дітей шостого року життя. Матеріали робочого зошита спрямовані на:    розвиток графічних навичок письма; опанування дітьми основ грамоти; засвоєння елементарних математичних уявлень; закріплення та розширення знань про природне довкілля.    Завдання відповідають вимогам Базового компонента дошкільної освіти та відповідних розділів чинних програм.  2. Вчуся читати. 5-6 років  «Вчуся читати» – оновлене видання! Тренувальний зошит для дітей від 5 років! Цей зошит допоможе дитині вивчити чи пригадати усі букви, потренуватися у читанні складів, складних звуків та звукових сполучень, простих слів та коротких речень. На сторінках ви знайдете різноманітні цікаві завдання:    з пошуку заданої літери; зі зʼєднанням відповідних букв; з розмальовками; творчі; пошукачі та багато іншого!    Усе, що потрібно для роботи з зошитом, – кольорові олівці, пластилін або інший матеріал для творчості та 10–15 хвилин на день для цікавих занять!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Юрченко Н. Ф., Іванова Г. Ж.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-6 рокiв</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Готуємось до школи</param>
+<param name="Кількість сторінок">112+80</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170042217, 9786170042996</param>
+<param name="Видавництво">Основа</param></offer>
 <offer id="31678" available="true" in_stock="true" selling_type="r" >
 <name>КОМПЛЕКТ: Успішний старт 5+ Школа Особистість дитини та соціум+Мовлення та культура спілкування+Математика та елементарна логіка+Письмо та дрібна моторика+Літери та початок читання+Природа та охорона довкілля+Мислення, увага та пам&apos;ять</name>
 <vendorCode>1210157</vendorCode>
@@ -102290,7 +102819,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ 8 клас. Комплект Атлас + Контурні карти Географія. Україна: природа, природокористування НУШ 8 клас. Географія. Україна: природа, природокористування. Атлас + Контурні карти. Руденко І. С.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко І. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -102362,7 +102891,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[Геометрія. 8 клас Зошит з елементами STEM Гаращенко А. Зошит з елементами STEM (Геометрія. 8 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані й під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Альона Гаращенко</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -102375,9 +102904,78 @@
 <param name="ISBN">978-617-8370-71-8</param>
 <param name="Формат, розмір">205х260 мм.</param>
 <param name="Видавництво">Генеза</param></offer>
-
-
-
+<offer id="31717" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит з елементами STEM Генеза Алгебра 8 клас Гаращенко (2025 рік)</name>
+<vendorCode>9786178370664</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-z-elementamy-stem-heneza-alhebra-8-klas-harashchenko-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31717/nush_zoshit_z_elementami_stem_geneza_algebra_8_klas_garashchenko_2025_rik.jpg</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[Алгебра. 8 клас Зошит з елементами STEM Гаращенко А. Зошит з елементами STEM (Алгебра. 8 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані і під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Альона Гаращенко</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8370-66-4</param>
+<param name="Формат, розмір">205х260 мм.</param>
+<param name="Видавництво">Генеза</param></offer>
+<offer id="31718" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит з елементами STEM Генеза Геометрія 7 клас Гаращенко (2025 рік)</name>
+<vendorCode>9786178370657</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-z-elementamy-stem-heneza-heometriia-7-klas-harashchenko-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31718/nush_zoshit_z_elementami_stem_geneza_geometriya_7_klas_garashchenko_2025_rik.png</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[Геометрія. 7 клас Зошит з елементами STEM Гаращенко А. Зошит з елементами STEM (Геометрія. 7 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані як під час уроків, так і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Альона Гаращенко</param>
+<param name="Мова">українська</param>
+<param name="Вік">7 клас</param>
+<param name="Тип">Навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8370-65-7</param>
+<param name="Формат, розмір">205х260 мм.</param>
+<param name="Видавництво">Генеза</param></offer>
+<offer id="31719" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит з елементами STEM Генеза Алгебра 7 клас Гаращенко (2025 рік)</name>
+<vendorCode>9786178370640</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-z-elementamy-stem-heneza-alhebra-7-klas-harashchenko-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31719/nush_zoshit_z_elementami_stem_geneza_algebra_7_klas_garashchenko_2025_rik.jpg</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[Алгебра. 7 клас Зошит з елементами STEM Гаращенко А. Зошит з елементами STEM (Алгебра. 7 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані і під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Альона Гаращенко</param>
+<param name="Мова">українська</param>
+<param name="Вік">7 клас</param>
+<param name="Тип">Навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8370-64-0</param>
+<param name="Формат, розмір">205х260 мм.</param>
+<param name="Видавництво">Генеза</param></offer>
 <offer id="31720" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Зошит з математики 2 клас Генеза Істер (2025 рік)</name>
 <vendorCode>9789661113120</vendorCode>
@@ -103792,7 +104390,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Англійська мова. Зошит з письма для 1 класу (до підручника Г. Мітчелла). Напівдруковані літери Зошит укладено відповідно до Типової освітньої програми для 1-2 класів, розробленої під керівництвом Савченко О. Я., і підручника Англійська мова : підручник для 1 класу закладів загальної середньої освіти (з аудіосупроводом) / Г. К. Мітчелл. – 2-ге видання, доповнене – К. : Видавництво «Лінгвіст», 2024. Посібник розроблено з використанням напівдрукованих літер, що допоможе учням легко опанувати графіку англійської мови.    Для учнів 1 класу та вчителів англійської мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>80</quantity_in_stock>
 <param name="Автор">Косован О., Вітушинська Н.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -104425,7 +105023,7 @@
 <vendor>Літера</vendor>
 <description>
 <![CDATA[Діагностувальні роботи до підручника Іщенко та ін. "Я досліджую світ. 2 клас" (2025 рік)  Даний посібник містить 9 діагностувальних робіт до підручника "Я досліджую світ. 2 клас" О.Л.Іщенко, А.Ю.Іщенко, О.М.Кліщ, Л.З.Козак]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Іщенко О.Л., Сіменик Є.С.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -105650,7 +106248,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Шпаргалка для учня та учениці. Фізика. 7-11 клас  1. Новинка від Ранок. Наочні посібники шпаргалка з фізики для учнів 7-11 класів (з системою одиниць фізичних величин (SI), формулами, значення, тощо) 2. Зручний формат, у вигляді книжечки, має кишеньковий розмір 10,3х13,9 см. 3. Шпаргалка двостороння, складається гармошкою 4. Має 5 перфорацій 5. Надрукована на крейдованому папері щільністю 300 мг. 6. Рекомендовано для багаторазового використання 7.  Поверхня вкрита глянцевою ламінацією з обох боків. Надійно захищає наочність від зовнішнього впливу: сонця, вологи, пилу та забруднень. 8. Містить корисну інформацію про:    Основні одиниці (SI) та її похідні Оптику. Атом та атомне ядро Магнітне поле. Електричні та теплові явища Взаємодію тіл. Динаміку Взаємозв’язок між деякими фізичними величинами Фундаментальні фізичні константи. Префікси кратних одиниць (SI)   9. Використовуємо шпаргалку для вивчення та повторення навчального матеріалу. Готуватись до уроків фізики просто з компактною шпаргалкою для учнів 7–11 класів! Зручний кишеньковий формат (103×139 мм), у розгорнутому вигляді — 618×139 мм, дозволяє брати з собою в школу чи на заняття.  Шпаргалка містить найважливіші теми фізики, включаючи:    одиниці SI, формули, константи, оптику, динаміку, електричні й теплові явища.   Складається гармошкою, має 5 перфорацій, надрукована на щільному крейдованому папері з глянцевою ламінацією — не боїться вологи та забруднень. Рекомендована для багаторазового використання. Ідеально підходить для учнів 7–11 класів, батьків, які прагнуть допомогти дітям з підготовкою, та вчителів як наочний матеріал.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Без автора</param>
 <param name="Мова">українська</param>
 <param name="Вік">7-11 клас</param>
@@ -106049,7 +106647,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Пізнаємо Природу. 5 клас. Мої досягнення НУШ  Зошит для самооцінювання і перевірних робіт. 5 клас НУШ. Пізнаємо Природу. Мої досягнення (Автор Коршевнюк Т.В.)]]></description>
-<quantity_in_stock>84</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Коршевнюк</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -106382,7 +106980,7 @@
 <vendor>Літера</vendor>
 <description>
 <![CDATA[Українська мова. Підручник для 8 класу НУШ  Підручник "Українська мова" авторів Анастасії Онатій та Тараса Ткачука рекомендовано Міністерством освіти і науки України. Підручник відповідає модельній навчальній програмі "Українська мова. 7-9 класи" для закладів загальної середньої освіти (автори: Голуб Н.Б., Горошкіна О.М.)]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Анастасія Онатій, Тарас Ткачук</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -106877,7 +107475,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Атлас + Контурні карти Всесвітня історія. Історія України НУШ 6 клас. Інтегрований курс   Атлас. Інтегрований курс історії для 6 класу – перший систематичний курс історії в середній школі. З його особливостей: вивчення давньої історії України як частини всесвітньої історії; викладення історичного матеріалу від появи первісних людей до падіння Західної Римської імперії. Розпочинається атлас сторінкою-нагадуванням «Як читати історичні карти». Усі 33 карти атласу розкривають розуміння цивілізаційної значущості стародавнього періоду в історії України, Європи та світу в цілому. Антична цивілізація, як основа для подальшого розвитку європейського суспільства, займає центральне місце в атласі, 21 карта присвячена цій темі. Усі карти в атласі комплексні – будь-який історичний час для кожної теми показаний на карті з усіх його боків: культові постаті, зміни кордонів і меж, завоювання територій, залежні території, міста, сільськогосподарські культури, корисні копалини, війни та битви, культура та просвітництво тощо.  Контурні карти укладено відповідно до чинної навчальної програми з географії для 6 класу. Завдання в контурних картах відповідають віковим особливостям учнів та сформовані так, щоб закріпити теоретичні знання здобуті під час вивчення окремих навчальних тем і виконати всі практичні роботи, передбачені програмою.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
 <param name="Тип">Атлас+Контурні карти</param>
@@ -107541,7 +108139,29 @@
 <param name="ISBN">9786170998224</param>
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
+<offer id="31983" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит та діагностичні роботи Генеза Географія 8 клас Гільберг (2025 рік)</name>
+<vendorCode>9786178370817</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-robochyi-zoshyt-ta-diahnostychni-roboty-heneza-heohrafiia-8-klas-hilberh-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>120</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31983/nush_robochiy_zoshit_ta_diagnostichni_roboti_geneza_geografiya_8_klas_gilberg_2025_rik.jpg</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[Географія. 8 клас. Робочий зошит та діагностичні роботи - Гільберг Т.Г.  Робочий зошит містить різноманітні види завдань, спрямовані на розвиток пізнавальних інтересів учнів, підвищення мотивації до навчання, відпрацювання практичних умінь і навичок. У виданні подано контурні карти та завдання для роботи з ними. У посібнику представлено практичні роботи, передбачені навчальною програмою, а також алгоритми їх виконання. Робочий зошит можна використовувати як для роботи на уроках, так і для виконання домашніх завдань.     У додатку-вкладці вміщено комплексні підсумкові роботи за групами результатів за І та ІІ семестри (у 2-х варіантах).]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гільберг Т., Довгань А., Савчук І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">104</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8370-81-7</param>
+<param name="Видавництво">Генеза</param></offer>
 <offer id="31984" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит для формувального та підсумкового оцінювання Генеза Всесвітня історія 8 клас Ладиченко Т. (2025 рік)</name>
 <vendorCode>9786178370862</vendorCode>
@@ -107576,7 +108196,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[Громадянська освіта. 8 клас. Зошит для формувального та підсумкового оцінювання - Білай Ю., Савко О. Навчальний посібник підготовлено відповідно до модельних навчальних програм «Громадянська освіта. 8 клас» (авт.: Васильків І. Д., Кравчук В. М., Танчин І. З.) та «Громадянська освіта. 8 клас» (авт.: Пометун О. І., Ремех Т. О., Сєрова Г. В.).  Про себе, про суспільство, про життя поруч з іншими  Навчальний посібник з громадянської освіти для 8 класу – не просто супровід до уроків, а простір для роздумів і самовираження. Він створений для того, щоб допомогти восьмикласникам та восьмикласницям побачити себе як частину суспільства, осмислити свої права, потреби, цінності, навчитися співжити з іншими у світі, який змінюється.  Що ви знайдете на сторінках навчального посібника?  ► Відповідність змісту модельних навчальних програм «Громадянська освіта. 8 клас» (авт.: Васильків І. Д., Кравчук В. М., Танчин І. З.) та «Громадянська освіта. 8 клас» (авт.: Пометун О. І., Ремех Т. О., Сєрова Г. В.). ► Враховано вимоги Державного стандарту громадянської та історичної галузі,  критеріальність трьох груп результатів. ► Теми, близькі до щоденного досвіду дитини: культура, ідентичність, стосунки, стереотипи, самореалізація, довіра, громадянська активність. ► Завдання, які заохочують до пізнання, мотивують думати, аналізувати ситуації, формувати ставлення, шукати аргументи. ► Прості формулювання із глибокими ціннісними смислами: у кожній вправі –  ціннісне запитання. Тут є місце для сумнівів, гіпотез, відкриттів. ► Діяльнісний підхід в основі: через дію, приклад, вибір і емоцію учні поступово рухаються до усвідомлення себе і свого місця в суспільстві.  Інклюзивний підхід, що враховує різні освітні потреби  ► Завдання адаптовані для учнів / учениць ІІ–IV рівнів підтримки. ► Структура передбачає послідовні кроки виконання, спрощену рефлексію. ► Завдання містять зорову та дієву опору: «познач», «вибери», «з’єднай», «розфарбуй», «впиши». ► Відсутні мовленнєві конструкції на зразок «розкажи» – усе продумано так, щоб діти без мовлення також могли виконувати завдання. Для кого цей зошит? ► Для вчителів, які шукають не лише ефективну, а й інноваційну форму навчання. ►Для асистентів, тьюторів, які підтримують дітей з ООП. ► Для батьків, які хочуть залучити дитину до розмови про світ, у якому вона живе. Зошит навчає бути вільним, але відповідальним! Різним, але включеним! Сильним, але чутливим до інших! З думкою про вчителя та учнів!]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Білай Юрій, Савко Оксана</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -112921,7 +113541,7 @@
 <vendor>Талант</vendor>
 <description>
 <![CDATA[Зошит навчальних досягнень з української літератури. 7 клас Посібник укладено відповідно до чинної модельної програми з української літератури (автори: Т. Яценко, В. Пахаренко, С. Шило, О. Слижук та ін.) з урахуванням вимог Державного стандарту освіти – оцінювання за чотирма групами результатів. Видання містить різноманітні завдання з української літератури різного рівня складності. Посібник призначено для якісного вимірювання рівня навчальних досягнень учнів 7 класу. У зошиті представлено по дві роботи для поточного оцінювання (ПО) та по одній підсумковій роботі (ПР) для всіх чотирьох груп результатів у кожному семестрі (згідно з вимогами МОН України – лист «Про окремі питання оцінювання результатів навчання» від 14.03.2025 за № 1/4895–25).   Для учнів, учителів і батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Авраменко О.М., Тищенко З.Р.</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -112945,7 +113565,7 @@
 <vendor>Талант</vendor>
 <description>
 <![CDATA[Зошит навчальних досягнень з української мови. 7 клас Посібник укладено відповідно до чинної модельної програми з української мови (автори: О. Заболотний, В. Заболотний, В. Лавринчук та ін.) з урахуванням вимог Державного стандарту освіти – оцінювання за чотирма групами результатів. Видання містить різноманітні завдання з української мови різного рівня складності. Посібник призначено для якісного вимірювання рівня навчальних досягнень учнів 7 класу. У зошиті представлено по дві роботи для поточного оцінювання (ПО) та по одній підсумковій роботі (ПР) для всіх чотирьох груп результатів у кожному семестрі (згідно з вимогами МОН України – лист «Про окремі питання оцінювання результатів навчання» від 14.03.2025 за № 1/4895–25).    Для учнів, учителів і батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Авраменко О.М., Тищенко З.Р.</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -114871,7 +115491,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Комплект Маленький розумник 2-3 роки: Велика книга завдань + Велика книга дошкільнятка + Прописи + Велика книга тестів        1. Маленький розумник – Велика книга завдань з наліпками. 2–3 роки        Ця книжка познайомить вашого малюка з буквами українського алфавіту, цифрами, геометричними фігурами, поняттями «великий і малий», «високий і низький», «один і багато». Дитина також навчиться малювати прості лінії, порівнювати предмети за розміром, формою, кольором, візерунком, знаходити пару, установлювати логічні зв’язки між предметами та добирати узагальнювальні назви. Видання призначене для спільної роботи дітей віком від двох років з батьками.     2. Велика книга дошкільнятка – Мені 2 роки 120 наліпок        Ця книжка допоможе вам організувати пізнавальне й захопливе дозвілля для малюка. Яскраві ілюстрації привернуть його увагу, цікаві завдання допоможуть пізнати світ, запам’ятати щось нове, розвинути увагу й мислення, а робота з наліпками сприятиме покращанню дрібної моторики. Матеріал у кожному розділі подано від простого до складного, а кмітливі персонажі, що мандрують сторінками книжки, заохочуватимуть малюка виконувати їх. Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.      3. Маленький розумник – Прописи від 2 років         Ця книга познайомить вашого малюка з прописами. Видання містить вправи, які допоможуть розвинути графічні навички, творче мислення, а також пробудити інтерес до письма. Займаючись із цими прописами, малюк навчиться штрихувати, малювати прямі та хвилясті лінії, акуратно домальовувати та розфарбовувати картинки, що зробить заняття набагато цікавішими. Видання призначене для спільної роботи дорослих з дітьми від двох років.     4. Маленький розумник – Велика книга тестів для малят. 2-3 роки        Ця книжка допоможе малюку перевірити знання з різних тем, закріпити їх та поглибити. Матеріал із математики, логіки та довкілля підібрано з урахуванням вікових можливостей дитини та програм дошкільного розвитку. Додаткові питання поглиблять роботу з посібником: допоможуть розвинути логічне мислення, увагу та пам’ять, розширять словниковий запас і спонукатимуть формувати й висловлювати власну думку. Наліпки в роботі з питаннями та завданнями потренують дрібну моторику. Видання призначене для спільної роботи дорослих із дітьми від двох років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">2-3 роки</param>
 <param name="Тип">Нав­чальний посібник, комплект</param>
@@ -124395,7 +125015,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Готуємось до НУШ 5-6 років Підготовка до письма + Природа + Математика + Основи грамоти + Вчуся писати друковані літери + Мій альбом для малювання  Зошити з підготовки до 1-го класу НУШ!  Рекомендовано Міністерством освіти і науки України!  Як підготувати дитину до 1-го класу НУШ? Ми розробили зошити на допомогу майбутньому першокласникові, спрямовані на:    вивчення елементарних математичних уявлень та основ грамоти; підготовку до письма; розвиток логічного мислення; опанування вміння узагальнювати, аналізувати, порівнювати!    Усе, що потрібно для роботи із зошитом,– кольорові олівці та 15 хвилин на день. Можна і більше, що залежить від індивідуальних особливостей дитини. Матеріали зошита дібрано так, аби майбутній першокласник чи першокласниця натренували свої вміння, впевнено покрокували у Нову українську школу! Зошити отримали особливу відзнаку — гриф «Рекомендовано Міністерством освіти і науки України». Адже завдання розроблено вчителями та тренерами НУШ, які точно знають, як підготувати дитину до 1-го класу та полегшити майбутню адаптацію у навчальному середовищі. За QR-кодом доступні файли для завантаження з додатковими матеріалами. Зошити стануть корисними батькам для занять із дитиною вдома, вихователям для роботи у ЗДО, а також усім, хто працює із дітьми та готує їх до 1-го класу.  У складі комплекту:       Математика. Робочий зошит. 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Підготовка до письма. Робочий зошит. 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Основи грамоти. Робочий зошит 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Природа. Робочий зошит. За оновленим Базовим компонентом дошкільної освіти.     Мій альбом для малювання. 5-6 років.     Вчуся писати друковані літери. 5-6 років]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5-6 рокiв</param>
 <param name="Тип">Робочі зошити комплект</param>
@@ -124880,7 +125500,7 @@
 <vendor>Весна</vendor>
 <description>
 <![CDATA[Комплект довідників: Мінішпаргалка Весна для 5-11 класів   1. Мінішпаргалка. Хімія. 7-11 клас   Компактний довідник, який містить найважливіші правила, формули, таблиці та поняття зі шкільного курсу хімії. На 16 сторінках зібрано лише корисну й необхідну інформацію для швидкого повторення матеріалу та зручного користування під час навчання. У посібнику подано основні хімічні формули, валентності, періодичну систему, типи реакцій, властивості речовин і ключові теми, що вивчаються у 7–11 класах. Матеріал структурований коротко та зрозуміло, без зайвої теорії, щоб учень міг легко знайти потрібну інформацію у будь-який момент. Завдяки компактному мініформату шпаргалка завжди буде під рукою — у школі, вдома чи під час підготовки до контрольних робіт і тестів. Надійний помічник для учнів, які хочуть систематизувати знання та впевнено орієнтуватися у шкільному курсі хімії.   2. Мінішпаргалка. Фізика. 7-9 клас   Компактний довідник, у якому зібрано найважливіші формули, правила, закони та поняття шкільного курсу фізики. На 16 сторінках подано лише необхідну інформацію для швидкого повторення та зручного користування під час навчання. У посібнику зібрано основні теми з механіки, теплових явищ, електрики, оптики та інших розділів фізики, які вивчаються у 7–9 класах. Матеріал структурований коротко й зрозуміло, без зайвої теорії, щоб учень міг легко знайти потрібну формулу чи правило у будь-який момент. Завдяки компактному формату мінішпаргалка завжди буде під рукою — у школі, вдома чи під час підготовки до контрольних робіт. Надійний помічник для учнів, які хочуть швидко систематизувати знання та впевнено почуватися на уроках фізики.   3. Мінішпаргалка. Українська мова. Фонетика. Морфеміка. Морфологія. 5-11 клас   Компактний довідник, у якому зібрано найважливіші правила та поняття шкільного курсу української мови. На 16 сторінках подано лише необхідну інформацію: звуки й букви, будову слова, частини мови, орфограми, мовні правила, схеми та таблиці для швидкого повторення матеріалу. Посібник допоможе легко систематизувати знання, швидко знаходити потрібні теми та краще підготуватися до уроків, контрольних робіт і тестів. Матеріал викладено коротко, зрозуміло та без зайвої теорії, що робить шпаргалку зручною для щоденного використання. Завдяки компактному мініформату довідник завжди буде під рукою — у школі, вдома чи під час підготовки до занять. Чудовий помічник для учнів 5–11 класів, які прагнуть впевнено володіти правилами української мови.   4. Мінішпаргалка. Українська мова. Сінтаксіс 5-11 клас   Компактний довідник, який допоможе швидко повторити та систематизувати найважливіші теми з синтаксису української мови. На 16 сторінках зібрано основні правила, схеми, види речень, члени речення, пунктуаційні особливості та інші важливі теми шкільної програми. Матеріал подано коротко, зрозуміло та структуровано, щоб учень міг легко знайти потрібну інформацію під час уроків, виконання домашніх завдань або підготовки до контрольних і тестів. Лише найнеобхідніше — без зайвого перевантаження теорією. Завдяки зручному мініформату шпаргалку легко носити із собою та використовувати у будь-який момент. Надійний помічник для учнів 5–11 класів, який допоможе краще засвоїти правила синтаксису та впевнено застосовувати їх на практиці.   5. Мінішпаргалка. Англійська мова 5-11 клас   Компактний довідник, у якому зібрано найнеобхідніші правила та теми шкільного курсу англійської мови. На 16 сторінках подано лише корисну інформацію: граматичні правила, часові форми, основні конструкції, таблиці, винятки та найуживанішу лексику для швидкого повторення та навчання. Завдяки зручному мініформату шпаргалка легко поміститься у рюкзак чи пенал і завжди буде під рукою під час уроків, виконання домашніх завдань або підготовки до контрольних робіт. Матеріал структурований просто та зрозуміло, щоб учень міг швидко знайти потрібну тему та легко повторити основні правила англійської мови. Ідеальний помічник для школярів 5–11 класів, який допоможе систематизувати знання, покращити розуміння граматики та впевненіше користуватися англійською мовою у навчанні.   6. Мінішпаргалка. Геометрія. 7-9 клас   Компактний довідник, у якому зібрано найважливіші правила, формули, теореми та геометричні поняття шкільного курсу. Уся інформація подана коротко, зрозуміло та структуровано, щоб учень міг швидко знайти потрібну тему та легко повторити матеріал. На 16 сторінках — лише найкорисніше: властивості геометричних фігур, формули площ і об’ємів, основні теореми, ознаки рівності трикутників, правила побудови та інші важливі теми без зайвого перевантаження теорією. Завдяки зручному мініформату шпаргалку легко носити із собою та використовувати під час підготовки до уроків, самостійних і контрольних робіт. Надійний помічник для учнів 7–9 класів, який допоможе систематизувати знання та впевнено почуватися на уроках геометрії.   7. Мінішпаргалка. Алгебра 7-11 клас   Компактний довідник-помічник, у якому зібрано найважливіші правила, формули, властивості та приклади з алгебри шкільної програми. Посібник створений для швидкого повторення матеріалу, підготовки до самостійних, контрольних і діагностичних робіт. Уся інформація подана коротко, зрозуміло та структуровано — без зайвого теоретичного навантаження. У посібнику:    основні числові множини; модуль числа та його властивості; степені та їх властивості; формули скороченого множення; розкладання многочленів на множники; квадратні корені та їх властивості; таблиця квадратів цілих чисел; приклади застосування формул і правил.    Завдяки компактному формату «Мінішпаргалку» зручно носити із собою та використовувати у школі, вдома чи під час підготовки до уроків.   8. Мінішпаргалка. Математика. 5-6 клас   компактний довідник для школярів, у якому зібрано найважливіші правила, формули та математичні поняття шкільної програми. Усе подано коротко, зрозуміло та без зайвої інформації, щоб учень міг швидко знайти потрібну тему та легко повторити матеріал. Зручний формат дозволяє завжди мати шпаргалку під рукою — у школі, вдома чи під час підготовки до самостійних і контрольних робіт. Посібник допоможе систематизувати знання, краще запам’ятати основні теми та впевненіше виконувати математичні завдання. Ідеальний помічник для швидкого повторення, підготовки до уроків і щоденного навчання у 5–6 класах.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5-11 класи</param>
 <param name="Тип">Шпаргалка</param>
@@ -127576,7 +128196,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої улюбленці — Лисички   Серія «Мої улюбленці» запрошує поринути у світ кумедних і милих звіряток! Кожна книжка містить цікаві завдання на логіку, лічбу, увагу та фантазію, а також наліпки, що потренують дрібну моторику пальців рук. Серія допоможе малюкам розвинути корисні навички й захопливо провести час. Тож мерщій обирайте улюблених героїв і вперед до пригод!]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Цибань І. О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 3 років</param>
@@ -127600,7 +128220,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої улюбленці — Песики   Серія «Мої улюбленці» запрошує поринути у світ кумедних і милих звіряток! Кожна книжка містить цікаві завдання на логіку, лічбу, увагу та фантазію, а також наліпки, що потренують дрібну моторику пальців рук. Серія допоможе малюкам розвинути корисні навички й захопливо провести час. Тож мерщій обирайте улюблених героїв і вперед до пригод!]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Цибань І. О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 3 років</param>
@@ -128939,7 +129559,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.]]></description>
-<quantity_in_stock>39</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Щупак І.Я</param>
 <param name="Предмет">Всесвітня історія, Історія України</param>
 <param name="Мова">українська</param>
@@ -128951,7 +129571,29 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669915429</param>
 <param name="Видавництво">Оріон</param></offer>
-
+<offer id="33291" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
+<vendorCode>9789669915436</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/products/33291/nush-konturn-karti-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-8-klas-ntegrovaniy-kurs-shchupak-ya-2025-r-k-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти Всесвітня історія Історія України інтегрований курс 9 клас Оріон. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Предмет">Всесвітня історія, Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915436</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="33293" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас Оріон Географія: Україна та світове господарство 9 клас Руденко, 2026 рік</name>
 <vendorCode>9789669915443</vendorCode>
@@ -128963,7 +129605,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Атлас Географія: Україна та світове господарство. 9 клас НУШ Атлас допомагає наочно працювати з географічною інформацією та досліджувати особливості розміщення населення, господарства, країн і регіонів. За тематичними картами учні можуть порівнювати території, аналізувати відмінності їхнього розвитку та простежувати взаємозв’язки між природними, демографічними й економічними процесами.]]></description>
-<quantity_in_stock>39</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Руденко І. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9 клас</param>
@@ -132700,7 +133342,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Зошит для самооцінювання і діагностувальних робіт за групами результатів Мої досягнення Пізнаємо природу 6 клас НУШ Автори: Коршевнюк Т. Ярошенко О. Навчальний посібник містить матеріали для оцінювання результатів навчання інтегрованого курсу «Пізнаємо природу» у 6 класі відповідно до підходів, запроваджених у Новій українській школі. Він розроблений відповідно до модельної навчальної програми авторства Т. В. Коршевнюк. Тому цей зошит може використовуватися у навчальному процесі з усіма підручниками, створеними саме до цієї модельної навчальної програми.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Коршевнюк, Ольга Ярошенко</param>
 <param name="Предмет">Пізнаємо Природу</param>
 <param name="Мова">українська</param>
@@ -133033,7 +133675,29 @@
 <param name="Формат, розмір">200 х 275 мм</param>
 <param name="Видавництво">АССА</param></offer>
 
-
+<offer id="33528" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит Генеза Біологія 9 клас, Ольга Кулініч, Людмила Юрченко 2026 рік</name>
+<vendorCode>9786178524449</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-robochyi-zoshyt-heneza-biolohiia-9-klas-olha-kulinich-liudmyla-iurchenko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>120</price>
+<picture>https://knigovan.com/image/catalog/products/33528/nush-robochiy-zoshit-geneza-b-olog-ya-8-klas-kul-n-ch-2025-r-k-1.jpeg</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[9 клас НУШ. Біологія. Робочий зошит (Кулініч О.) Посібник відповідає модельній навчальній програмі «Біологія 7–9» для закладів загальної середньої освіти (автори: Балан П.Г. Кулініч О.М., Юрченко Л.П) та є складником навчально-методичного комплекту до підручника «Біологія, 9 клас» (автори: П. Балан, О. Козленко, О. Кулініч, Л. Юрченко, Л. Остапченко). Містить різні форми роботи з учнями (індивідуальну, парну, групову) та завдання різного рівня складності. Робота з посібником забезпечує реалізацію компетентнісного та діяльнісного підходів в НУШ та інтеграцію навчальних предметів. Особливе місце приділено завданням на розвиток логічного та критичного мислення.    Кожному параграфу підручника відповідає тема в зошиті, що містить різноманітні завдання, спрямовані на формування основних груп загальних результатів навчання в природничій освітній галузі. У кожній темі є рефлексивні завдання, які забезпечують емоційну підтримку учнівства. Для забезпечення дослідницької діяльності учнів у посібнику розміщено інструктивні картки для виконання лабораторних досліджень та практикумів. Інформація, з якою мають працювати здобувачі освіти, представлена у вигляді таблиць, схем, діаграм, світлин тощо. Для усвідомлення закономірностей будови та функціонування людського організму зошит містить завдання практичного спрямування.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Ольга Кулініч, Людмила Юрченко</param>
+<param name="Предмет">Біологія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8524-44-9</param>
+<param name="Видавництво">Генеза</param></offer>
 <offer id="33529" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Збірник задач з параметрами. Основні типи і види 10-12 класи Генеза Олександр Істер, 2026 рік</name>
 <vendorCode>9786178524357</vendorCode>
@@ -133643,7 +134307,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Комплект: Самостійні та контрольні роботи Алгебра + Геометрія 9 клас, Ніна Тарасенкова  1. НУШ Самостійні та контрольні роботи Алгебра 9 клас Ніна Тарасенкова, 2026 рік 2. НУШ Самостійні та контрольні роботи Геометрія 9 клас Ніна Тарасенкова, 2026 рік]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Ніна Тарасенкова</param>
 <param name="Предмет">Алгебра, Геометрія</param>
 <param name="Мова">українська</param>
@@ -133666,7 +134330,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Комплект: Експрес-контроль Алгебра + Геометрія 9 клас, Ніна Тарасенкова  1. НУШ Експрес-контроль Алгебра 9 клас Ніна Тарасенкова, 2026 рік 2. НУШ Експрес-контроль Геометрія 9 клас Ніна Тарасенкова, 2026 рік]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Ніна Тарасенкова</param>
 <param name="Предмет">Алгебра, Геометрія</param>
 <param name="Мова">українська</param>
@@ -134074,7 +134738,31 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-8524-46-3, 978-617-8524-47-0</param>
 <param name="Видавництво">Генеза</param></offer>
-
+<offer id="33591" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект Генеза: Зошит з елементами STEM Алгебра + Геометрія 8 клас Альона Гаращенко, 2025 рік</name>
+<vendorCode>9786178370664, 9786178370718</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/8-klas-1/nush-komplekt-heneza-zoshyt-z-elementamy-stem-alhebra-heometriia-8-klas-alona-harashchenko-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>300</price>
+<picture>https://knigovan.com/image/catalog/products/33591/nush-komplekt-geneza-zoshit-z-elementami-stem-algebra-geometr-ya-9-klas-alona-garashchenko-2026-r-k-1.jpg</picture>
+<vendor>Генеза</vendor>
+<description>
+<![CDATA[Комплект: Алгебра + Геометрія. Зошит з елементами STEM. 8 клас - А. Гаращенко  1. НУШ Зошит з елементами STEM Алгебра 8 клас Альона Гаращенко  Зошит з елементами STEM (Алгебра. 8 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані і під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!  2. НУШ Зошит з елементами STEM Геометрія 8 клас Альона Гаращенко  Зошит з елементами STEM (Геометрія. 8 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані й під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Альона Гаращенко</param>
+<param name="Предмет">Алгебра, Геометрія</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">Робочий зошит, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112+112</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-8370-66-4, 978-617-8370-71-8</param>
+<param name="Формат, розмір">205х260 мм</param>
+<param name="Видавництво">Генеза</param></offer>
 <offer id="33592" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Генеза: Зошит з елементами STEM Алгебра + Геометрія 7 клас Альона Гаращенко, 2025 рік</name>
 <vendorCode>9786178370640, 9786178370657</vendorCode>
@@ -134524,7 +135212,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Математика, 5 клас, Зошит з елементами STEM Альона Гаращенко 2026 рік Зошит з елементами STEM (Математика. 5 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики. Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди до тестів полегшують підготовку до уроку. Після кожного завдання передбачено рефлексію, яка допомагає проаналізувати труднощі, установити зворотний зв’язок і спонукає учнів до усвідомлення власного поступу в навчанні. Авторка пропонує оцінювати групу результатів на основі аналізу діяльності учня / учениці під час виконання завдань. Остаточний вибір переліку вправ для роботи під час уроку та оцінювання за групами результатів навчання, з урахуванням домінівної складової кожної групи результатів, залишається за педагогом. Завдання можуть бути використані і під час уроків, і для самостійної роботи, домашніх завдань або проєктної діяльності. Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Альона Гаращенко</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -134547,7 +135235,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Математика 6 клас. Зошит з елементами STEM Альона Гаращенко 2026 рік Зошит з елементами STEM (Математика. 6 клас) – математичний помічник та цікавий путівник! На його сторінках ви знайдете: захопливі задачі; відеопояснення теми; кросворди й ребуси; онлайн-тести у вигляді QR-кодів для тренування з тієї чи іншої теми; задачі для розв’язування; завдання з реального життя; дослідницькі проєкти, які допоможуть зануритися в інші науки, щоб розкрити красу математики.    Цей зошит створено як інтерактивний інструмент для глибшого опанування тем з математики. Його мета – не лише допомогти учням засвоїти математичні знання, а й розвивати уміння мислити, аналізувати, досліджувати, співпрацювати й застосовувати математику в повсякденному житті. Структура зошита побудована так, щоб чергувалися різні типи діяльності: практичні завдання, творчі вправи, ребуси, проєкти. QR-коди тестів та відео полегшують підготовку до уроку. Крім того, після кожного завдання є рефлексія діяльності, що надає можливість проаналізувати труднощі. Завдання можуть бути використані як під час уроків, так і для самостійної роботи, домашніх завдань або проєктної діяльності.    Навчання за цим посібником – це дослідження, гра, творчість та відкриття!]]></description>
-<quantity_in_stock>42</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Альона Гаращенко</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -134570,7 +135258,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Підприємництво і фінансова грамотність, 9 клас, Робочий зошит та семестрові діагностувальні роботи. Тетяна Гільберг Видання містить різноманітні завдання для відпрацювання навичок і самоконтролю для учнів з усіх тем курсу. Завдання представлено у вигляді тестів, практичних задач, моделювальних ситуацій, творчих завдань тощо.  Призначено на учнів 9 класу, учителів, студентів, а також усіх, хто цікавиться питаннями підприємництва та фінансової грамотності.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг, Ольга Суховій</param>
 <param name="Предмет">Підприємництво і фінансова грамотність</param>
 <param name="Мова">українська</param>
@@ -134593,7 +135281,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Українська література. Зошит для підсумкового оцінювання результатів навчання. 9 клас - Олександр Заболотний У зошиті подано чотири підсумкові роботи для оцінювання результатів навчання за групою результатів 2 та чотири підсумкові роботи для оцінювання результатів навчання за групою результатів 4. Також у зошиті вміщено дві добірки завдань для підсумкового оцінювання результатів навчання за групою результатів 1 (І і ІІ семестри) та передбачено сторінки для письмових робіт (група результатів 3). Кожна підсумкова робота за групою результатів 2 складається з 12 завдань різного виду (по два варіанти), а за групою результатів 4 – з 10 завдань (по два варіанти). Біля завдань указано максимально можливу кількість балів. Для узагальнення вивченого в кінці І і ІІ семестрів запропоновано добірки завдань для проведення літературних вікторин. Цей матеріал можна використати для організації як індивідуальної, так і колективної роботи, а також під час предметних тижнів і конкурсів.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Олександр Заболотний, Віктор Заболотний</param>
 <param name="Предмет">Українська література</param>
 <param name="Мова">українська</param>
