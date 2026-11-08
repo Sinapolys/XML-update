@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-07 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-08 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -11600,7 +11600,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-dpa-kompleksne-vydannia-matematyka-povnyi-povtoriuvalnyi-kurs-abetka-ister-o-s/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>395</price>
+<price>385</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24780/pidgotovka_do_zno_ta_dpa_kompleksne_vidannya_matematika_povniy_povtoryuvalniy_kurs_abetka_ister_o_s.jpg</picture>
 <vendor>Абетка</vendor>
 <description>
@@ -21179,96 +21179,12 @@
 
 
 
-<offer id="25710" available="true" in_stock="true" selling_type="r" >
-<name>Перші слова. Книжка з наліпками: Дівоча кімната</name>
-<vendorCode>9789662847291</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-5-rokiv-2/pershi-slova-knyzhka-z-nalipkamy-divocha-kimnata/</url>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<price>23</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25710/pershi_slova_knizhka_z_nalipkami_divocha_kimnata.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Ця книжка " Перші слова. Книжка з наліпками:    Дівоча кімната " допоможе дівчинці вивчити назви іграшок, меблів й одягу, розвинути мовлення та кмітливість, а також покращити дрібну моторику пальців рук.  Видання містить ілюстрований словничок, у якому підписи поділені на склади. Велика панорамна картинка, кольорові наліпки та незвичайний формат гарантують вам і вашому малюку захопливе й пізнавальне дозвілля!   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Кількість сторінок">6</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662847291</param>
-<param name="Формат, розмір">16,5×21,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="25711" available="true" in_stock="true" selling_type="r" >
-<name>Перші слова. Книжка з наліпками: Захоплива прогулянка</name>
-<vendorCode>9789662847307</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-5-rokiv-2/pershi-slova-knyzhka-z-nalipkamy-zakhoplyva-prohulianka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<price>23</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25711/pershi_slova_knizhka_z_nalipkami_zahopliva_progulyanka.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Ця книжка " Перші слова. Книжка з наліпками:    Захоплива прогулянка " допоможе дитині вивчити назви предметів, які він бачить на прогулянці, а також іграшок та ігор, у які можна гратися на вулиці, розвинути мовлення та кмітливість, а також покращити дрібну моторику пальців рук.  Видання містить ілюстрований словничок, у якому підписи поділені на склади. Велика панорамна картинка, кольорові наліпки та незвичайний формат гарантують вам і вашому малюку захопливе й пізнавальне дозвілля!   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Кількість сторінок">6</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662847307</param>
-<param name="Формат, розмір">16,5×21,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="25712" available="true" in_stock="true" selling_type="r" >
-<name>Перші слова. Книжка з наліпками: Мій дім</name>
-<vendorCode>9789662847314</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-5-rokiv-2/pershi-slova-knyzhka-z-nalipkamy-mii-dim/</url>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<price>23</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25712/pershi_slova_knizhka_z_nalipkami_miy_dim.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Ця книжка " Перші слова. Книжка з наліпками:    Мій дім " допоможе дитині вивчити назви меблів, побутової техніки та предметів інтер’єру, розвинути мовлення та кмітливість, а також покращити дрібну моторику пальців рук.  Видання містить ілюстрований словничок, у якому підписи поділені на склади. Велика панорамна картинка, кольорові наліпки та незвичайний формат гарантують вам і вашому малюку захопливе й пізнавальне дозвілля!   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Кількість сторінок">6</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662847314</param>
-<param name="Формат, розмір">16,5×21,5 см</param>
-<param name="Видавництво">Ула</param></offer>
 
 
-<offer id="25715" available="true" in_stock="true" selling_type="r" >
-<name>Перші слова. Книжка з наліпками: Синє море</name>
-<vendorCode>9789662847321</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-5-rokiv-2/pershi-slova-knyzhka-z-nalipkamy-synie-more/</url>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<price>23</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25715/pershi_slova_knizhka_z_nalipkami_sin_more.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Ця книжка " Перші слова. Книжка з наліпками:    Синє море   "  допоможе дитині вивчити  назви морських мешканців , поповнити словниковий запас, розширити кругозір, розвинути творче мислення, фантазію та кмітливість, а також покращити дрібну моторику пальців рук. Велика панорамна картинка, ілюстрований словничок, кольорові наліпки та незвичайний формат гарантують вам і вашому малюку захопливе й пізнавальне дозвілля!   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Кількість сторінок">6</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662847321</param>
-<param name="Формат, розмір">16,5×21,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 
 
 
@@ -68794,7 +68710,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-pinhvin-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29466/charivna_zima_pingvin_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68818,7 +68734,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-oleniatko-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29467/charivna_zima_olenyatko_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68842,7 +68758,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-myshka-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29468/charivna_zima_mishka_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68866,7 +68782,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-lysychka-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29469/charivna_zima_lisichka_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68890,7 +68806,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-kotyk-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29470/charivna_zima_kotik_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68914,7 +68830,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-yizhachok-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29471/charivna_zima_zhachok_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68938,7 +68854,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-zaichyk-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29472/charivna_zima_zaychik_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -68962,7 +68878,7 @@
 <url>https://knigovan.com/novorichni-sviata/zymovi-nalipky-rozmalovky/charivna-zyma-vedmedyk-nalipky-torsinh-allina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>32</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29473/charivna_zima_vedmedik_nalipki_torsing_allina.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -85179,7 +85095,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-mii-zoshyt-dlia-navchannia-abetka-biolohiia-7-klas-rozdil-diialnist-sobol/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>160</price>
+<price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30659/nush_miy_zoshit_dlya_navchannya_abetka_biologiya_7_klas_rozdil_diyalnist_sobol.jpg</picture>
 <vendor>Абетка</vendor>
 <description>
@@ -96605,7 +96521,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-shvydkochytailyk-pidruchnyky-i-posibnyky-4-klas-posibnyk-z-rozvytku-navychok-shvydkochytannia-savchuk-sapun/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>75</price>
+<price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31346/nush_shvidkochitaylik_pidruchniki_i_posibniki_4_klas_posibnik_z_rozvitku_navichok_shvidkochitannya_savchuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
@@ -97495,29 +97411,7 @@
 <param name="ISBN">9789661054973, 9789661055130</param>
 <param name="Формат, розмір">170х240 мм.</param>
 <param name="Видавництво">Богдан</param></offer>
-<offer id="31451" available="true" in_stock="true" selling_type="r" >
-<name>ТОТО йде в дитячий садок АССА Альона Пуляєва + 60 наліпок</name>
-<vendorCode>9786178387600</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/toto-yde-v-dytiachyi-sadok-assa-alona-puliaieva-60-nalipok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<price>95</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31451/toto_yde_v_dityachiy_sadok_assa_alona_pulya_va_60_nalipok.jpg</picture>
-<vendor>АССА</vendor>
-<description>
-<![CDATA[ТОТО йде в дитячий садок | Альона Пуляєва Пригоди улюбленого персонажа мультфільму тепер і на сторінках книжок! Нещодавно життя Тото дуже змінилося: він уперше пішов до дитячого садочка. Відтак на песика чекає безліч відкриттів і нових знайомств, про які він із задоволенням розповідає в книжці. Разом із Тото та його друзями ваш малюк виконуватиме цікаві завдання, створені спеціально для його віку. І водночас зрозуміє, як усе влаштовано в дитячому садочку!  Чому варто прочитати:  Песик, на ім'я Тото — головний персонаж мультсеріалу від українського YouTube-каналу «Бробакс», який обожнюють тисячі дітлахів. Книжка має безпечні заокруглені кутики, привабливі ілюстрації з яскравими та чистими кольорами та великі зручні наліпки. Під час занять за книгою дитина розвиватиме дрібну моторику, логічне мислення й увагу.  Авторка:  Альона Пуляєва — авторка понад 100 видань для навчання й розвитку дітей, філологиня української мови та літератури. Основне джерело її натхнення — маленька донечка Ася, яка і є першою читачкою та рецензенткою маминих рукописів.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Альона Пуляєва</param>
-<param name="Мова">українська</param>
-<param name="Вік">2+</param>
-<param name="Тип">Розвивальні книжки для малюків</param>
-<param name="Серія">ТОТО</param>
-<param name="Кількість сторінок">24 + 60 наліпок</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-8387-60-0</param>
-<param name="Формат, розмір">223 х 223 мм</param></offer>
+
 
 <offer id="31453" available="true" in_stock="true" selling_type="r" >
 <name>ТОТО пізнає Україну АССА Альона Пуляєва + 60 наліпок</name>
@@ -124272,7 +124166,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-levenia-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33011/knizhka_hmarinka_torsing_levenya_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124296,7 +124190,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-kapibara-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33012/knizhka_hmarinka_torsing_kapibara_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124320,7 +124214,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-koshenia-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33013/knizhka_hmarinka_torsing_koshenya_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124344,7 +124238,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-mavpenia-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33014/knizhka_hmarinka_torsing_mavpenya_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124368,7 +124262,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-porosia-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33015/knizhka_hmarinka_torsing_porosya_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124392,7 +124286,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-cherepashka-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33016/knizhka_hmarinka_torsing_cherepashka_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124416,7 +124310,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-yenotyk-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33017/knizhka_hmarinka_torsing_notik_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124440,7 +124334,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-zaichenia-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33018/knizhka_hmarinka_torsing_zaychenya_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -124926,7 +124820,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Готуємось до НУШ 5-6 років Підготовка до письма + Природа + Математика + Основи грамоти + Вчуся писати друковані літери + Мій альбом для малювання  Зошити з підготовки до 1-го класу НУШ!  Рекомендовано Міністерством освіти і науки України!  Як підготувати дитину до 1-го класу НУШ? Ми розробили зошити на допомогу майбутньому першокласникові, спрямовані на:    вивчення елементарних математичних уявлень та основ грамоти; підготовку до письма; розвиток логічного мислення; опанування вміння узагальнювати, аналізувати, порівнювати!    Усе, що потрібно для роботи із зошитом,– кольорові олівці та 15 хвилин на день. Можна і більше, що залежить від індивідуальних особливостей дитини. Матеріали зошита дібрано так, аби майбутній першокласник чи першокласниця натренували свої вміння, впевнено покрокували у Нову українську школу! Зошити отримали особливу відзнаку — гриф «Рекомендовано Міністерством освіти і науки України». Адже завдання розроблено вчителями та тренерами НУШ, які точно знають, як підготувати дитину до 1-го класу та полегшити майбутню адаптацію у навчальному середовищі. За QR-кодом доступні файли для завантаження з додатковими матеріалами. Зошити стануть корисними батькам для занять із дитиною вдома, вихователям для роботи у ЗДО, а також усім, хто працює із дітьми та готує їх до 1-го класу.  У складі комплекту:       Математика. Робочий зошит. 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Підготовка до письма. Робочий зошит. 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Основи грамоти. Робочий зошит 5-6 років. За оновленим Базовим компонентом дошкільної освіти.     Природа. Робочий зошит. За оновленим Базовим компонентом дошкільної освіти.     Мій альбом для малювання. 5-6 років.     Вчуся писати друковані літери. 5-6 років]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5-6 рокiв</param>
 <param name="Тип">Робочі зошити комплект</param>
@@ -125018,7 +124912,7 @@
 <url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyzhka-khmarynka-torsinh-drakonchyk-z-nalipkamy-oleksandr-ryndia/</url>
 <currencyId>UAH</currencyId>
 <categoryId>126</categoryId>
-<price>39</price>
+<price>44</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33060/knizhka_hmarinka_torsing_drakonchik_z_nalipkami_oleksandr_rindya.jpg</picture>
 <vendor>Торсінг</vendor>
 <description>
@@ -135387,7 +135281,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-albom-heneza-ia-doslidzhuiu-svit-4-klas-tekhnolohichna-haluz-tetiana-hilberh-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>150</price>
+<price>130</price>
 <picture>https://knigovan.com/image/catalog/products/33611/nush-albom-geneza-ya-dosl-dzhuyu-sv-t-4-klas-tehnolog-chna-galuz-g-lberg-1.jpeg</picture>
 <vendor>Генеза</vendor>
 <description>
