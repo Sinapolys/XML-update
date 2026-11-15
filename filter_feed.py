@@ -47,6 +47,8 @@ EXCLUDED_CATEGORIES = {
     "80", "81", "146", "148", "151", "147", "149", "150", "36", "170",
     "172", "171", "173", "174", "175", "176", "177", "178", "60", "61",
     "68", "69",
+    # Підручники (17: 1-4 клас, 62: 5-11 клас) — исключены полностью, вместе с подкатегориями
+    "17", "62",
 }
 
 # Ключові слова в назві товару (без урахування регістру), при наявності яких
@@ -59,6 +61,13 @@ EXCLUDED_NAME_KEYWORDS = [
 
 ]
 
+# Prom читает <name>/<description> как РУССКУЮ версию, а украинскую ищет в <name_ua>/<description_ua>.
+# Если фид только на украинском, Prom пишет «Відсутня назва українською».
+# True -> скрипт сам копирует <name> в <name_ua> и <description> в <description_ua>
+#         (только там, где этих тегов ещё нет). Включайте, когда тексты поставщика украинские.
+# У knigovan всё загружается нормально и без этого, поэтому выключено.
+ADD_UA_FIELDS = False
+
 # Наценка на ВСЕ товары этого поставщика (в долях, 0.10 = +10%).
 # 0 -> товары без особой категории идут по оригинальной цене поставщика.
 MARKUP_DEFAULT = 0
@@ -67,10 +76,8 @@ MARKUP_DEFAULT = 0
 # Перекрывает MARKUP_DEFAULT. Достаточно указать ID родительской категории —
 # подкатегории входят автоматически; если у подкатегории указана своя наценка,
 # она главнее родительской.
-# "17" и "62" — это «Підручники» (1-4 клас и 5-11 клас).
+# Сейчас пусто: учебники (17 и 62) исключены целиком в EXCLUDED_CATEGORIES.
 MARKUP_BY_CATEGORY = {
-    "17": 0.12,
-    "62": 0.12,
 }
 
 
@@ -88,6 +95,10 @@ TENZI_EXCLUDED_CATEGORIES = set()
 
 # Слова в названии товара, при наличии которых товар исключается (без учёта регистра)
 TENZI_EXCLUDED_NAME_KEYWORDS = []
+
+# Копировать <name> -> <name_ua> и <description> -> <description_ua> (см. пояснение выше, у knigovan).
+# Ссылка Tenzi отдаёт украинскую версию, поэтому включено.
+TENZI_ADD_UA_FIELDS = True
 
 # Исключать товары с available="false" (у этого поставщика их ~четверть,
 # при этом quantity_in_stock у них не нулевой, поэтому фильтр по остатку их не ловит)
@@ -115,6 +126,7 @@ SUPPLIERS = [
         "excluded_categories": EXCLUDED_CATEGORIES,
         "excluded_name_keywords": EXCLUDED_NAME_KEYWORDS,
         "skip_unavailable": False,
+        "add_ua_fields": ADD_UA_FIELDS,
         "markup_default": MARKUP_DEFAULT,
         "markup_by_category": MARKUP_BY_CATEGORY,
     },
@@ -126,6 +138,7 @@ SUPPLIERS = [
         "excluded_categories": TENZI_EXCLUDED_CATEGORIES,
         "excluded_name_keywords": TENZI_EXCLUDED_NAME_KEYWORDS,
         "skip_unavailable": TENZI_SKIP_UNAVAILABLE,
+        "add_ua_fields": TENZI_ADD_UA_FIELDS,
         "markup_default": TENZI_MARKUP_DEFAULT,
         "markup_by_category": TENZI_MARKUP_BY_CATEGORY,
     },
@@ -251,6 +264,21 @@ def build_get_markup(parent_of: dict, markup_default: float, markup_by_category:
     return get_markup
 
 
+def add_ua_fields(block: str):
+    """Добавляет в оффер <name_ua> и <description_ua> как копию <name> и <description>,
+    если этих тегов в оффере ещё нет. Текст копируется как есть (вместе с CDATA и
+    спецсимволами). Возвращает (новый_block, добавлено_ли_что-то)."""
+    changed = False
+    for src_tag, ua_tag in (("name", "name_ua"), ("description", "description_ua")):
+        if f"<{ua_tag}>" in block:
+            continue
+        m = re.search(rf"<{src_tag}>(.*?)</{src_tag}>", block, re.DOTALL)
+        if m and m.group(1).strip():
+            block = block[:m.end()] + f"<{ua_tag}>{m.group(1)}</{ua_tag}>" + block[m.end():]
+            changed = True
+    return block, changed
+
+
 def filter_offers(content: str, supplier: dict, parent_of: dict):
     """Применяет к фиду ОДНОГО поставщика его фильтры и наценку.
 
@@ -280,7 +308,7 @@ def filter_offers(content: str, supplier: dict, parent_of: dict):
     stats = {
         "kept": 0, "removed_name": 0, "removed_category": 0, "removed_unavailable": 0,
         "removed_no_stock": 0, "removed_invalid_price": 0, "discounts_removed": 0,
-        "markup_applied": 0, "markup_special": 0,
+        "markup_applied": 0, "markup_special": 0, "ua_fields_added": 0,
     }
 
     def repl(match: re.Match) -> str:
@@ -344,6 +372,12 @@ def filter_offers(content: str, supplier: dict, parent_of: dict):
                     stats["markup_applied"] += 1
                     if special:
                         stats["markup_special"] += 1
+
+        # 8. Украинские поля для Prom (name_ua, description_ua)
+        if supplier.get("add_ua_fields"):
+            block, changed = add_ua_fields(block)
+            if changed:
+                stats["ua_fields_added"] += 1
 
         stats["kept"] += 1
         return block
@@ -470,6 +504,7 @@ def print_stats(name: str, stats: dict):
     print(f"[{name}] Скидок убрано (price <- oldprice): {stats['discounts_removed']}")
     print(f"[{name}] Наценка применена к товарам: {stats['markup_applied']} "
           f"(из них по своим категориям: {stats['markup_special']})")
+    print(f"[{name}] Добавлены name_ua/description_ua: {stats['ua_fields_added']}")
 
 
 def main():
