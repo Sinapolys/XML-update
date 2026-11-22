@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-21 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-22 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -11210,7 +11210,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький художник. Образотворче мистецтво 1 клас (до підручника Масол) " запропоновано творчі завдання з образотворчого мистецтва, розроблені відповідно до Типових освітніх програм МОН України до пiдручника Т. Масол за програмами О. Савченко и Р. Шияна для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Чернявська Т., Демчак С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -11556,7 +11556,27 @@
 <param name="ISBN">9789662845389</param>
 <param name="Формат, розмір">16,5×21,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-
+<offer id="24791" available="true" in_stock="true" selling_type="r" >
+<name>Картинки з мозаїки: Збираю ліс</name>
+<vendorCode>9789662845402</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/kartynky-z-mozaiky-zbyraiu-lis/</url>
+<currencyId>UAH</currencyId>
+<categoryId>127</categoryId>
+<price>65</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24791/kartinki_z_moza_ki_zbirayu_lis.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ"!              Картинки з мозаїки    "Збираю ліс"   не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книгою, малюк пригадає, які бувають свята, познайомиться з дикими та свійськими тваринами, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Смирнова К. В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">3-5 років</param>
+<param name="Серія">Картинки з мозаїки</param>
+<param name="Кількість сторінок">16</param>
+<param name="Тип паперу">кольорова</param>
+<param name="ISBN">9789662845402</param>
+<param name="Формат, розмір">20×28 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 <offer id="24793" available="true" in_stock="true" selling_type="r" >
 <name>Картинки з мозаїки: Збираю ферму</name>
@@ -11569,7 +11589,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ"!       Картинки з мозаїки "Збираю ферму   "  не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книгою, малюк пригадає, які бувають свята, познайомиться з дикими та свійськими тваринами, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
@@ -11590,7 +11610,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ".      Картинки з мозаїки    "Створюю свято   "   не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книгою, малюк пригадає, які бувають свята, познайомиться з дикими та свійськими тваринами, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
@@ -21655,7 +21675,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ"!              Картинки з мозаїки    "Прикрашаю принцес"    Це видання не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книжкою, дівчинка зможе погратись у дизайнера й прикрасити вбрання та зачіски принцесам, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
@@ -21666,27 +21686,7 @@
 <param name="Формат, розмір">20×28 см</param>
 <param name="Видавництво">Ула</param></offer>
 
-<offer id="25863" available="true" in_stock="true" selling_type="r" >
-<name>Картинки з мозаїки: Збираю море</name>
-<vendorCode>9789662846119</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/kartynky-z-mozaiky-zbyraiu-more/</url>
-<currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
-<price>65</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25863/kartinki_z_moza_ki_zbirayu_more.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ"!              Картинки з мозаїки    "Збираю море"    Це видання не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книжкою, малюк познайомиться з мешканцями морів, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смирнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">3-5 років</param>
-<param name="Серія">Картинки з мозаїки</param>
-<param name="Кількість сторінок">16</param>
-<param name="Тип паперу">кольорова</param>
-<param name="ISBN">9789662846119</param>
-<param name="Формат, розмір">20×28 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="25864" available="true" in_stock="true" selling_type="r" >
 <name>Картинки з мозаїки: Збираю галявину</name>
 <vendorCode>9789662846096</vendorCode>
@@ -21698,7 +21698,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Друзі, поспішаємо порадувати вашу малечу новою яскравою серією "КАРТИНКИ З МОЗАЇКИ"!              Картинки з мозаїки    "Збираю галявину"    Це видання не залишить байдужим жодного малюка, адже містить великі яскраві ілюстрації та безліч кольорових наліпок, якими дитина зможе прикрасити сторінки на свій смак. Працюючи з книжкою, малюк познайомиться з комахами й квітами, а також розвине дрібну моторику, творчі здібності, фантазію та акуратність.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
@@ -21892,29 +21892,7 @@
 <param name="ISBN">9789662847567</param>
 <param name="Формат, розмір">21×20 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="25873" available="true" in_stock="true" selling_type="r" >
-<name>Книга з наліпками Додавалки УЛА Цікавий зоопарк</name>
-<vendorCode>9789662847611</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-prybavlialky-ula-tsikavyi-zoopark/</url>
-<currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
-<price>30</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25873/kniga_z_nalipkami_pribavlyalki_ula_tsikaviy_zoopark.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Наліпки-додавалки: Цікавий зоопарк.   Книжка «Цікавий зоопарк» — унікальна можливість залучити дитину до пізнавальної та корисної гри, адже що може бути цікавіше за роботу з наліпками. Видання познайомить малюків з тваринами та допоможе удосконалити навички читання, адже всі підписи до малюнків поділено на склади. Також книжка містить великі яскраві ілюстрації та безліч геометричних наліпок, які потрібно добирати за формою та кольором. Перетворіть спільне дозвілля на корисно проведений час разом!]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Столяренко А. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">Розвивальні книжки для малюків</param>
-<param name="Серія">Наліпки- додавалки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662847611</param>
-<param name="Формат, розмір">17×23,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="25874" available="true" in_stock="true" selling_type="r" >
 <name>Книга з наліпками Додавалки УЛА Барвистий ліс</name>
 <vendorCode>9789662847581</vendorCode>
@@ -23349,29 +23327,7 @@
 <param name="ISBN">978-966-284-797-0</param>
 <param name="Формат, розмір">21×30,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="25965" available="true" in_stock="true" selling_type="r" >
-<name>Книга з наліпками для малят УЛА Мишеня</name>
-<vendorCode>978-966-284-796-3</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-dlia-maliat-ula-myshenia/</url>
-<currencyId>UAH</currencyId>
-<categoryId>124</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25965/kniga_z_nalipkami_dlya_malyat_ula_mishenya.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Наліпки для малят- Мишеня.  Книжка допоможе малюку весело й пізнавально провести час разом з кумедним мишеням Миколою. Виконуючи прості завдання за допомогою наліпок, дитина розвине фантазію, мислення та дрібну моторику пальців рук.     Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">1+</param>
-<param name="Тип">Розвивальні книжки для малюків</param>
-<param name="Серія">Наліпки для малят</param>
-<param name="Кількість сторінок">16</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">978-966-284-796-3</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="25966" available="true" in_stock="true" selling_type="r" >
 <name>Книга з наліпками для малят УЛА Кошеня</name>
 <vendorCode>978-966-284-795-6</vendorCode>
@@ -23464,29 +23420,7 @@
 <param name="ISBN">978-966-284-791-8</param>
 <param name="Формат, розмір">21×30,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="25970" available="true" in_stock="true" selling_type="r" >
-<name>Книга з наліпками для малят УЛА Кавун</name>
-<vendorCode>9789662847925</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyha-z-nalipkamy-dlia-maliat-ula-kavun/</url>
-<currencyId>UAH</currencyId>
-<categoryId>124</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25970/kniga_z_nalipkami_dlya_malyat_ula_kavun.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Наліпки для малят- Кавун.  Книжка допоможе малюку весело й пізнавально провести час разом з кумедним бабкою Зоряною, що мешкає в чарівному будиночку-кавуні. Виконуючи прості завдання за допомогою наліпок, дитина розвине фантазію, мислення та дрібну моторику пальців рук.   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смирнова К. В</param>
-<param name="Мова">українська</param>
-<param name="Вік">1+</param>
-<param name="Тип">Розвивальні книжки для малюків</param>
-<param name="Серія">Наліпки для малят</param>
-<param name="Кількість сторінок">16</param>
-<param name="Тип паперу">кольорова, мелована</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9789662847925</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="25971" available="true" in_stock="true" selling_type="r" >
 <name>Книга з наліпками для малят УЛА Гарбуз</name>
 <vendorCode>978-966-284-790-1</vendorCode>
@@ -24953,7 +24887,28 @@
 <param name="ISBN">9789660735989</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-
+<offer id="26048" available="true" in_stock="true" selling_type="r" >
+<name>Цікавинки з наліпками УЛА Автопарк</name>
+<vendorCode>978-617-7576-89-0</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/tsikavynky-z-nalipkamy-ula-avtopark/</url>
+<currencyId>UAH</currencyId>
+<categoryId>126</categoryId>
+<price>21</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26048/tsikavinki_z_nalipkami_ula_avtopark.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Цікавинки з наліпками УЛА Автопарк.   Із цим виданням так легко створити власний іграшковий автопарк. Усередині міститься 100 яскравих наліпок, за допомогою яких дитина зможе доповнити малюнок різними машинами, спеціальною технікою й інструментами, а також вигадати свої цікаві історії та поринути в захопливі пригоди!]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">3-5 років</param>
+<param name="Тип">Книга з наліпками</param>
+<param name="Серія">Цікавинки з наліпками</param>
+<param name="Кількість сторінок">2</param>
+<param name="Тип паперу">крейдований, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-7576-89-0</param>
+<param name="Формат, розмір">15×20,5 см</param>
+<param name="Видавництво">Ула</param></offer>
 <offer id="26049" available="true" in_stock="true" selling_type="r" >
 <name>Цікавинки з наліпками УЛА  Казкові пригоди</name>
 <vendorCode>978-617-7576-86-9</vendorCode>
@@ -24965,7 +24920,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Цікавинки з наліпками УЛА  Казкові пригоди.  Із цим виданням так легко створити власні казкові пригоди. Усередині міститься 100 яскравих наліпок, за допомогою яких дитина зможе доповнити малюнок різними чарівними предметами та казковими персонажами, а також вигадати свої цікаві історії та поринути в захопливі пригоди!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
 <param name="Тип">Книга з наліпками</param>
@@ -24987,7 +24942,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Цікавинки з наліпками УЛА Крамничка солодощів.   Із цим виданням так легко створити власну іграшкову крамничку солодощів. Усередині міститься 100 яскравих наліпок, за допомогою яких дитина зможе доповнити малюнок різними ласощами й десертами, а також вигадати свої цікаві історії та поринути в захопливі пригоди!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
 <param name="Тип">Книга з наліпками</param>
@@ -24998,7 +24953,28 @@
 <param name="ISBN">978-617-7576-87-6</param>
 <param name="Формат, розмір">15×20,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-
+<offer id="26051" available="true" in_stock="true" selling_type="r" >
+<name>Цікавинки з наліпками УЛА Веселі тварини</name>
+<vendorCode>978-617-7576-88-3</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/tsikavynky-z-nalipkamy-ula-veseli-tvaryny/</url>
+<currencyId>UAH</currencyId>
+<categoryId>126</categoryId>
+<price>21</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26051/tsikavinki_z_nalipkami_ula_veseli_tvarini.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Цікавинки з наліпками УЛА Веселі тварини.   Із цим виданням так легко створити власний іграшковий зоопарк. Усередині міститься 100 яскравих наліпок, за допомогою яких дитина зможе доповнити малюнок різними тваринами, птахами й рослинами, а також вигадати свої цікаві історії та поринути в захопливі пригоди!]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">3-5 років</param>
+<param name="Тип">Книга з наліпками</param>
+<param name="Серія">Цікавинки з наліпками</param>
+<param name="Кількість сторінок">2</param>
+<param name="Тип паперу">крейдований, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-7576-88-3</param>
+<param name="Формат, розмір">15×20,5 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 <offer id="26053" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Банк моїх досягнень 3 клас Портфоліо Робочий зошит Основа (Шелкова)</name>
@@ -30334,7 +30310,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Багато–мало. 2+   Видання «Багато – мало. 2+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, познайомиться з поняттями «багато» й «мало», а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2+</param>
@@ -30347,30 +30323,7 @@
 <param name="ISBN">9789662849066</param>
 <param name="Формат, розмір">16,5×23 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="26414" available="true" in_stock="true" selling_type="r" >
-<name>Мої перші наліпки УЛА Великий – маленький 2+</name>
-<vendorCode>9789662849073</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/moi-pershi-nalipky-ula-velykyi-malenkyi-2/</url>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<price>28</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26414/mo_pershi_nalipki_ula_velikiy_malenkiy_2.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Мої перші наліпки – Великий – маленький. 2+.   Видання «Великий – маленький. 2+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, познайомиться з поняттями «великий» і «маленький», а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Смирнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">2+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Мої перші наліпки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662849073</param>
-<param name="Формат, розмір">16,5×23 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 <offer id="26415" available="true" in_stock="true" selling_type="r" >
 <name>Мої перші наліпки УЛА Зоопарк 0+</name>
 <vendorCode>9789662848984</vendorCode>
@@ -30382,7 +30335,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Зоопарк. 0+.   Видання «Зоопарк. 0+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, дізнається назви диких тварин, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">0+</param>
@@ -30406,7 +30359,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Хто що їст 3+.   Видання «Хто що їсть. 3+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, дізнається, які ласощі люблять різні тварини, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3+</param>
@@ -30431,7 +30384,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Овочі. 1+.   Видання «Овочі. 1+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, дізнається назви овочів, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -30479,7 +30432,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Рахуємо до 5. 2+.  Видання «Рахуємо до 5. 2+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, вивчить цифри та навчиться лічити від 1 до 5, а також зможе доповнити кожну сторінку яскравими наліпками. Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2+</param>
@@ -30492,30 +30445,7 @@
 <param name="ISBN">9789662849080</param>
 <param name="Формат, розмір">16,5×23 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="26421" available="true" in_stock="true" selling_type="r" >
-<name>Мої перші наліпки УЛА Форми 2+</name>
-<vendorCode>9789662849097</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/moi-pershi-nalipky-ula-formy-2/</url>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<price>28</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26421/mo_pershi_nalipki_ula_formi_2.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Мої перші наліпки – Форми 2+.  Видання «Форми. 2+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, вивчить назви різних форм та навчиться впізнавати їх у навколишньому світі, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Смирнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">2+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Мої перші наліпки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662849097</param>
-<param name="Формат, розмір">16,5×23 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 
 <offer id="26423" available="true" in_stock="true" selling_type="r" >
 <name>Мої перші наліпки УЛА Ліс 0+</name>
@@ -30552,7 +30482,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Ферма 0+.   Видання «Ферма. 0+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, дізнається назви тварин та як вони «говорять», а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">0+</param>
@@ -30576,7 +30506,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Кольори 1+.   Видання «Кольори. 1+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, познайомиться з кольорами веселки, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -30600,7 +30530,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Розмовлялки. 1+   Видання «Розмовлялки. 1+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, познайомиться зі звуками навколишнього світу та навчиться вимовляти їх, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -30624,7 +30554,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Машинки 3+.   Видання «Машинки. 3+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, познайомиться з різними машинами, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3+</param>
@@ -30648,7 +30578,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Мої перші наліпки – Фрукти. 1+   Видання «Фрукти. 1+» відкриє малюку привабливий світ книжок: дитина розгляне великі ілюстрації, дізнається назви фруктів, а також зможе доповнити кожну сторінку яскравими наліпками.  Разом із цією книжкою малюк залюбки буде вчитися пізнавати щось нове.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Смирнова К. В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -39465,7 +39395,7 @@
 <vendor>УЛА</vendor>
 <description>
 <![CDATA[Це видання "Знайди та покажи. Святий Миколай" - подарує дитині відчуття чарівної атмосфери зимових свят. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом!  Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.  Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Гілевич М. М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">6+</param>
@@ -94722,7 +94652,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Навчайся писати 1 клас НУШ. Зошит для письма і розвитку мовлення. У 2-х частинах Пономарьова 2025 рік. Навчайся писати 1 клас Пономарьова - зошит для письма і розвитку мовлення, схвалений для використання МОН України у загальноосвітніх навчальних закладах з українською мовою навчання. Навчальний матеріал у зошиті представлений у двох частинах. Завдяки якісно підібраним вправам, учні 1 класу навчаться письма та навичкам розвитку зв'язного мовлення.]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>96</quantity_in_stock>
 <param name="Автор">Катерина Пономарьова</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -94745,7 +94675,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: НУШ 1 клас. Математика. Робочий зошит. У 2-х частинах. Листопад Н. П. (2025 рік) Зошит схвалено до використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України відповідним листом ДНУ «Інститут модернізації змісту освіти». Відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Зошит вибудовано за тематичними принципом: кожна тема містить низку завдань для опрацювання. Завдання покликані не лише формувати математичну компетентність, а й всебічно розвивати дитину. Вправи на знаходження зайвого предмета, об'єднання за спільною ознакою, визначення розташування об'єктів тощо допомагають розвивати логічне мислення та просторове уявлення. Низка вправ пропонує для їх розв'язання розфарбувати предмети, домалювати, з'єднати чи написати за зразком. Завдання підкріплені яскравим ілюстративним супроводом для стимулювання образного мислення дитини. Наприкінці зошит містить додаткові завдання з різних тем. Методичну підтримку від авторки можна знайти в однойменній рубриці «Методична підтримка».]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -134371,7 +134301,7 @@ TYTAN CYTRYNA – ваш надійний вибір для швидкого т�
                          <url>
                                     https://tenzi.ua/products/topefekt-diam-1l
                             </url>
-            <quantity_in_stock>13</quantity_in_stock>
+            <quantity_in_stock>12</quantity_in_stock>
              <price>
                                     476
                             </price>
@@ -134577,7 +134507,7 @@ TYTAN CYTRYNA – ваш надійний вибір для швидкого т�
                          <url>
                                     https://tenzi.ua/products/moldicide-srodek-plesniobojczy-600-ml
                             </url>
-            <quantity_in_stock>17</quantity_in_stock>
+            <quantity_in_stock>15</quantity_in_stock>
              <price>
                                     466
                             </price>
